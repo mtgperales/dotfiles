@@ -108,9 +108,17 @@ alias pubg="flutter pub get"
 alias bdebug="flutter build apk -debug"
 alias run="flutter run"
 alias i3config="vim ~/.config/i3/config"
+alias ga="git add -A"
+alias gc="git commit -m"
+alias gp="git push -u origin"
+alias apk-debug="adb install ~/cyclista/build/app/outputs/flutter-apk/app-debug.apk"
+alias apk-release="adb install ~/cyclista/build/app/outputs/flutter-apk/app-release.apk"
 
 # path
 export PATH=$PATH:~/flutter/bin
 export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
 export ANDROID_SDK_ROOT='/opt/android-sdk'
+export EDITOR='vim'
 
+# NNN config
+export NNN_COLORS="2136"                           # use a different color for each context

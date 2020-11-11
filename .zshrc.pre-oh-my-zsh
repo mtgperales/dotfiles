@@ -206,10 +206,10 @@ compinit -u -d "$compfile"
 promptinit
 prompt adam1
 
-#aliases
-alias funkiiu="python FunKiiU/FunKiiU.py"
+# my own configs
+alias pcloud="pcloudcc -u tristangp@protonmail.com"
+alias pubg="flutter pub get"
 
-export DART_SDK="/home/tan/flutter/bin/cache/dart-sdk/"
-export PATH=$DART_SDK/bin:$PATH
-export PATH=$PATH:/home/tan/flutter/bin
-
+export PATH=$PATH:~/flutter/bin
+export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
+export ANDROID_SDK_ROOT='/opt/android-sdk'

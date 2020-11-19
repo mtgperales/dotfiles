@@ -17,4 +17,4 @@ print "Pushing to Github"
 print "------------------------------------------------------------------"
 git add -A
 git commit -m "Backup dotfiles"
-git push -u origin master
+git push -u origin

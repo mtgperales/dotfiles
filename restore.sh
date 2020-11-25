@@ -5,6 +5,7 @@ print "Restoring i3 config from dotfiles backup"
 cp .config/i3/config ~/.config/i3/config
 print "Done"
 print "Restoring i3status config from dotfiles backup"
+mkdir ~/.config/i3status
 cp .config/i3status/config ~/.config/i3status/config
 print "Done"
 print "Restoring .zshrc config from dotfiles backup"
@@ -14,3 +15,6 @@ print "Source .zshrc config"
 source ~/.zshrc
 print "Done"
 print "Restore Complete"
+print "Restarting i3"
+i3 restart
+print "Done"

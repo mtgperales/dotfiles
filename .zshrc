@@ -119,6 +119,7 @@ export PATH=$PATH:~/flutter/bin
 export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
 export ANDROID_SDK_ROOT='/opt/android-sdk'
 export EDITOR='vim'
+export SCRIPT_DIR='~/.config/i3blocks'
 
 # NNN config
 export NNN_COLORS="2136"                           # use a different color for each context

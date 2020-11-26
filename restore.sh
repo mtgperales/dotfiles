@@ -8,6 +8,9 @@ print "Restoring i3status config from dotfiles backup"
 mkdir ~/.config/i3status
 cp .config/i3status/config ~/.config/i3status/config
 print "Done"
+print "Restoring i3blocks config from dotfiles backup"
+cp -R .config/i3blocks ~/.config/i3blocks
+print "Done"
 print "Restoring .zshrc config from dotfiles backup"
 cp .zshrc ~/.zshrc
 print "Done"

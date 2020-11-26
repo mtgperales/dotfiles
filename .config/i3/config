@@ -26,7 +26,7 @@ set $right semicolon
 ###############        Bar         ##################
 bar {
         position top
-        status_command i3status
+        status_command i3blocks
 }
 
 ###############     Autostart      ##################

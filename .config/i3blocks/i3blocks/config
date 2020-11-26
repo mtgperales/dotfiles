@@ -1,0 +1,71 @@
+# i3blocks configuration file
+#
+# The i3blocks man page describes the usage of the binary,
+# and its website describes the configuration:
+#
+#     https://vivien.github.io/i3blocks
+
+
+# Global properties
+separator=true
+separator_block_width=15
+
+[greetings]
+color=#f5af19
+command=echo "Hello, $USER!"
+interval=once
+
+[cpu_usage2]
+command=~/.config/i3blocks/cpu_usage
+markup=pango
+interval=persist
+#min_width=CPU 100.00%
+REFRESH_TIME=1
+#LABEL=CPU 
+WARN_PERCENT=50
+CRIT_PERCENT=80
+#DECIMALS=2
+
+[memory]
+command=~/.config/i3blocks/memory
+label=RAM 
+interval=1
+
+[battery2]
+command=~/.config/i3blocks/battery2
+markup=pango
+interval=30 
+
+[time]
+#command=date '+%Y-%m-%d %H:%M:%S'
+command=date '+%a %m-%d %I:%M%P'
+interval=1
+
+[backlight]
+command=~/.config/i3blocks/backlight
+label=☀
+interval=1
+#STEP_SIZE=5
+#USE_SUDO=0
+
+[volume-pulseaudio]
+command=~/.config/i3blocks/volume-pulseaudio
+interval=persist
+signal=1
+#MIXER=[determined automatically]
+#SCONTROL=[determined automatically]
+##exposed format variables: ${SYMB}, ${VOL}, ${INDEX}, ${NAME}
+#LONG_FORMAT="${SYMB} ${VOL}% [${INDEX}:${NAME}]"
+#SHORT_FORMAT="${SYMB} ${VOL}% [${INDEX}]"
+AUDIO_HIGH_SYMBOL= 
+AUDIO_MED_THRESH=50
+AUDIO_MED_SYMBOL= 
+AUDIO_LOW_THRESH=0
+AUDIO_LOW_SYMBOL= 
+AUDIO_DELTA=5
+DEFAULT_COLOR="#ffffff"
+MUTED_COLOR="#a0a0a0"
+#USE_ALSA_NAME=0
+#USE_DESCRIPTION=0
+## SUBSCRIBE=1 requires interval=persist and always uses LONG_FORMAT
+SUBSCRIBE=1

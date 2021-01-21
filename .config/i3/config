@@ -51,7 +51,7 @@ bindsym Control+space exec --no-startup-id rofi_run -r
 # core
 #bindsym $Mod+w          exec --no-startup-id exo-open --launch WebBrowser
 bindsym $Mod+w          exec --no-startup-id librewolf
-bindsym $Mod+Shift+w    exec --no-startup-id chromium
+bindsym $Mod+Shift+w    exec --no-startup-id brave
 #bindsym $Mod+Shift+Return          exec --no-startup-id exo-open --launch FileManager
 bindsym $Mod+Shift+Return          exec --no-startup-id pcmanfm
 #bindsym $Mod+Return     exec --no-startup-id exo-open --launch TerminalEmulator
@@ -237,7 +237,7 @@ bindsym $Mod+Control+Shift+minus gaps outer all     minus 5
 ############    application settings   ############
 
 # assign applications to specific workspace
-assign [class="(?i)(?:chromium)"] → 1
+assign [class="(?i)(?:brave)"] → 1
 assign [class="(?i)(?:librewolf)"]   → 2
 assign [class="(?i)(?:code)"]   → 3
 assign [class="(?i)(?:pcmanfm)"]  → 4

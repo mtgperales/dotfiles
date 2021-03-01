@@ -1,13 +1,22 @@
-2021/02/22-10:25:35.609 b8e Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2021/02/22-10:25:37.479 b8e Level-0 table #5: started
-2021/02/22-10:25:37.576 b8e Level-0 table #5: 1205817 bytes OK
-2021/02/22-10:25:37.643 b8e Delete type=0 #3
-2021/02/22-10:34:40.391 e4a Level-0 table #7: started
-2021/02/22-10:34:40.545 e4a Level-0 table #7: 1551365 bytes OK
-2021/02/22-10:34:40.590 e4a Delete type=0 #4
-2021/02/22-10:44:43.039 e8f Level-0 table #9: started
-2021/02/22-10:44:43.237 e8f Level-0 table #9: 2169794 bytes OK
-2021/02/22-10:44:43.304 e8f Delete type=0 #6
-2021/02/22-10:55:45.433 ecf Level-0 table #11: started
-2021/02/22-10:55:45.629 ecf Level-0 table #11: 2422621 bytes OK
-2021/02/22-10:55:45.674 ecf Delete type=0 #8
+2021/02/28-12:00:01.347 312c Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/02/28-12:00:01.348 312c Recovering log #10
+2021/02/28-12:00:01.409 312c Reusing old log /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000010.log 
+2021/02/28-12:03:04.346 315e Level-0 table #14: started
+2021/02/28-12:03:04.480 315e Level-0 table #14: 2471459 bytes OK
+2021/02/28-12:03:04.565 315e Delete type=0 #10
+2021/02/28-12:13:07.233 315e Level-0 table #16: started
+2021/02/28-12:13:07.348 315e Level-0 table #16: 2173832 bytes OK
+2021/02/28-12:13:07.393 315e Delete type=0 #13
+2021/02/28-12:13:07.395 3252 Compacting 4@0 + 1@1 files
+2021/02/28-12:13:07.535 3252 Generated table #17@0: 17 keys, 2700737 bytes
+2021/02/28-12:13:07.645 3252 Generated table #18@0: 18 keys, 1077003 bytes
+2021/02/28-12:13:07.645 3252 Compacted 4@0 + 1@1 files => 3777740 bytes
+2021/02/28-12:13:07.689 3252 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/02/28-12:13:07.689 3252 Delete type=2 #7
+2021/02/28-12:13:07.689 3252 Delete type=2 #9
+2021/02/28-12:13:07.689 3252 Delete type=2 #11
+2021/02/28-12:13:07.689 3252 Delete type=2 #14
+2021/02/28-12:13:07.689 3252 Delete type=2 #16
+2021/02/28-12:22:08.555 335d Level-0 table #20: started
+2021/02/28-12:22:08.653 335d Level-0 table #20: 2386849 bytes OK
+2021/02/28-12:22:08.708 335d Delete type=0 #15

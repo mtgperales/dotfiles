@@ -1,0 +1,5 @@
+2021/02/27-11:14:12.261 760 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/27-11:14:47.768 75e Level-0 table #5: started
+2021/02/27-11:14:47.809 75e Level-0 table #5: 1233 bytes OK
+2021/02/27-11:14:47.875 75e Delete type=0 #3
+2021/02/27-11:14:47.876 75e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

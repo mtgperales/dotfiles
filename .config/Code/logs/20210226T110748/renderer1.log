@@ -1,0 +1,4 @@
+[2021-02-26 11:07:54.757] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tan/Documents/GoLang/.vscode'
+[2021-02-26 11:07:54.777] [renderer1] [error] net::ERR_ADDRESS_UNREACHABLE: Error: net::ERR_ADDRESS_UNREACHABLE
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)

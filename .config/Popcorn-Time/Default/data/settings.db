@@ -3,7 +3,7 @@
 {"key":"disclaimerAccepted","value":1,"_id":"40m4n1wgH1sm89I9"}
 {"key":"movies_default_quality","value":"1080p","_id":"4ikWKVe6gS3wwIdk"}
 {"key":"subtitle_language","value":"en","_id":"KLxSVTNoftj22NFz"}
-{"key":"customSeriesServer","value":"https://popcorn-ru.tk/","_id":"Nep1JIaLH9cAiiix"}
+{"key":"customSeriesServer","value":"","_id":"Nep1JIaLH9cAiiix"}
 {"key":"OnlineSearchCategory","value":"Movies","_id":"PVWcVyQGk5Vnhvpd"}
 {"key":"arch","value":"x64","_id":"R1AlAX3aeqijLfoL"}
 {"key":"opensubtitlesAuthenticated","value":true,"_id":"VGqLsGxZuknp6NzK"}
@@ -24,3 +24,7 @@
 {"key":"releaseName","value":"Love in the Time of Corona","_id":"xy25TbLi8XkoIN0e"}
 {"key":"arch","value":"x64","_id":"R1AlAX3aeqijLfoL"}
 {"key":"os","value":"linux","_id":"qfI9HKpDEAB5FXCX"}
+{"key":"playerVolume","value":"1.00","_id":"r6kRECH6U94S7TnI"}
+{"key":"lastWatchedTime","value":false,"_id":"qHDB8yhXWF7XYQP0"}
+{"key":"totalDownloaded","value":3703887634,"_id":"eWuImZtj8poMku5d"}
+{"key":"totalUploaded","value":48989190,"_id":"2fjX5CuCERhJBqnE"}

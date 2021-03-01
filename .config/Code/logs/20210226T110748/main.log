@@ -1,0 +1,6 @@
+[2021-02-26 11:07:49.026] [main] [info] update#setState idle
+[2021-02-26 11:08:19.030] [main] [info] update#setState checking for updates
+[2021-02-26 11:08:19.049] [main] [error] Error: net::ERR_ADDRESS_UNREACHABLE
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-02-26 11:08:19.049] [main] [info] update#setState idle

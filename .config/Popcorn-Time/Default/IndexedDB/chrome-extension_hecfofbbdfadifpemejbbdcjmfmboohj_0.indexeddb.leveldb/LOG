@@ -1,0 +1,13 @@
+2021/02/21-04:21:14.845 126f Reusing MANIFEST /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/21-04:21:14.846 126f Recovering log #10
+2021/02/21-04:21:14.846 126f Reusing old log /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000010.log 
+2021/02/21-04:21:30.300 12da Level-0 table #15: started
+2021/02/21-04:21:30.332 12da Level-0 table #15: 1091 bytes OK
+2021/02/21-04:21:30.420 12da Delete type=0 #10
+2021/02/21-04:21:30.421 12da Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 212 : 1
+2021/02/21-04:21:30.421 12da Compacting 1@0 + 1@1 files
+2021/02/21-04:21:30.498 12da Generated table #16@0: 20 keys, 622 bytes
+2021/02/21-04:21:30.498 12da Compacted 1@0 + 1@1 files => 622 bytes
+2021/02/21-04:21:30.948 12da compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/21-04:21:30.949 12da Delete type=2 #15
+2021/02/21-04:21:30.949 12da Manual compaction at level-0 from '\x00\x04\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 212 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

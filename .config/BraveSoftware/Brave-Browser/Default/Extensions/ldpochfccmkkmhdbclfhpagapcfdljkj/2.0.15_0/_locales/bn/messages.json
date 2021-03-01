@@ -1,0 +1,70 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label.",
+      "message": "উন্নততর"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "ইনস্টলেশনের পর থেকে স্থানীয়ভাবে কনটেন্ট ডেলিভারি নেটওয়ার্কের ইনজেক্টকৃত রিসোর্সের পরিমান।"
+   },
+   "amountInjectedTitle": {
+      "description": "Amount injected title.",
+      "message": "স্থানীয়ভাবে ইনজেক্টকৃত রিসোর্সের গণনা"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "প্রয়োজনীয় রিসোর্স স্থানীয়ভাবে না পেলে অনুরোধ বাতিল করো।"
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title.",
+      "message": "নিখোঁজ রিসোর্সের জন্য অনুরোধগুলো বন্ধ করো"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Prevent disallowed requests from leaking out to delivery networks."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title.",
+      "message": "লিঙ্ক প্রিফেচিং বন্ধ করো"
+   },
+   "disableProtectionTitle": {
+      "description": "Disable protection title.",
+      "message": "এই সাইটের জন্য নিরাপত্তা চালু/বন্ধ করো"
+   },
+   "enableProtectionTitle": {
+      "description": "Enable protection title.",
+      "message": "নিরাপত্তা চালু করো"
+   },
+   "extensionDescription": {
+      "description": "Extension description.",
+      "message": "\"ফ্রি\", কেন্দ্রীয় কন্টেন্ট ডেলিভারি থেকে তোমাকে রক্ষা করে।"
+   },
+   "optionsTitle": {
+      "description": "Options title.",
+      "message": "অপশন"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "আইকনে ইনজেক্টকৃত রিসোর্সের সংখ্যা দেখাও"
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title.",
+      "message": "ইনজেকসন সংখ্যা আইকনে দেখাও"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Erase sensitive data from allowed CDN requests for improved privacy."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title.",
+      "message": "মেটাডাটা সরাও বৈধ রিকোয়েস্ট থেকে"
+   },
+   "whitelistedDomainsDescription": {
+      "description": "Whitelisted domains description.",
+      "message": "তাদের প্রবেশ তালিকাভুক্ত করার জন্য ডোমেনগুলো দাও। একাধিক ভুক্তি সেমি-কোলন দিয়ে পৃথক করো(;)।"
+   },
+   "whitelistedDomainsTitle": {
+      "description": "Whitelisted domains title.",
+      "message": "পরিদর্শন থেকে ডোমেনগুলো বাদ দাও"
+   }
+}

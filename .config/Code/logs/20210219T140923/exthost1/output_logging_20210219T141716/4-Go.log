@@ -1,0 +1,217 @@
+Tools environment: GOPATH=/home/tan/go
+Installing 9 tools at /home/tan/go/bin in module mode.
+  gopkgs
+  go-outline
+  gotests
+  gomodifytags
+  impl
+  goplay
+  dlv
+  golint
+  gopls
+
+Installing github.com/uudashr/gopkgs/v2/cmd/gopkgs (/home/tan/go/bin/gopkgs) SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline (/home/tan/go/bin/go-outline) SUCCEEDED
+Installing github.com/cweill/gotests/... (/home/tan/go/bin/gotests) SUCCEEDED
+Installing github.com/fatih/gomodifytags (/home/tan/go/bin/gomodifytags) SUCCEEDED
+Installing github.com/josharian/impl (/home/tan/go/bin/impl) SUCCEEDED
+Installing github.com/haya14busa/goplay/cmd/goplay (/home/tan/go/bin/goplay) SUCCEEDED
+Installing github.com/go-delve/delve/cmd/dlv (/home/tan/go/bin/dlv) SUCCEEDED
+Installing golang.org/x/lint/golint (/home/tan/go/bin/golint) SUCCEEDED
+Installing golang.org/x/tools/gopls (/home/tan/go/bin/gopls) SUCCEEDED
+
+All tools successfully installed. You are ready to Go :).
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+/home/tan/Documents/GoLang/test.go:17:6 don't use underscores in Go names; var sum_final should be sumFinal
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+/home/tan/Documents/GoLang/test.go:17:6 don't use underscores in Go names; var sum_final should be sumFinal
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+
+Starting linting the current package at /home/tan/Documents/GoLang
+/home/tan/Documents/GoLang>Finished running tool: /home/tan/go/bin/golint
+

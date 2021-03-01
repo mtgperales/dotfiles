@@ -1,0 +1,5 @@
+2021/02/22-10:25:36.184 b8e Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/22-10:25:38.258 ba6 Level-0 table #5: started
+2021/02/22-10:25:38.291 ba6 Level-0 table #5: 217 bytes OK
+2021/02/22-10:25:38.335 ba6 Delete type=0 #3
+2021/02/22-10:25:38.336 ba6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

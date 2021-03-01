@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -8,8 +15,8 @@ export ZSH="/home/tan/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="spaceship"
-
+#ZSH_THEME="spaceship"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 
 
@@ -105,6 +112,7 @@ source $ZSH/oh-my-zsh.sh
 
 # my own configs
 # alias
+alias vim="nvim"
 alias pcloud="pcloudcc -u tristangp@protonmail.com"
 alias pubg="flutter pub get"
 alias bdebug="flutter build apk -debug"
@@ -115,13 +123,20 @@ alias gc="git commit -m"
 alias gp="git push -u origin"
 alias apk-debug="adb install ~/cyclista/build/app/outputs/flutter-apk/app-debug.apk"
 alias apk-release="adb install ~/cyclista/build/app/outputs/flutter-apk/app-release.apk"
+alias se="sudo edit"
+alias di="sudo dnf install"
+alias du="sudo dnf upgrade"
+alias c="clear"
 
 # path
 export PATH=$PATH:~/flutter/bin
 export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
 export ANDROID_SDK_ROOT='/opt/android-sdk'
-export EDITOR='vim'
+export EDITOR='nvim'
 export SCRIPT_DIR='~/.config/i3blocks'
 
 # NNN config
 export NNN_COLORS="2136"                           # use a different color for each context
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

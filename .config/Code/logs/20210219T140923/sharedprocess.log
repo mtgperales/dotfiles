@@ -1,0 +1,8 @@
+[2021-02-19 14:09:27.066] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tan/.config/Code/User/snippets'
+[2021-02-19 14:10:07.054] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-19 14:10:25.488] [sharedprocess] [info] Installing extension: golang.go
+[2021-02-19 14:10:26.717] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2021-02-19 14:10:27.034] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.golang.go-0.22.1: golang.go
+[2021-02-19 14:10:27.037] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/golang.go-0.22.1
+[2021-02-19 14:10:27.041] [sharedprocess] [info] Installation completed. golang.go
+[2021-02-19 14:10:27.089] [sharedprocess] [info] Extensions installed successfully: golang.go

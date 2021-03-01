@@ -1,0 +1,1513 @@
+[Info  - 2:20:48 PM] 2021/02/19 14:20:48 go env for /home/tan/Documents/GoLang
+(root /home/tan/Documents/GoLang)
+(go version go version go1.15.8 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+GOSUMDB=off
+GOCACHE=/home/tan/.cache/go-build
+GO111MODULE=
+GOINSECURE=
+GOMODCACHE=/home/tan/go/pkg/mod
+GOPRIVATE=
+GOROOT=/usr/lib/golang
+GOFLAGS=
+GOMOD=
+GONOSUMDB=
+GOPATH=/home/tan/go
+GOPROXY=direct
+GONOPROXY=
+
+
+[Info  - 2:20:48 PM] 2021/02/19 14:20:48 go/packages.Load
+	snapshot=0
+	directory=/home/tan/Documents/GoLang
+	query=[./ builtin]
+	packages=2
+
+[Error - 2:21:18 PM] 2021/02/19 14:21:18 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:3:1: expected declaration, found impo
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:19 PM] 2021/02/19 14:21:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:3:7: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:19 PM] 2021/02/19 14:21:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:3:8: invalid import path: ""
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Info  - 2:21:20 PM] 2021/02/19 14:21:20 go/packages.Load
+	snapshot=10
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/hello-world.go]
+
+[Info  - 2:21:20 PM] 2021/02/19 14:21:20 go/packages.Load
+	snapshot=10
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/hello-world.go]
+	packages=1
+
+[Info  - 2:21:20 PM] 2021/02/19 14:21:20 go/packages.Load
+	snapshot=11
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/hello-world.go]
+	packages=1
+
+[Info  - 2:21:20 PM] 2021/02/19 14:21:20 go/packages.Load
+	snapshot=11
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/hello-world.go]
+
+[Error - 2:21:20 PM] 2021/02/19 14:21:20 imports fixes: AllImportsFixes: offset 26 is past the end of the file 25
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Info  - 2:21:20 PM] 2021/02/19 14:21:20 go/packages.Load
+	snapshot=11
+	directory=/home/tan/Documents/GoLang
+	query=[./]
+	packages=1
+
+[Error - 2:21:20 PM] 2021/02/19 14:21:20 _/home/tan/Documents/GoLang: no dep handle for fm: no metadata for fm
+	snapshot=11
+
+[Error - 2:21:20 PM] 2021/02/19 14:21:20 errors loading workspace: You are outside of a module and outside of $GOPATH/src.
+If you are using modules, please open your editor to a directory in your module.
+If you believe this warning is incorrect, please file an issue: https://github.com/golang/go/issues/new.
+	snapshot=11
+	directory=file:///home/tan/Documents/GoLang
+
+[Info  - 2:21:21 PM] 2021/02/19 14:21:21 go/packages.Load
+	snapshot=12
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/hello-world.go]
+	packages=1
+
+[Info  - 2:21:21 PM] 2021/02/19 14:21:21 go/packages.Load
+	snapshot=12
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/hello-world.go]
+
+[Error - 2:21:21 PM] 2021/02/19 14:21:21 imports fixes: AllImportsFixes: offset 27 is past the end of the file 26
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Info  - 2:21:22 PM] 2021/02/19 14:21:22 go/packages.Load
+	snapshot=12
+	directory=/home/tan/Documents/GoLang
+	query=[./]
+	packages=1
+
+[Error - 2:21:22 PM] 2021/02/19 14:21:22 imports fixes: AllImportsFixes: offset 27 is past the end of the file 26
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:38 PM] 2021/02/19 14:21:38 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:5:1: expected declaration, found fun
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:39 PM] 2021/02/19 14:21:39 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:5:5: expected '(', found 'EOF' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:40 PM] 2021/02/19 14:21:40 no completions found: this is a definition of func m(invalid type)
+	position={4 6}
+
+[Error - 2:21:40 PM] 2021/02/19 14:21:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:5:7: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:41 PM] 2021/02/19 14:21:41 no completions found: this is a definition of func main(invalid type)
+	position={4 9}
+
+[Error - 2:21:41 PM] 2021/02/19 14:21:41 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:5:10: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Error - 2:21:41 PM] 2021/02/19 14:21:41 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/hello-world.go
+
+[Info  - 2:21:41 PM] 2021/02/19 14:21:41 background refresh finished after 10.311531ms
+
+[Info  - 2:21:41 PM] 2021/02/19 14:21:41 background imports cache refresh starting
+
+[Error - 2:21:41 PM] 2021/02/19 14:21:41 no signature help: cannot find an enclosing function
+	position={4 11}
+
+[Info  - 2:22:12 PM] 2021/02/19 14:22:12 background imports cache refresh starting
+
+[Info  - 2:22:12 PM] 2021/02/19 14:22:12 background refresh finished after 741.65µs
+
+[Error - 2:22:44 PM] 2021/02/19 14:22:44 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:4:1: expected declaration, found ``
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Info  - 2:22:48 PM] 2021/02/19 14:22:48 background imports cache refresh starting
+
+[Info  - 2:22:48 PM] 2021/02/19 14:22:48 background refresh finished after 526.817µs
+
+[Info  - 2:23:31 PM] 2021/02/19 14:23:31 background imports cache refresh starting
+
+[Info  - 2:23:31 PM] 2021/02/19 14:23:31 background refresh finished after 681.167µs
+
+[Info  - 2:24:29 PM] 2021/02/19 14:24:29 background imports cache refresh starting
+
+[Info  - 2:24:29 PM] 2021/02/19 14:24:29 background refresh finished after 652.393µs
+
+[Error - 2:26:36 PM] 2021/02/19 14:26:36 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/hello-world.go:7:2: comment not terminated (and 2 more errors)
+	file="/home/tan/Documents/GoLang/hello-world.go"
+
+[Info  - 2:27:07 PM] 2021/02/19 14:27:07 background imports cache refresh starting
+
+[Info  - 2:27:07 PM] 2021/02/19 14:27:07 background refresh finished after 633.326µs
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:28:50 PM] 2021/02/19 14:28:50 go/packages.Load
+	snapshot=80
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:28:50 PM] 2021/02/19 14:28:50 go/packages.Load
+	snapshot=80
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 DocumentSymbols failed: getting file for DocumentSymbols: no parsed file for file:///home/tan/Documents/GoLang/test.go in command-line-arguments
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Info  - 2:28:50 PM] 2021/02/19 14:28:50 go/packages.Load
+	snapshot=85
+	directory=/home/tan/Documents/GoLang
+	query=[./]
+	packages=1
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 unable to compute error positions: no parsed file for file:///home/tan/Documents/GoLang/test.go in _/home/tan/Documents/GoLang
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 2:28:50 PM] 2021/02/19 14:28:50 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:51 PM] 2021/02/19 14:28:51 imports fixes: AllImportsFixes: 1:9: expected 'IDENT', found 'EOF'
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:28:51 PM] 2021/02/19 14:28:51 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:51 PM] 2021/02/19 14:28:51 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Error - 2:28:51 PM] 2021/02/19 14:28:51 imports fixes: AllImportsFixes: 1:9: expected 'IDENT', found 'EOF'
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:28:51 PM] 2021/02/19 14:28:51 DocumentSymbols failed: getting file for DocumentSymbols: no parsed file for file:///home/tan/Documents/GoLang/test.go in command-line-arguments
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:28:52 PM] 2021/02/19 14:28:52 workspace package command-line-arguments not associated with file:///home/tan/Documents/GoLang/hello-world.go
+	level=1
+
+[Info  - 2:28:53 PM] 2021/02/19 14:28:53 go/packages.Load
+	snapshot=89
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:28:53 PM] 2021/02/19 14:28:53 go/packages.Load
+	snapshot=89
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Error - 2:28:55 PM] 2021/02/19 14:28:55 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:1: expected declaration, found impo
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:28:56 PM] 2021/02/19 14:28:56 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: ""
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:28:56 PM] 2021/02/19 14:28:56 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: ""
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:28:57 PM] 2021/02/19 14:28:57 go/packages.Load
+	snapshot=101
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:28:57 PM] 2021/02/19 14:28:57 go/packages.Load
+	snapshot=101
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Info  - 2:28:58 PM] 2021/02/19 14:28:58 go/packages.Load
+	snapshot=102
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:28:58 PM] 2021/02/19 14:28:58 go/packages.Load
+	snapshot=102
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Info  - 2:28:58 PM] 2021/02/19 14:28:58 go/packages.Load
+	snapshot=103
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:28:58 PM] 2021/02/19 14:28:58 go/packages.Load
+	snapshot=103
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Error - 2:28:58 PM] 2021/02/19 14:28:58 imports fixes: AllImportsFixes: offset 27 is past the end of the file 26
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:02 PM] 2021/02/19 14:29:02 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:1: expected declaration, found fu
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:03 PM] 2021/02/19 14:29:03 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:5: expected '(', found 'EOF' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:04 PM] 2021/02/19 14:29:04 no completions found: this is a definition of func m(invalid type)
+	position={4 6}
+
+[Error - 2:29:04 PM] 2021/02/19 14:29:04 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:9: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:04 PM] 2021/02/19 14:29:04 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:05 PM] 2021/02/19 14:29:05 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:8: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:05 PM] 2021/02/19 14:29:05 no completions found: this is a definition of func mai(invalid type)
+	position={4 8}
+
+[Error - 2:29:05 PM] 2021/02/19 14:29:05 no completions found: this is a definition of func main(invalid type)
+	position={4 9}
+
+[Error - 2:29:05 PM] 2021/02/19 14:29:05 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:05 PM] 2021/02/19 14:29:05 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:06 PM] 2021/02/19 14:29:06 no signature help: cannot find an enclosing function
+	position={4 10}
+
+[Error - 2:29:06 PM] 2021/02/19 14:29:06 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:06 PM] 2021/02/19 14:29:06 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:08 PM] 2021/02/19 14:29:08 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found '{' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:08 PM] 2021/02/19 14:29:08 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:09 PM] 2021/02/19 14:29:09 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:10 PM] 2021/02/19 14:29:10 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:10 PM] 2021/02/19 14:29:10 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:11 PM] 2021/02/19 14:29:11 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found '{' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:11 PM] 2021/02/19 14:29:11 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:29:12 PM] 2021/02/19 14:29:12 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found '{' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:13 PM] 2021/02/19 14:29:13 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found '{' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:29:14 PM] 2021/02/19 14:29:14 no signature help: cannot find an enclosing function
+	position={4 11}
+
+[Error - 2:29:22 PM] 2021/02/19 14:29:22 no signature help: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position={6 13}
+
+[Info  - 2:29:23 PM] 2021/02/19 14:29:23 background imports cache refresh starting
+
+[Info  - 2:29:23 PM] 2021/02/19 14:29:23 background refresh finished after 581.224µs
+
+[Info  - 2:29:53 PM] 2021/02/19 14:29:53 background imports cache refresh starting
+
+[Info  - 2:29:53 PM] 2021/02/19 14:29:53 background refresh finished after 550.214µs
+
+[Error - 2:30:21 PM] 2021/02/19 14:30:21 warning: diagnose package: no package for fmt
+	snapshot=164
+	package="fmt"
+
+[Error - 2:30:21 PM] 2021/02/19 14:30:21 unable to compute error positions: no parsed file for file:///home/tan/Documents/GoLang/test.go in _/home/tan/Documents/GoLang
+	package="_/home/tan/Documents/GoLang"
+
+[Info  - 2:30:28 PM] 2021/02/19 14:30:28 background imports cache refresh starting
+
+[Info  - 2:30:28 PM] 2021/02/19 14:30:28 background refresh finished after 586.671µs
+
+[Error - 2:30:29 PM] 2021/02/19 14:30:29 unable to compute error positions: no parsed file for file:///home/tan/Documents/GoLang/test.go in _/home/tan/Documents/GoLang
+	package="_/home/tan/Documents/GoLang"
+
+[Info  - 2:30:59 PM] 2021/02/19 14:30:59 background imports cache refresh starting
+
+[Info  - 2:30:59 PM] 2021/02/19 14:30:59 background refresh finished after 692.273µs
+
+[Error - 2:31:25 PM] 2021/02/19 14:31:25 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: "" (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:31:26 PM] 2021/02/19 14:31:26 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: "" (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:31:27 PM] 2021/02/19 14:31:27 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: "" (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:31:27 PM] 2021/02/19 14:31:27 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: "" (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:31:28 PM] 2021/02/19 14:31:28 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: ""
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:31:29 PM] 2021/02/19 14:31:29 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:3:8: invalid import path: ""
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:31:30 PM] 2021/02/19 14:31:30 go/packages.Load
+	snapshot=177
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:31:30 PM] 2021/02/19 14:31:30 go/packages.Load
+	snapshot=177
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Info  - 2:31:30 PM] 2021/02/19 14:31:30 go/packages.Load
+	snapshot=177
+	directory=/home/tan/Documents/GoLang
+	query=[./]
+	packages=1
+
+[Error - 2:31:42 PM] Request textDocument/definition failed.
+  Message: no object found for ident main: no object found
+  Code: 0 
+[Info  - 2:31:46 PM] 2021/02/19 14:31:46 background imports cache refresh starting
+
+[Info  - 2:31:46 PM] 2021/02/19 14:31:46 background refresh finished after 630.882µs
+
+[Error - 2:31:59 PM] 2021/02/19 14:31:59 no completions found: this is a definition of func t()
+	position={4 6}
+
+[Error - 2:32:00 PM] 2021/02/19 14:32:00 no completions found: this is a definition of func tes()
+	position={4 8}
+
+[Error - 2:32:00 PM] 2021/02/19 14:32:00 no completions found: this is a definition of func te()
+	position={4 7}
+
+[Error - 2:32:00 PM] 2021/02/19 14:32:00 no completions found: this is a definition of func t()
+	position={4 6}
+
+[Error - 2:32:00 PM] 2021/02/19 14:32:00 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:9: expected 'IDENT', found '{' (and 11 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:32:03 PM] 2021/02/19 14:32:03 no completions found: this is a definition of func v()
+	position={4 6}
+
+[Error - 2:32:03 PM] 2021/02/19 14:32:03 no completions found: this is a definition of func vaia()
+	position={4 9}
+
+[Error - 2:32:05 PM] 2021/02/19 14:32:05 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:9: expected 'IDENT', found '{' (and 11 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:32:11 PM] 2021/02/19 14:32:11 no completions found: this is a definition of func m()
+	position={4 6}
+
+[Error - 2:32:12 PM] 2021/02/19 14:32:12 no completions found: this is a definition of func main2()
+	position={4 10}
+
+[Info  - 2:32:24 PM] 2021/02/19 14:32:24 background imports cache refresh starting
+
+[Info  - 2:32:24 PM] 2021/02/19 14:32:24 background refresh finished after 659.307µs
+
+[Error - 2:32:42 PM] 2021/02/19 14:32:42 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:2: missing variable type or initialization (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:32:47 PM] 2021/02/19 14:32:47 no completions found: this is a definition of var a invalid type
+	position={6 6}
+
+[Error - 2:32:47 PM] 2021/02/19 14:32:47 no completions found: this is a definition of var ag invalid type
+	position={6 7}
+
+[Error - 2:32:47 PM] 2021/02/19 14:32:47 no completions found: this is a definition of var age invalid type
+	position={6 8}
+
+[Info  - 2:33:07 PM] 2021/02/19 14:33:07 background imports cache refresh starting
+
+[Info  - 2:33:07 PM] 2021/02/19 14:33:07 background refresh finished after 692.063µs
+
+[Error - 2:33:40 PM] 2021/02/19 14:33:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: expected ';', found int (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:33:52 PM] 2021/02/19 14:33:52 background imports cache refresh starting
+
+[Info  - 2:33:52 PM] 2021/02/19 14:33:52 background refresh finished after 565.788µs
+
+[Error - 2:34:08 PM] 2021/02/19 14:34:08 no completions found: this is a definition of var n int
+	position={6 6}
+
+[Error - 2:34:09 PM] 2021/02/19 14:34:09 no completions found: this is a definition of var num int
+	position={6 8}
+
+[Error - 2:34:09 PM] 2021/02/19 14:34:09 no completions found: this is a definition of var num1 int
+	position={6 9}
+
+[Error - 2:34:11 PM] 2021/02/19 14:34:11 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:7:16: expected ';', found int (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:34:14 PM] 2021/02/19 14:34:14 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:2: missing variable type or initialization (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:34:15 PM] 2021/02/19 14:34:15 no completions found: this is a definition of var n invalid type
+	position={7 6}
+
+[Error - 2:34:15 PM] 2021/02/19 14:34:15 no completions found: this is a definition of var num invalid type
+	position={7 8}
+
+[Error - 2:34:15 PM] 2021/02/19 14:34:15 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:34:20 PM] 2021/02/19 14:34:20 no completions found: this is a definition of var s invalid type
+	position={8 6}
+
+[Error - 2:34:20 PM] 2021/02/19 14:34:20 no completions found: this is a definition of var sum invalid type
+	position={8 8}
+
+[Error - 2:34:21 PM] 2021/02/19 14:34:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:34:22 PM] 2021/02/19 14:34:22 background imports cache refresh starting
+
+[Info  - 2:34:22 PM] 2021/02/19 14:34:22 background refresh finished after 629.275µs
+
+[Error - 2:34:32 PM] 2021/02/19 14:34:32 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:15:1: expected operand, found '}' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:34:49 PM] 2021/02/19 14:34:49 no signature help: cannot find an enclosing function
+	position={16 12}
+
+[Info  - 2:34:53 PM] 2021/02/19 14:34:53 background imports cache refresh starting
+
+[Info  - 2:34:53 PM] 2021/02/19 14:34:53 background refresh finished after 678.863µs
+
+[Error - 2:34:53 PM] Request textDocument/definition failed.
+  Message: no identifier found
+  Code: 0 
+[Info  - 2:35:16 PM] 2021/02/19 14:35:16 go/packages.Load
+	snapshot=376
+	directory=/home/tan/Documents/GoLang
+	query=[file=/home/tan/Documents/GoLang/test.go]
+	packages=1
+
+[Info  - 2:35:16 PM] 2021/02/19 14:35:16 go/packages.Load
+	snapshot=376
+	package="command-line-arguments"
+	files=[/home/tan/Documents/GoLang/test.go]
+
+[Info  - 2:35:17 PM] 2021/02/19 14:35:17 go/packages.Load
+	snapshot=377
+	directory=/home/tan/Documents/GoLang
+	query=[./]
+	packages=1
+
+[Info  - 2:35:23 PM] 2021/02/19 14:35:23 background imports cache refresh starting
+
+[Info  - 2:35:23 PM] 2021/02/19 14:35:23 background refresh finished after 617.682µs
+
+[Info  - 2:35:53 PM] 2021/02/19 14:35:53 background imports cache refresh starting
+
+[Info  - 2:35:53 PM] 2021/02/19 14:35:53 background refresh finished after 622.151µs
+
+[Info  - 2:36:23 PM] 2021/02/19 14:36:23 background imports cache refresh starting
+
+[Info  - 2:36:23 PM] 2021/02/19 14:36:23 background refresh finished after 649.25µs
+
+[Info  - 2:37:42 PM] 2021/02/19 14:37:42 background imports cache refresh starting
+
+[Info  - 2:37:42 PM] 2021/02/19 14:37:42 background refresh finished after 573.752µs
+
+[Error - 2:38:05 PM] 2021/02/19 14:38:05 no signature help: cannot find an enclosing function
+	position={16 19}
+
+[Error - 2:38:07 PM] 2021/02/19 14:38:07 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:19: missing ',' before newline in argument list (and 7 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:38:07 PM] 2021/02/19 14:38:07 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:38:11 PM] 2021/02/19 14:38:11 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:22: expected operand, found ')' (and 5 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:38:11 PM] 2021/02/19 14:38:11 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Info  - 2:38:13 PM] 2021/02/19 14:38:13 background imports cache refresh starting
+
+[Info  - 2:38:13 PM] 2021/02/19 14:38:13 background refresh finished after 618.38µs
+
+[Error - 2:38:15 PM] 2021/02/19 14:38:15 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:27: illegal character U+005C '\' (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:38:44 PM] 2021/02/19 14:38:44 background imports cache refresh starting
+
+[Info  - 2:38:44 PM] 2021/02/19 14:38:44 background refresh finished after 559.504µs
+
+[Info  - 2:40:17 PM] 2021/02/19 14:40:17 background imports cache refresh starting
+
+[Info  - 2:40:17 PM] 2021/02/19 14:40:17 background refresh finished after 628.437µs
+
+[Info  - 2:40:47 PM] 2021/02/19 14:40:47 background imports cache refresh starting
+
+[Info  - 2:40:47 PM] 2021/02/19 14:40:47 background refresh finished after 547.63µs
+
+[Info  - 2:41:18 PM] 2021/02/19 14:41:18 background imports cache refresh starting
+
+[Info  - 2:41:18 PM] 2021/02/19 14:41:18 background refresh finished after 570.049µs
+
+[Error - 2:41:26 PM] 2021/02/19 14:41:26 no signature help: cannot find an enclosing function
+	position={16 11}
+
+[Error - 2:41:56 PM] 2021/02/19 14:41:56 no signature help: cannot find an enclosing function
+	position={16 26}
+
+[Info  - 2:41:56 PM] 2021/02/19 14:41:56 background imports cache refresh starting
+
+[Info  - 2:41:56 PM] 2021/02/19 14:41:56 background refresh finished after 568.443µs
+
+[Error - 2:42:22 PM] 2021/02/19 14:42:22 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:2: missing variable type or initialization (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:42:23 PM] 2021/02/19 14:42:23 no completions found: this is a definition of var n invalid type
+	position={6 6}
+
+[Error - 2:42:23 PM] 2021/02/19 14:42:23 no completions found: this is a definition of var num invalid type
+	position={6 8}
+
+[Error - 2:42:23 PM] 2021/02/19 14:42:23 no signature help: cannot find an enclosing function
+	position={6 10}
+
+[Error - 2:42:24 PM] 2021/02/19 14:42:24 no completions found: this is a definition of var n invalid type
+	position={6 12}
+
+[Error - 2:42:24 PM] 2021/02/19 14:42:24 no completions found: this is a definition of var num invalid type
+	position={6 14}
+
+[Error - 2:42:24 PM] 2021/02/19 14:42:24 no signature help: cannot find an enclosing function
+	position={6 16}
+
+[Info  - 2:42:26 PM] 2021/02/19 14:42:26 background imports cache refresh starting
+
+[Info  - 2:42:26 PM] 2021/02/19 14:42:26 background refresh finished after 592.678µs
+
+[Error - 2:42:32 PM] 2021/02/19 14:42:32 no completions found: this is a definition of var s int
+	position={6 18}
+
+[Error - 2:42:32 PM] 2021/02/19 14:42:32 no signature help: cannot find an enclosing function
+	position={6 19}
+
+[Error - 2:42:32 PM] 2021/02/19 14:42:32 no completions found: this is a definition of var sum int
+	position={6 20}
+
+[Info  - 2:42:57 PM] 2021/02/19 14:42:57 background imports cache refresh starting
+
+[Info  - 2:42:57 PM] 2021/02/19 14:42:57 background refresh finished after 947.335µs
+
+[Info  - 2:43:56 PM] 2021/02/19 14:43:56 background imports cache refresh starting
+
+[Info  - 2:43:56 PM] 2021/02/19 14:43:56 background refresh finished after 677.396µs
+
+[Error - 2:44:28 PM] 2021/02/19 14:44:28 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:10:2: missing variable type or initialization (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:44:31 PM] 2021/02/19 14:44:31 no completions found: this is a definition of var x invalid type
+	position={7 6}
+
+[Error - 2:44:31 PM] 2021/02/19 14:44:31 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:44:34 PM] 2021/02/19 14:44:34 background imports cache refresh starting
+
+[Info  - 2:44:34 PM] 2021/02/19 14:44:34 background refresh finished after 652.532µs
+
+[Info  - 2:45:05 PM] 2021/02/19 14:45:05 background imports cache refresh starting
+
+[Info  - 2:45:05 PM] 2021/02/19 14:45:05 background refresh finished after 596.031µs
+
+[Error - 2:45:25 PM] Request textDocument/definition failed.
+  Message: no identifier found
+  Code: 0 
+[Info  - 2:45:44 PM] 2021/02/19 14:45:44 background imports cache refresh starting
+
+[Info  - 2:45:44 PM] 2021/02/19 14:45:44 background refresh finished after 643.453µs
+
+[Info  - 2:46:19 PM] 2021/02/19 14:46:19 background imports cache refresh starting
+
+[Info  - 2:46:19 PM] 2021/02/19 14:46:19 background refresh finished after 559.224µs
+
+[Error - 2:47:20 PM] 2021/02/19 14:47:20 no completions found: this is a definition of var a invalid type
+	position={7 6}
+
+[Error - 2:47:21 PM] 2021/02/19 14:47:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:23 PM] 2021/02/19 14:47:23 no completions found: this is a definition of var t invalid type
+	position={7 6}
+
+[Error - 2:47:23 PM] 2021/02/19 14:47:23 no completions found: this is a definition of var tex invalid type
+	position={7 8}
+
+[Error - 2:47:24 PM] 2021/02/19 14:47:24 no completions found: this is a definition of var text invalid type
+	position={7 9}
+
+[Error - 2:47:24 PM] 2021/02/19 14:47:24 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:28 PM] 2021/02/19 14:47:28 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:29 PM] 2021/02/19 14:47:29 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:29 PM] 2021/02/19 14:47:29 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:30 PM] 2021/02/19 14:47:30 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:30 PM] 2021/02/19 14:47:30 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:32 PM] 2021/02/19 14:47:32 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:33 PM] 2021/02/19 14:47:33 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:34 PM] 2021/02/19 14:47:34 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:35 PM] 2021/02/19 14:47:35 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:37 PM] 2021/02/19 14:47:37 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:40 PM] 2021/02/19 14:47:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:13: illegal rune literal
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:47:46 PM] 2021/02/19 14:47:46 background imports cache refresh starting
+
+[Info  - 2:47:46 PM] 2021/02/19 14:47:46 background refresh finished after 612.722µs
+
+[Error - 2:47:54 PM] 2021/02/19 14:47:54 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: expected '==', found '='
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:47:55 PM] 2021/02/19 14:47:55 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: expected '==', found '='
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:48:08 PM] 2021/02/19 14:48:08 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:13: string literal not terminated
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:48:17 PM] 2021/02/19 14:48:17 background imports cache refresh starting
+
+[Info  - 2:48:17 PM] 2021/02/19 14:48:17 background refresh finished after 575.148µs
+
+[Error - 2:55:18 PM] 2021/02/19 14:55:18 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:2: expected statement, found '=' (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:33 PM] 2021/02/19 14:55:33 no completions found: this is a definition of const v invalid type
+	position={8 8}
+
+[Error - 2:55:33 PM] 2021/02/19 14:55:33 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:36 PM] 2021/02/19 14:55:36 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:37 PM] 2021/02/19 14:55:37 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:38 PM] 2021/02/19 14:55:38 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:55:39 PM] 2021/02/19 14:55:39 background imports cache refresh starting
+
+[Info  - 2:55:39 PM] 2021/02/19 14:55:39 background refresh finished after 642.406µs
+
+[Error - 2:55:40 PM] 2021/02/19 14:55:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:40 PM] 2021/02/19 14:55:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:45 PM] 2021/02/19 14:55:45 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:46 PM] 2021/02/19 14:55:46 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:46 PM] 2021/02/19 14:55:46 no completions found: this is a definition of const v invalid type
+	position={9 8}
+
+[Error - 2:55:50 PM] 2021/02/19 14:55:50 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:50 PM] 2021/02/19 14:55:50 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:51 PM] 2021/02/19 14:55:51 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:51 PM] 2021/02/19 14:55:51 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:52 PM] 2021/02/19 14:55:52 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:52 PM] 2021/02/19 14:55:52 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:53 PM] 2021/02/19 14:55:53 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:54 PM] 2021/02/19 14:55:54 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:8: expected 'IDENT', found 'var' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:54 PM] 2021/02/19 14:55:54 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:1: expected 'IDENT', found '}' (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:55 PM] 2021/02/19 14:55:55 no completions found: this is a definition of var n invalid type
+	position={9 6}
+
+[Error - 2:55:56 PM] 2021/02/19 14:55:56 no completions found: this is a definition of var num invalid type
+	position={9 8}
+
+[Error - 2:55:56 PM] 2021/02/19 14:55:56 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:10:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:55:56 PM] 2021/02/19 14:55:56 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:10:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:07 PM] 2021/02/19 14:56:07 no completions found: this is a definition of var n invalid type
+	position={9 6}
+
+[Error - 2:56:07 PM] 2021/02/19 14:56:07 no completions found: this is a definition of var num invalid type
+	position={9 8}
+
+[Error - 2:56:07 PM] 2021/02/19 14:56:07 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:10:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:56:15 PM] 2021/02/19 14:56:15 background imports cache refresh starting
+
+[Info  - 2:56:15 PM] 2021/02/19 14:56:15 background refresh finished after 552.03µs
+
+[Error - 2:56:21 PM] 2021/02/19 14:56:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:14:1: expected operand, found '}' (and 7 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:21 PM] 2021/02/19 14:56:21 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:23 PM] 2021/02/19 14:56:23 no signature help: cannot find an enclosing function
+	position={11 5}
+
+[Error - 2:56:23 PM] 2021/02/19 14:56:23 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:26 PM] 2021/02/19 14:56:26 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:5: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:26 PM] 2021/02/19 14:56:26 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:27 PM] 2021/02/19 14:56:27 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:28 PM] 2021/02/19 14:56:28 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:28 PM] 2021/02/19 14:56:28 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:30 PM] 2021/02/19 14:56:30 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:5: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:36 PM] 2021/02/19 14:56:36 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:11: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:37 PM] 2021/02/19 14:56:37 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:56:39 PM] 2021/02/19 14:56:39 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:56:39 PM] 2021/02/19 14:56:39 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Info  - 2:56:51 PM] 2021/02/19 14:56:51 background imports cache refresh starting
+
+[Info  - 2:56:51 PM] 2021/02/19 14:56:51 background refresh finished after 425.756µs
+
+[Error - 2:57:20 PM] 2021/02/19 14:57:20 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:14: expected ')', found 10 (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:57:21 PM] 2021/02/19 14:57:21 background refresh finished after 563.205µs
+
+[Info  - 2:57:21 PM] 2021/02/19 14:57:21 background imports cache refresh starting
+
+[Info  - 2:57:51 PM] 2021/02/19 14:57:51 background imports cache refresh starting
+
+[Info  - 2:57:51 PM] 2021/02/19 14:57:51 background refresh finished after 637.797µs
+
+[Error - 2:58:05 PM] 2021/02/19 14:58:05 no signature help: cannot find an enclosing function
+	position={13 66}
+
+[Error - 2:58:17 PM] Request textDocument/definition failed.
+  Message: no identifier found
+  Code: 0 
+[Error - 2:58:19 PM] 2021/02/19 14:58:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:10:2: expected statement, found '/'
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:58:22 PM] 2021/02/19 14:58:22 background imports cache refresh starting
+
+[Info  - 2:58:22 PM] 2021/02/19 14:58:22 background refresh finished after 676.838µs
+
+[Info  - 2:58:56 PM] 2021/02/19 14:58:56 background imports cache refresh starting
+
+[Info  - 2:58:56 PM] 2021/02/19 14:58:56 background refresh finished after 603.295µs
+
+[Error - 2:59:14 PM] 2021/02/19 14:59:14 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:4: expected ';', found e (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:15 PM] 2021/02/19 14:59:15 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:18:1: expected if statement or block, found '}'
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:25 PM] 2021/02/19 14:59:25 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:18:1: expected operand, found '}' (and 7 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:25 PM] 2021/02/19 14:59:25 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:59:29 PM] 2021/02/19 14:59:29 no signature help: cannot find an enclosing function
+	position={15 12}
+
+[Error - 2:59:29 PM] 2021/02/19 14:59:29 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:29 PM] 2021/02/19 14:59:29 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:59:30 PM] 2021/02/19 14:59:30 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:31 PM] 2021/02/19 14:59:31 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:59:33 PM] 2021/02/19 14:59:33 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 2:59:36 PM] 2021/02/19 14:59:36 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:37 PM] 2021/02/19 14:59:37 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 2:59:38 PM] 2021/02/19 14:59:38 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:12: expected operand, found ')' (and 8 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 2:59:45 PM] 2021/02/19 14:59:45 background imports cache refresh starting
+
+[Info  - 2:59:45 PM] 2021/02/19 14:59:45 background refresh finished after 585.414µs
+
+[Error - 3:00:15 PM] 2021/02/19 15:00:15 no signature help: cannot get type for Fun *ast.SelectorExpr (&{fmt Prinf})
+	position={17 12}
+
+[Info  - 3:00:15 PM] 2021/02/19 15:00:15 background imports cache refresh starting
+
+[Info  - 3:00:15 PM] 2021/02/19 15:00:15 background refresh finished after 543.58µs
+
+[Info  - 3:00:46 PM] 2021/02/19 15:00:46 background imports cache refresh starting
+
+[Info  - 3:00:46 PM] 2021/02/19 15:00:46 background refresh finished after 662.171µs
+
+[Error - 3:01:03 PM] 2021/02/19 15:01:03 no signature help: cannot find an enclosing function
+	position={14 39}
+
+[Error - 3:01:15 PM] 2021/02/19 15:01:15 no completions found: this is a definition of var s invalid type
+	position={10 6}
+
+[Error - 3:01:15 PM] 2021/02/19 15:01:15 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:01:15 PM] 2021/02/19 15:01:15 no completions found: this is a definition of var sum invalid type
+	position={10 8}
+
+[Error - 3:01:16 PM] 2021/02/19 15:01:16 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 3:01:17 PM] 2021/02/19 15:01:17 background imports cache refresh starting
+
+[Info  - 3:01:17 PM] 2021/02/19 15:01:17 background refresh finished after 639.193µs
+
+[Info  - 3:01:47 PM] 2021/02/19 15:01:47 background imports cache refresh starting
+
+[Info  - 3:01:47 PM] 2021/02/19 15:01:47 background refresh finished after 648.901µs
+
+[Error - 3:02:16 PM] 2021/02/19 15:02:16 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:16:14: string literal not terminated (and 12 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 3:02:19 PM] 2021/02/19 15:02:19 background imports cache refresh starting
+
+[Info  - 3:02:19 PM] 2021/02/19 15:02:19 background refresh finished after 667.269µs
+
+[Error - 3:02:20 PM] 2021/02/19 15:02:20 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:19:10: expected statement, found 'ILLEGAL' (and 5 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:02:21 PM] 2021/02/19 15:02:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:19:10: expected statement, found 'ILLEGAL' (and 5 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 3:02:49 PM] 2021/02/19 15:02:49 background imports cache refresh starting
+
+[Info  - 3:02:49 PM] 2021/02/19 15:02:49 background refresh finished after 612.024µs
+
+[Info  - 3:03:20 PM] 2021/02/19 15:03:20 background imports cache refresh starting
+
+[Info  - 3:03:20 PM] 2021/02/19 15:03:20 background refresh finished after 611.815µs
+
+[Error - 3:05:30 PM] 2021/02/19 15:05:30 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:15:1: expected declaration, found fun
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:05:31 PM] 2021/02/19 15:05:31 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:15:6: expected '(', found 'EOF' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:05:34 PM] 2021/02/19 15:05:34 no completions found: this is a definition of func a(invalid type)
+	position={14 6}
+
+[Error - 3:05:34 PM] 2021/02/19 15:05:34 no completions found: this is a definition of func ad(invalid type)
+	position={14 7}
+
+[Error - 3:05:34 PM] 2021/02/19 15:05:34 no completions found: this is a definition of func add(invalid type)
+	position={14 8}
+
+[Error - 3:05:35 PM] 2021/02/19 15:05:35 no completions found: this is a definition of func addi(invalid type)
+	position={14 9}
+
+[Error - 3:05:35 PM] 2021/02/19 15:05:35 no completions found: this is a definition of func addit(invalid type)
+	position={14 10}
+
+[Error - 3:05:35 PM] 2021/02/19 15:05:35 no completions found: this is a definition of func additi(invalid type)
+	position={14 11}
+
+[Error - 3:05:35 PM] 2021/02/19 15:05:35 no completions found: this is a definition of func additio(invalid type)
+	position={14 12}
+
+[Error - 3:05:35 PM] 2021/02/19 15:05:35 no completions found: this is a definition of func addition(invalid type)
+	position={14 13}
+
+[Error - 3:05:36 PM] 2021/02/19 15:05:36 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:15:14: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:05:36 PM] 2021/02/19 15:05:36 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:05:37 PM] 2021/02/19 15:05:37 no signature help: cannot find an enclosing function
+	position={14 15}
+
+[Info  - 3:05:50 PM] 2021/02/19 15:05:50 background imports cache refresh starting
+
+[Info  - 3:05:50 PM] 2021/02/19 15:05:50 background refresh finished after 610.069µs
+
+[Error - 3:05:51 PM] 2021/02/19 15:05:51 no signature help: cannot find an enclosing function
+	position={14 17}
+
+[Info  - 3:06:21 PM] 2021/02/19 15:06:21 background imports cache refresh starting
+
+[Info  - 3:06:21 PM] 2021/02/19 15:06:21 background refresh finished after 486.588µs
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 no completions found: this is a definition of var r invalid type
+	position={16 6}
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 no completions found: this is a definition of var res invalid type
+	position={16 8}
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 no completions found: this is a definition of var resu invalid type
+	position={16 9}
+
+[Error - 3:06:24 PM] 2021/02/19 15:06:24 no completions found: this is a definition of var resul invalid type
+	position={16 10}
+
+[Error - 3:06:25 PM] 2021/02/19 15:06:25 no completions found: this is a definition of var result invalid type
+	position={16 11}
+
+[Info  - 3:06:52 PM] 2021/02/19 15:06:52 background imports cache refresh starting
+
+[Info  - 3:06:52 PM] 2021/02/19 15:06:52 background refresh finished after 430.855µs
+
+[Info  - 3:07:23 PM] 2021/02/19 15:07:23 background imports cache refresh starting
+
+[Info  - 3:07:23 PM] 2021/02/19 15:07:23 background refresh finished after 538.202µs
+
+[Error - 3:07:31 PM] 2021/02/19 15:07:31 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:13:13: string literal not terminated (and 10 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:07:51 PM] 2021/02/19 15:07:51 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:07:51 PM] 2021/02/19 15:07:51 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Info  - 3:07:53 PM] 2021/02/19 15:07:53 background imports cache refresh starting
+
+[Info  - 3:07:53 PM] 2021/02/19 15:07:53 background refresh finished after 564.183µs
+
+[Error - 3:07:53 PM] 2021/02/19 15:07:53 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:07:54 PM] 2021/02/19 15:07:54 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:08:11 PM] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Error - 3:08:11 PM] 2021/02/19 15:08:11 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:1: expected operand, found '}' (and 1 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:08:21 PM] 2021/02/19 15:08:21 no signature help: cannot get type for Fun *ast.Ident (addition)
+	position={14 17}
+
+[Error - 3:08:21 PM] 2021/02/19 15:08:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:15:18: expected operand, found ')' (and 14 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:08:21 PM] 2021/02/19 15:08:21 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Info  - 3:08:24 PM] 2021/02/19 15:08:24 background imports cache refresh starting
+
+[Info  - 3:08:24 PM] 2021/02/19 15:08:24 background refresh finished after 562.786µs
+
+[Error - 3:08:28 PM] 2021/02/19 15:08:28 no signature help: cannot find an enclosing function
+	position={14 27}
+
+[Info  - 3:08:55 PM] 2021/02/19 15:08:55 background imports cache refresh starting
+
+[Info  - 3:08:55 PM] 2021/02/19 15:08:55 background refresh finished after 573.402µs
+
+[Info  - 3:09:37 PM] 2021/02/19 15:09:37 background imports cache refresh starting
+
+[Info  - 3:09:37 PM] 2021/02/19 15:09:37 background refresh finished after 523.674µs
+
+[Info  - 3:10:08 PM] 2021/02/19 15:10:08 background imports cache refresh starting
+
+[Info  - 3:10:08 PM] 2021/02/19 15:10:08 background refresh finished after 660.774µs
+
+[Info  - 3:10:50 PM] 2021/02/19 15:10:50 background imports cache refresh starting
+
+[Info  - 3:10:50 PM] 2021/02/19 15:10:50 background refresh finished after 646.107µs
+
+[Error - 3:14:18 PM] 2021/02/19 15:14:18 no completions found: this is a definition of func m(invalid type)
+	position={4 6}
+
+[Error - 3:14:18 PM] 2021/02/19 15:14:18 no completions found: this is a definition of func mail(invalid type)
+	position={4 9}
+
+[Error - 3:14:18 PM] 2021/02/19 15:14:18 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:5:10: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:14:18 PM] 2021/02/19 15:14:18 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:14:19 PM] 2021/02/19 15:14:19 no signature help: cannot find an enclosing function
+	position={4 11}
+
+[Error - 3:14:38 PM] 2021/02/19 15:14:38 no signature help: cannot find an enclosing function
+	position={6 35}
+
+[Info  - 3:14:46 PM] 2021/02/19 15:14:46 background imports cache refresh starting
+
+[Info  - 3:14:46 PM] 2021/02/19 15:14:46 background refresh finished after 607.694µs
+
+[Error - 3:14:47 PM] 2021/02/19 15:14:47 no completions found: this is a definition of var n invalid type
+	position={7 6}
+
+[Error - 3:14:47 PM] 2021/02/19 15:14:47 no completions found: this is a definition of var num invalid type
+	position={7 8}
+
+[Error - 3:14:48 PM] 2021/02/19 15:14:48 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:8:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:01 PM] 2021/02/19 15:15:01 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:9:14: expected operand, found ')' (and 5 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:01 PM] 2021/02/19 15:15:01 no signature help: cannot find an enclosing function
+	position={8 19}
+
+[Info  - 3:15:16 PM] 2021/02/19 15:15:16 background imports cache refresh starting
+
+[Info  - 3:15:16 PM] 2021/02/19 15:15:16 background refresh finished after 693.6µs
+
+[Error - 3:15:23 PM] 2021/02/19 15:15:23 no signature help: cannot find an enclosing function
+	position={10 38}
+
+[Error - 3:15:25 PM] 2021/02/19 15:15:25 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:38: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:25 PM] 2021/02/19 15:15:25 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:15:26 PM] 2021/02/19 15:15:26 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:38: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:26 PM] 2021/02/19 15:15:26 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:38: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:27 PM] 2021/02/19 15:15:27 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:11:38: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:31 PM] 2021/02/19 15:15:31 no completions found: this is a definition of var n invalid type
+	position={11 6}
+
+[Error - 3:15:31 PM] 2021/02/19 15:15:31 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:32 PM] 2021/02/19 15:15:32 no completions found: this is a definition of var num invalid type
+	position={11 8}
+
+[Error - 3:15:32 PM] 2021/02/19 15:15:32 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:32 PM] 2021/02/19 15:15:32 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:12:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:40 PM] 2021/02/19 15:15:40 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:13:14: expected operand, found ')' (and 5 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:15:40 PM] 2021/02/19 15:15:40 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:15:41 PM] 2021/02/19 15:15:41 no signature help: cannot find an enclosing function
+	position={12 18}
+
+[Info  - 3:15:47 PM] 2021/02/19 15:15:47 background imports cache refresh starting
+
+[Info  - 3:15:47 PM] 2021/02/19 15:15:47 background refresh finished after 585.205µs
+
+[Error - 3:16:01 PM] 2021/02/19 15:16:01 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:1: expected declaration, found fun
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:02 PM] 2021/02/19 15:16:02 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: expected '(', found 'EOF' (and 4 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 no completions found: this is a definition of func a(invalid type)
+	position={16 6}
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:7: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 no completions found: this is a definition of func ad(invalid type)
+	position={16 7}
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 no completions found: this is a definition of func add(invalid type)
+	position={16 8}
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:9: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:03 PM] 2021/02/19 15:16:03 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:16:06 PM] 2021/02/19 15:16:06 no signature help: cannot find an enclosing function
+	position={16 9}
+
+[Error - 3:16:07 PM] 2021/02/19 15:16:07 no signature help: cannot find an enclosing function
+	position={16 11}
+
+[Error - 3:16:17 PM] 2021/02/19 15:16:17 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:18: missing ',' in parameter list
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:20 PM] 2021/02/19 15:16:20 no signature help: cannot find an enclosing function
+	position={16 17}
+
+[Error - 3:16:20 PM] 2021/02/19 15:16:20 no completions found: this is a definition of var i invalid type
+	position={16 19}
+
+[Error - 3:16:21 PM] 2021/02/19 15:16:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:22: expected type, found ')' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:21 PM] 2021/02/19 15:16:21 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:16:21 PM] 2021/02/19 15:16:21 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:21: expected type, found ')' (and 6 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:16:21 PM] 2021/02/19 15:16:21 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Info  - 3:16:27 PM] 2021/02/19 15:16:27 background imports cache refresh starting
+
+[Info  - 3:16:27 PM] 2021/02/19 15:16:27 background refresh finished after 476.881µs
+
+[Error - 3:16:49 PM] 2021/02/19 15:16:49 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:16:49 PM] 2021/02/19 15:16:49 unable to compute error positions: invalid position for type error -: missing return
+	package="_/home/tan/Documents/GoLang"
+
+[Error - 3:16:49 PM] 2021/02/19 15:16:49 no completions found: this is a definition of var s invalid type
+	position={18 6}
+
+[Error - 3:16:49 PM] 2021/02/19 15:16:49 no completions found: this is a definition of var sum invalid type
+	position={18 8}
+
+[Info  - 3:17:00 PM] 2021/02/19 15:17:00 background imports cache refresh starting
+
+[Info  - 3:17:00 PM] 2021/02/19 15:17:00 background refresh finished after 387.483µs
+
+[Info  - 3:17:36 PM] 2021/02/19 15:17:36 background imports cache refresh starting
+
+[Info  - 3:17:36 PM] 2021/02/19 15:17:36 background refresh finished after 458.442µs
+
+[Info  - 3:18:07 PM] 2021/02/19 15:18:07 background imports cache refresh starting
+
+[Info  - 3:18:07 PM] 2021/02/19 15:18:07 background refresh finished after 574.379µs
+
+[Info  - 3:18:37 PM] 2021/02/19 15:18:37 background imports cache refresh starting
+
+[Info  - 3:18:37 PM] 2021/02/19 15:18:37 background refresh finished after 696.533µs
+
+[Error - 3:19:11 PM] 2021/02/19 15:19:11 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:19:1: expected 'IDENT', found '}' (and 7 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:19:18 PM] 2021/02/19 15:19:18 no completions found: this is a definition of var s invalid type
+	position={16 6}
+
+[Error - 3:19:18 PM] 2021/02/19 15:19:18 no completions found: this is a definition of var sum invalid type
+	position={16 8}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_ invalid type
+	position={16 9}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_f invalid type
+	position={16 10}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_fi invalid type
+	position={16 11}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_fin invalid type
+	position={16 12}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_fina invalid type
+	position={16 13}
+
+[Error - 3:19:19 PM] 2021/02/19 15:19:19 no completions found: this is a definition of var sum_final invalid type
+	position={16 14}
+
+[Error - 3:19:20 PM] 2021/02/19 15:19:20 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:19:37 PM] 2021/02/19 15:19:37 no signature help: cannot find an enclosing function
+	position={17 28}
+
+[Info  - 3:19:41 PM] 2021/02/19 15:19:41 background imports cache refresh starting
+
+[Info  - 3:19:41 PM] 2021/02/19 15:19:41 background refresh finished after 559.224µs
+
+[Info  - 3:20:12 PM] 2021/02/19 15:20:12 background imports cache refresh starting
+
+[Info  - 3:20:12 PM] 2021/02/19 15:20:12 background refresh finished after 788.305µs
+
+[Error - 3:20:36 PM] 2021/02/19 15:20:36 no completions found: this is a definition of func main()
+	position={4 9}
+
+[Info  - 3:20:43 PM] 2021/02/19 15:20:43 background imports cache refresh starting
+
+[Info  - 3:20:43 PM] 2021/02/19 15:20:43 background refresh finished after 696.812µs
+
+[Error - 3:20:50 PM] 2021/02/19 15:20:50 no completions found: this is a definition of func s(invalid type)
+	position={29 6}
+
+[Error - 3:20:50 PM] 2021/02/19 15:20:50 no completions found: this is a definition of func sub(invalid type)
+	position={29 8}
+
+[Error - 3:20:50 PM] 2021/02/19 15:20:50 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:30:9: expected '(', found newline (and 3 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:20:50 PM] 2021/02/19 15:20:50 DocumentSymbols failed: invalid pos
+	URI=file:///home/tan/Documents/GoLang/test.go
+
+[Error - 3:20:51 PM] 2021/02/19 15:20:51 no signature help: cannot find an enclosing function
+	position={29 9}
+
+[Error - 3:20:52 PM] 2021/02/19 15:20:52 no signature help: cannot find an enclosing function
+	position={29 11}
+
+[Error - 3:20:54 PM] 2021/02/19 15:20:54 no signature help: cannot find an enclosing function
+	position={29 11}
+
+[Error - 3:21:08 PM] 2021/02/19 15:21:08 no completions found: this is a definition of var r int
+	position={23 6}
+
+[Error - 3:21:08 PM] 2021/02/19 15:21:08 no completions found: this is a definition of var res int
+	position={23 8}
+
+[Error - 3:21:09 PM] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 3:21:17 PM] 2021/02/19 15:21:17 background imports cache refresh starting
+
+[Info  - 3:21:17 PM] 2021/02/19 15:21:17 background refresh finished after 625.993µs
+
+[Error - 3:21:18 PM] 2021/02/19 15:21:18 no completions found: this is a definition of var r invalid type
+	position={31 6}
+
+[Error - 3:21:18 PM] 2021/02/19 15:21:18 no completions found: this is a definition of var res invalid type
+	position={31 8}
+
+[Error - 3:21:19 PM] 2021/02/19 15:21:19 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:32:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:21:31 PM] Request textDocument/definition failed.
+  Message: no identifier found
+  Code: 0 
+[Error - 3:21:31 PM] Request textDocument/definition failed.
+  Message: no identifier found
+  Code: 0 
+[Error - 3:21:34 PM] 2021/02/19 15:21:34 no completions found: this is a definition of func m(a int, b int) int
+	position={36 6}
+
+[Error - 3:21:34 PM] 2021/02/19 15:21:34 no completions found: this is a definition of func mul(a int, b int) int
+	position={36 8}
+
+[Error - 3:21:45 PM] 2021/02/19 15:21:45 no completions found: this is a definition of func d(a int, b int) int
+	position={43 6}
+
+[Error - 3:21:45 PM] 2021/02/19 15:21:45 no completions found: this is a definition of func div(a int, b int) int
+	position={43 8}
+
+[Info  - 3:21:47 PM] 2021/02/19 15:21:47 background imports cache refresh starting
+
+[Info  - 3:21:47 PM] 2021/02/19 15:21:47 background refresh finished after 584.856µs
+
+[Info  - 3:22:18 PM] 2021/02/19 15:22:18 background imports cache refresh starting
+
+[Info  - 3:22:18 PM] 2021/02/19 15:22:18 background refresh finished after 541.693µs
+
+[Error - 3:22:19 PM] 2021/02/19 15:22:19 no signature help: cannot find an enclosing function
+	position={16 14}
+
+[Error - 3:22:20 PM] 2021/02/19 15:22:20 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:22:20 PM] 2021/02/19 15:22:20 no completions found: this is a definition of var s int
+	position={16 16}
+
+[Error - 3:22:21 PM] 2021/02/19 15:22:21 no completions found: this is a definition of var sub int
+	position={16 18}
+
+[Error - 3:22:21 PM] 2021/02/19 15:22:21 no completions found: this is a definition of var subFi int
+	position={16 20}
+
+[Error - 3:22:21 PM] 2021/02/19 15:22:21 no completions found: this is a definition of var subFin int
+	position={16 21}
+
+[Error - 3:22:21 PM] 2021/02/19 15:22:21 no completions found: this is a definition of var subFina int
+	position={16 22}
+
+[Error - 3:22:21 PM] 2021/02/19 15:22:21 no completions found: this is a definition of var subFinal int
+	position={16 23}
+
+[Error - 3:22:22 PM] 2021/02/19 15:22:22 no signature help: cannot find an enclosing function
+	position={16 24}
+
+[Error - 3:22:22 PM] 2021/02/19 15:22:22 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:22:23 PM] 2021/02/19 15:22:23 no completions found: this is a definition of var m int
+	position={16 26}
+
+[Error - 3:22:23 PM] 2021/02/19 15:22:23 no completions found: this is a definition of var mul int
+	position={16 28}
+
+[Error - 3:22:24 PM] 2021/02/19 15:22:24 no completions found: this is a definition of var mulFi int
+	position={16 30}
+
+[Error - 3:22:24 PM] 2021/02/19 15:22:24 no completions found: this is a definition of var mulFin int
+	position={16 31}
+
+[Error - 3:22:24 PM] 2021/02/19 15:22:24 no completions found: this is a definition of var mulFina int
+	position={16 32}
+
+[Error - 3:22:24 PM] 2021/02/19 15:22:24 no completions found: this is a definition of var mulFinal int
+	position={16 33}
+
+[Error - 3:22:25 PM] 2021/02/19 15:22:25 no signature help: cannot find an enclosing function
+	position={16 34}
+
+[Error - 3:22:25 PM] 2021/02/19 15:22:25 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:17:6: missing variable type or initialization
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Error - 3:22:27 PM] 2021/02/19 15:22:27 no completions found: this is a definition of var d int
+	position={16 36}
+
+[Error - 3:22:27 PM] 2021/02/19 15:22:27 no completions found: this is a definition of var div int
+	position={16 38}
+
+[Error - 3:22:28 PM] 2021/02/19 15:22:28 no completions found: this is a definition of var divFi int
+	position={16 40}
+
+[Error - 3:22:28 PM] 2021/02/19 15:22:28 no completions found: this is a definition of var divFin int
+	position={16 41}
+
+[Error - 3:22:28 PM] 2021/02/19 15:22:28 no completions found: this is a definition of var divFina int
+	position={16 42}
+
+[Error - 3:22:28 PM] 2021/02/19 15:22:28 no completions found: this is a definition of var divFinal int
+	position={16 43}
+
+[Info  - 3:22:48 PM] 2021/02/19 15:22:48 background imports cache refresh starting
+
+[Info  - 3:22:48 PM] 2021/02/19 15:22:48 background refresh finished after 379.731µs
+
+[Info  - 3:23:21 PM] 2021/02/19 15:23:21 background imports cache refresh starting
+
+[Info  - 3:23:21 PM] 2021/02/19 15:23:21 background refresh finished after 575.148µs
+
+[Error - 3:23:42 PM] 2021/02/19 15:23:42 imports fixes: AllImportsFixes: /home/tan/Documents/GoLang/test.go:29:15: expected ';', found is (and 2 more errors)
+	file="/home/tan/Documents/GoLang/test.go"
+
+[Info  - 3:23:51 PM] 2021/02/19 15:23:51 background imports cache refresh starting
+
+[Info  - 3:23:51 PM] 2021/02/19 15:23:51 background refresh finished after 634.304µs
+

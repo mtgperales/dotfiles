@@ -1,0 +1,181 @@
+[2021-02-19 14:09:26.755] [exthost] [info] extension host started
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-19 14:09:26.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-19 14:09:26.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-19 14:09:26.866] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-19 14:09:26.872] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-19 14:09:26.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-19 14:09:27.246] [exthost] [info] eager extensions activated
+[2021-02-19 14:09:27.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:09:27.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-19 14:09:27.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:09:27.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-19 14:09:27.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:09:27.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-19 14:09:27.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-19 14:09:27.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-19 14:13:09.067] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-19 14:13:10.082] [exthost] [info] exiting with code 0
+[2021-02-19 14:13:11.208] [exthost] [info] extension host started
+[2021-02-19 14:13:11.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-19 14:13:11.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-19 14:13:11.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-19 14:13:11.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-19 14:13:11.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-19 14:13:11.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-19 14:13:11.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-19 14:13:11.402] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-02-19 14:13:11.409] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-19 14:13:11.409] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-19 14:13:11.598] [exthost] [info] eager extensions activated
+[2021-02-19 14:13:11.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:13:11.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-19 14:13:11.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:13:11.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-19 14:13:11.612] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-02-19 14:13:11.612] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-02-19 14:13:11.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-19 14:13:11.941] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-19 14:17:15.759] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":false,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"onLanguage:go"}
+[2021-02-19 14:17:15.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js
+[2021-02-19 14:28:56.932] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:28:56.961] [exthost] [error] Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:29:01.051] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:01.052] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:29:11.400] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:11.400] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:29:37.447] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:37.448] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:29:39.232] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:39.232] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:29:40.312] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:40.312] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:29:40.794] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:29:40.795] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:30:18.748] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:30:18.749] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:31:23.167] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:23.167] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:31:26.145] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:26.145] [exthost] [error] Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:31:28.764] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:28.764] [exthost] [error] Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:31:37.496] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:37.496] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:31:42.041] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:42.041] [exthost] [error] Error: no object found for ident main: no object found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:31:42.263] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:42.263] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:31:42.814] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:42.815] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:31:54.177] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:31:54.177] [exthost] [error] Canceled: Canceled
+	at LanguageClient.makeCancelError (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13227:24)
+	at LanguageClient.handleFailedRequest (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:13217:28)
+	at /home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:11753:39
+[2021-02-19 14:34:53.674] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:34:53.696] [exthost] [error] Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:45:25.963] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:45:25.963] [exthost] [error] Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:58:17.246] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 14:58:17.247] [exthost] [error] Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:08:11.476] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 15:08:11.476] [exthost] [error] Error: context canceled
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:21:09.448] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 15:21:09.448] [exthost] [error] Error: context canceled
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:21:31.426] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 15:21:31.426] [exthost] [error] Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:21:31.781] [exthost] [error] [golang.go] provider FAILED
+[2021-02-19 15:21:31.782] [exthost] [error] Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:24:22.053] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-19 15:24:23.090] [exthost] [info] exiting with code 0

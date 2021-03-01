@@ -1,0 +1,60 @@
+[2021-02-19 14:13:10.377] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tan/Documents/GoLang/.vscode'
+[2021-02-19 14:28:56.968] [renderer1] [error] Illegal argument: range: Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:31:26.148] [renderer1] [error] Illegal argument: range: Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:31:28.765] [renderer1] [error] Illegal argument: range: Error: Illegal argument: range
+	at Object.S [as illegalArgument] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1232)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:39583)
+	at new ke (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at new ProtocolDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:63977:9)
+	at asDocumentLink (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82579:20)
+	at Array.map (<anonymous>)
+	at asDocumentLinks (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:82592:22)
+[2021-02-19 14:31:42.042] [renderer1] [error] no object found for ident main: no object found: Error: no object found for ident main: no object found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:34:53.697] [renderer1] [error] no identifier found: Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:45:25.967] [renderer1] [error] no identifier found: Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 14:58:17.250] [renderer1] [error] no identifier found: Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:08:11.496] [renderer1] [error] context canceled: Error: context canceled
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:21:09.452] [renderer1] [error] context canceled: Error: context canceled
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)
+[2021-02-19 15:21:31.427] [renderer1] [error] no identifier found: Error: no identifier found
+	at handleResponse (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77229:48)
+	at processMessageQueue (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77044:17)
+	at Immediate.<anonymous> (/home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js:77028:13)
+	at processImmediate (internal/timers.js:456:21)

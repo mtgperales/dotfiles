@@ -129,11 +129,15 @@ alias du="sudo dnf upgrade"
 alias c="clear"
 
 # path
-export PATH=$PATH:~/flutter/bin
-export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
-export ANDROID_SDK_ROOT='/opt/android-sdk'
+export PATH=$PATH:~/Apps/Flutter/bin
+export JAVA_HOME='/usr/lib/jvm/java-1.8.0-openjdk'
+export PATH=$PATH:$JAVA_HOME/bin
+export ANDROID_SDK_ROOT='~/Apps/android/android-sdk'
+export PATH=$PATH:/home/tan/Apps/android/android-sdk/platform-tools/
+export PATH=$PATH:~/Apps/android/cmdline-tools/bin/
 export EDITOR='nvim'
 export SCRIPT_DIR='~/.config/i3blocks'
+export PATH=$PATH:~/Apps/waterfox/
 
 # NNN config
 export NNN_COLORS="2136"                           # use a different color for each context

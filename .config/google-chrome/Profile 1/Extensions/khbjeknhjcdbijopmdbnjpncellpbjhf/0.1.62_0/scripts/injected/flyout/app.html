@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app="copycat" sync-on-scroll>
+  <head>
+    <title>Copycat</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="vendor.css">
+    <link rel="stylesheet" href="app.css">
+  </head>
+  <body>
+    <div class="container copycat-container">
+      <nav ng-controller="NavbarController as view">
+        <header class="nav-header">
+          <h4>
+            <img src="images/icon-19.png" class="copycat-logo">opycat
+          </h4>
+          <a ng-show="!view.isActive('/options')" class="options" href="" ng-click="view.goToOptions()">
+            <span class="glyphicon glyphicon-cog"></span> Options
+          </a>
+          <a ng-show="view.isActive('/options')" class="options" href="" ng-click="view.goBack()">
+            <span class="glyphicon glyphicon-chevron-left"></span> Back
+          </a>
+        </header>
+        <ul class="nav nav-tabs" ng-show="!view.isActive('/options')">
+          <li ng-class="{ active: view.isActive('/') }">
+            <a href="" ng-click="view.goToClips()">Clips</a>
+          </li>
+          <li ng-class="{ active: view.isActive('/archive') }">
+            <a href="" ng-click="view.goToArchive()">Trash</a>
+          </li>
+        </ul>
+      </nav>
+      <div ng-view="" class="copycat-contents"></div>
+      <div class="footer">&copy; 2015 Follett School Solutions Inc.</div>
+    </div>
+
+    <script src="vendor.js"></script>
+
+    <script src="app.js"></script>
+  </body>
+</html>

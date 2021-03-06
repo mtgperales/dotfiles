@@ -2,6 +2,7 @@
     "telemetry.machineId": "809f9e6ddfcfb67e0cc08b941b8d5d32168f1a9b3c564e3413a4f570b2d6646c",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/tan/Documents/Flutter/Cyclista",
             "file:///home/tan/Documents/GoLang"
         ],
         "files2": []
@@ -50,7 +51,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tan/Documents/GoLang",
+                                        "fsPath": "/home/tan/Documents/Flutter/Cyclista",
+                                        "external": "file:///home/tan/Documents/Flutter/Cyclista",
+                                        "path": "/home/tan/Documents/Flutter/Cyclista",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Flutter/Cyclista"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/tan/Documents/GoLang",
                                         "path": "/home/tan/Documents/GoLang",
                                         "scheme": "file"
@@ -583,8 +595,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1464,8 +1475,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/tan/Documents/GoLang",
-            "backupPath": "/home/tan/.config/Code/Backups/636283b4ddbb7bdd6998f0c129bd4d6f",
+            "folder": "file:///home/tan/Documents/Flutter/Cyclista",
+            "backupPath": "/home/tan/.config/Code/Backups/61dd4d7bd291b54fb2bdc2e47ffbc06c",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1476,5 +1487,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/tan/Documents"
+    "pickerWorkingDir": "/home/tan/Documents/Flutter"
 }

@@ -1,13 +1,9 @@
-2021/02/22-10:25:35.609 b8e Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2021/02/22-10:25:37.479 b8e Level-0 table #5: started
-2021/02/22-10:25:37.576 b8e Level-0 table #5: 1205817 bytes OK
-2021/02/22-10:25:37.643 b8e Delete type=0 #3
-2021/02/22-10:34:40.391 e4a Level-0 table #7: started
-2021/02/22-10:34:40.545 e4a Level-0 table #7: 1551365 bytes OK
-2021/02/22-10:34:40.590 e4a Delete type=0 #4
-2021/02/22-10:44:43.039 e8f Level-0 table #9: started
-2021/02/22-10:44:43.237 e8f Level-0 table #9: 2169794 bytes OK
-2021/02/22-10:44:43.304 e8f Delete type=0 #6
-2021/02/22-10:55:45.433 ecf Level-0 table #11: started
-2021/02/22-10:55:45.629 ecf Level-0 table #11: 2422621 bytes OK
-2021/02/22-10:55:45.674 ecf Delete type=0 #8
+2021/03/02-17:55:28.026 7b3 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/03/02-17:55:28.146 7b3 Recovering log #19
+2021/03/02-17:55:28.654 7b3 Reusing old log /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000019.log 
+2021/03/02-17:58:34.812 936 Level-0 table #23: started
+2021/03/02-17:58:35.003 936 Level-0 table #23: 2173333 bytes OK
+2021/03/02-17:58:35.059 936 Delete type=0 #19
+2021/03/02-18:03:35.489 be8 Level-0 table #25: started
+2021/03/02-18:03:35.697 be8 Level-0 table #25: 2596404 bytes OK
+2021/03/02-18:03:35.753 be8 Delete type=0 #22

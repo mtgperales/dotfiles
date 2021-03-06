@@ -1,5 +1,5 @@
-2021/02/28-18:35:11.269 be2 Recovering log #116
-2021/02/28-18:35:11.269 be2 Level-0 table #118: started
-2021/02/28-18:35:11.297 be2 Level-0 table #118: 157 bytes OK
-2021/02/28-18:35:11.665 be2 Delete type=0 #116
-2021/02/28-18:35:11.665 be2 Delete type=3 #114
+2021/03/05-17:04:19.979 7ce Recovering log #138
+2021/03/05-17:04:19.987 7ce Level-0 table #141: started
+2021/03/05-17:04:20.108 7ce Level-0 table #141: 2168 bytes OK
+2021/03/05-17:04:21.045 7ce Delete type=0 #138
+2021/03/05-17:04:21.045 7ce Delete type=3 #136

@@ -1,3 +1,6 @@
-2021/02/28-18:15:01.449 3 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/02/28-18:15:02.562 3 Recovering log #37
-2021/02/28-18:15:02.768 3 Reusing old log /home/tan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000037.log 
+2021/03/06-12:07:06.946 3 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/06-12:07:06.979 3 Recovering log #79
+2021/03/06-12:07:07.052 3 Reusing old log /home/tan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000079.log 
+2021/03/06-12:09:23.080 3 Level-0 table #82: started
+2021/03/06-12:09:23.218 3 Level-0 table #82: 23884 bytes OK
+2021/03/06-12:09:23.308 3 Delete type=0 #79

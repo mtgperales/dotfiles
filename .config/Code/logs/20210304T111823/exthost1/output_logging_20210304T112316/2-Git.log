@@ -1,0 +1,389 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/tan/Documents/Flutter/Cyclista
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/main.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/main.dart
+> git cat-file -s bb7260e14670f09eabd65638f1cb9711430f210e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/main.dart
+> git cat-file -s bb7260e14670f09eabd65638f1cb9711430f210e
+> git show --textconv :lib/main.dart
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :android/local.properties
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/android/local.properties
+> git show --textconv :lib/main.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/main.dart
+> git cat-file -s bb7260e14670f09eabd65638f1cb9711430f210e
+> git show --textconv :android/local.properties
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/android/local.properties
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git rev-parse --git-dir
+Open repository: /home/tan/Apps/Flutter
+> git status -z -u
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/mapbox_gl-0.9.0/lib/src/mapbox_map.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl-0.9.0/lib/src/mapbox_map.dart
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/stable refs/remotes/stable
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Apps/Flutter/.git/refs/remotes/origin/stable', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/src/location.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/src/location.dart
+> git check-ignore -v -z --stdin
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/mapbox_gl_platform_interface.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/mapbox_gl_platform_interface.dart
+> git check-ignore -v -z --stdin
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/src/location.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/src/location.dart
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/mapbox_gl_platform_interface.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/mapbox_gl_platform_interface-0.9.0/lib/mapbox_gl_platform_interface.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/screens/home.dart
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/location-2.5.4/lib/location.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/location-2.5.4/lib/location.dart
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :.pub-cache/hosted/pub.dartlang.org/location-2.5.4/lib/location.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/hosted/pub.dartlang.org/location-2.5.4/lib/location.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :.pub-cache/git/flutter_speed_dial-3061d8027c542206d60598a2fce639cf64bfdb35/lib/src/speed_dial.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/git/flutter_speed_dial-3061d8027c542206d60598a2fce639cf64bfdb35/lib/src/speed_dial.dart
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/screens/home.dart
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :.pub-cache/git/flutter_speed_dial-3061d8027c542206d60598a2fce639cf64bfdb35/lib/src/speed_dial.dart
+> git ls-files --stage -- /home/tan/Apps/Flutter/.pub-cache/git/flutter_speed_dial-3061d8027c542206d60598a2fce639cf64bfdb35/lib/src/speed_dial.dart
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c

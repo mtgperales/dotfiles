@@ -1,0 +1,15 @@
+2021/03/02-19:05:48.119 e8d Reusing MANIFEST /home/tan/.config/google-chrome/Profile 1/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/02-19:05:48.119 e8d Recovering log #7
+2021/03/02-19:05:48.120 e8d Reusing old log /home/tan/.config/google-chrome/Profile 1/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/000007.log 
+2021/03/02-19:06:07.746 e86 Level-0 table #12: started
+2021/03/02-19:06:07.811 e86 Level-0 table #12: 2247 bytes OK
+2021/03/02-19:06:07.856 e86 Delete type=0 #7
+2021/03/02-19:06:07.856 e86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/02-19:06:07.856 e86 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xe0\xf5\xd8)\x7fwB\x00\x01P\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x005\x00c\x003\x001\x00b\x00a\x007\x00a\x00f\x007\x00b\x00c\x005\x002\x008\x000\x003\x00b\x003\x006\x007\x008\x00c\x000\x005\x00e\x000\x008\x00a\x00a\x003\x000\x00.\x00j\x00p\x00g' @ 1773 : 1
+2021/03/02-19:06:07.856 e86 Compacting 1@1 + 1@2 files
+2021/03/02-19:06:07.899 e86 Generated table #13@1: 345 keys, 37289 bytes
+2021/03/02-19:06:07.900 e86 Compacted 1@1 + 1@2 files => 37289 bytes
+2021/03/02-19:06:07.943 e86 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/02-19:06:07.944 e86 Delete type=2 #9
+2021/03/02-19:06:07.944 e86 Delete type=2 #12
+2021/03/02-19:06:07.944 e86 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xe0\xf5\xd8)\x7fwB\x00\x01P\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x005\x00c\x003\x001\x00b\x00a\x007\x00a\x00f\x007\x00b\x00c\x005\x002\x008\x000\x003\x00b\x003\x006\x007\x008\x00c\x000\x005\x00e\x000\x008\x00a\x00a\x003\x000\x00.\x00j\x00p\x00g' @ 1773 : 1 .. (end); will stop at (end)

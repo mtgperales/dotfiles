@@ -1,0 +1,13 @@
+[2021-03-03 15:18:03.389] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-03 15:18:56.013] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2021-03-03 15:18:56.855] [sharedprocess] [info] Downloaded extension: dart-code.flutter undefined
+[2021-03-03 15:18:56.945] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dart-code.flutter-3.20.0: dart-code.flutter
+[2021-03-03 15:18:56.945] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dart-code.flutter-3.20.0
+[2021-03-03 15:18:56.948] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2021-03-03 15:18:57.299] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-03-03 15:18:58.052] [sharedprocess] [info] Downloaded extension: dart-code.dart-code undefined
+[2021-03-03 15:19:13.239] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dart-code.dart-code-3.20.0: dart-code.dart-code
+[2021-03-03 15:19:13.239] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dart-code.dart-code-3.20.0
+[2021-03-03 15:19:13.245] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-03-03 15:19:13.324] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2021-03-03 15:19:13.328] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter

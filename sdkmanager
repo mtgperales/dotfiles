@@ -1,0 +1,1 @@
+sdkmanager --sdk_root=~/Apps/android/android-sdk --install "platforms;android-30" "build-tools;30.0.3" "extras;google;m2repository" "extras;android;m2repository"

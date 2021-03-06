@@ -1,0 +1,102 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/tan",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 3747620864,
+					"total": 3747620864,
+					"elapsed": 1675,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1614660158,
+					"completed-time": 1614661833,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1614660158
+						}
+					]
+				},
+				"common": {
+					"name": "en_windows_7_enterprise_x64_dvd.iso",
+					"uri": "http:\/\/207.180.222.194\/en_windows_7_enterprise_x64_dvd.iso",
+					"file": "en_windows_7_enterprise_x64_dvd.iso",
+					"folder": "\/home\/tan\/Downloads",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/tan\/Downloads\/en_windows_7_enterprise_x64_dvd.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

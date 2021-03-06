@@ -1,0 +1,94 @@
+[2021-03-04 11:18:29.230] [exthost] [info] extension host started
+[2021-03-04 11:18:29.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-04 11:18:29.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-04 11:18:29.401] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":false,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"onLanguage:go"}
+[2021-03-04 11:18:29.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/golang.go-0.22.1/dist/goMain.js
+[2021-03-04 11:18:30.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-04 11:18:30.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-04 11:18:30.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-04 11:18:30.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-04 11:18:30.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-04 11:18:30.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-04 11:18:31.545] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-04 11:18:31.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-04 11:18:32.551] [exthost] [info] eager extensions activated
+[2021-03-04 11:18:32.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:18:32.682] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-04 11:18:33.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:18:33.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-04 11:18:33.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:18:33.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-04 11:18:33.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-04 11:18:33.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-04 11:23:13.758] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-04 11:23:14.781] [exthost] [info] exiting with code 0
+[2021-03-04 11:23:16.234] [exthost] [info] extension host started
+[2021-03-04 11:23:16.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-04 11:23:16.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-04 11:23:16.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-04 11:23:16.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-04 11:23:16.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-04 11:23:16.316] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-04 11:23:16.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-04 11:23:16.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-04 11:23:16.501] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-04 11:23:16.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-04 11:23:16.649] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":true,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"workspaceContains:**/pubspec.yaml,**/*.dart"}
+[2021-03-04 11:23:16.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/dart-code.dart-code-3.20.1/out/dist/extension
+[2021-03-04 11:23:17.013] [exthost] [info] eager extensions activated
+[2021-03-04 11:23:17.104] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"api"}
+[2021-03-04 11:23:17.104] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/dart-code.flutter-3.20.0/out/src/extension
+[2021-03-04 11:23:17.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:23:17.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-04 11:23:17.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:23:17.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-04 11:23:17.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-04 11:23:17.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-04 11:23:17.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-04 11:23:17.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-04 11:23:31.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-04 11:23:31.984] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-04 11:23:32.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-04 11:23:32.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-04 11:23:32.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-04 11:23:32.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-03-04 13:47:53.952] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 13:54:50.528] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 13:56:13.109] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:08:13.857] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:22:41.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
+[2021-03-04 14:22:41.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/image-preview/dist/extension
+[2021-03-04 14:22:48.459] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:38:03.826] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:38:24.335] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:39:34.560] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:53:13.750] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 14:57:42.637] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:00:20.871] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:01:35.019] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:04:45.417] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:07:15.634] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:08:42.529] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:08:48.462] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:09:06.136] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:09:28.846] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:09:34.937] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:32:09.042] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 15:52:05.027] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:02:52.026] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:02:56.033] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:10:20.068] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:20:17.662] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:34:52.999] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 16:56:24.708] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:02:04.303] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:06:59.064] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:09:44.811] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:20:38.251] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:20:41.697] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:20:44.445] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:20:46.356] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:24:16.420] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:24:26.659] [exthost] [warning] TextEditor is closed/disposed
+[2021-03-04 17:55:25.765] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-04 17:55:27.898] [exthost] [info] exiting with code 0

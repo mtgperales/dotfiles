@@ -1,0 +1,4 @@
+[2021-03-04 11:18:28.143] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tan/Documents/GoLang/.vscode'
+[2021-03-04 11:23:15.117] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tan/Documents/Flutter/Cyclista/.vscode'
+[2021-03-04 11:40:13.151] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-03-04 11:40:13.270] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

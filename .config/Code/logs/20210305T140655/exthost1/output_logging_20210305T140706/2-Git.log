@@ -1,0 +1,692 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/tan/Documents/Flutter/Cyclista
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lib/ui/screens/modules/profile/profile_update.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/modules/profile/profile_update.dart
+> git cat-file -s eb4ed837f9d985b17c75a7b9ea03ea5a07513357
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git show --textconv :pubspec.yaml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/widgets/popup.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/widgets/popup.dart
+> git show --textconv :pubspec.yaml
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/pubspec.yaml
+> git cat-file -s 7b6c17241ba0bd7adf79c1104b2813f5d73150bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lib/ui/screens/home.dart
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/tan/Documents/Flutter/Cyclista/.git/refs/remotes/origin/dev', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/tan/Documents/Flutter/Cyclista/lib/ui/screens/home.dart
+> git cat-file -s 3d7951ff01dec0ab02552621555350a7cf8c982c
+> git show --textconv :lib/ui/screens/home.dart

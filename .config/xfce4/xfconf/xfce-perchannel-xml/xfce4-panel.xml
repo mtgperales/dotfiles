@@ -63,6 +63,8 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="uget-gtk"/>
         <value type="string" value="qbittorrent"/>
         <value type="string" value="task manager"/>
         <value type="string" value="seapplet"/>
@@ -79,7 +81,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance10037;chromium.instance1959;chromium.instance2011;chromium.instance2036;chromium.instance2064;chromium.instance2080;chromium.instance2097;chromium.instance2665;chromium.instance3128;chromium.instance3346;chromium.instance5621"/>
+      <property name="mpris-players" type="string" value="chromium.instance10037;chromium.instance1878;chromium.instance1959;chromium.instance2011;chromium.instance2036;chromium.instance2064;chromium.instance2080;chromium.instance2097;chromium.instance2665;chromium.instance3128;chromium.instance3346;chromium.instance5621"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>

@@ -1,3 +1,5 @@
-2021/03/01-10:55:45.154 5 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/03/01-10:55:45.194 5 Recovering log #25
-2021/03/01-10:55:45.206 5 Reusing old log /home/tan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000025.log 
+2021/03/06-14:17:19.776 5 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/03/06-14:17:19.861 5 Recovering log #34
+2021/03/06-14:17:19.924 5 Level-0 table #37: started
+2021/03/06-14:17:23.797 5 Level-0 table #37: 10687 bytes OK
+2021/03/06-14:17:24.288 5 Delete type=0 #34

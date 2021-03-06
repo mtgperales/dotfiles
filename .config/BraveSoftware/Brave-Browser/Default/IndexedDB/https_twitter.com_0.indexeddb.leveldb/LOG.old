@@ -1,0 +1,5 @@
+2021/03/05-11:01:15.222 cf1 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-11:01:23.216 cf0 Level-0 table #5: started
+2021/03/05-11:01:23.282 cf0 Level-0 table #5: 829 bytes OK
+2021/03/05-11:01:23.370 cf0 Delete type=0 #3
+2021/03/05-11:01:23.370 cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

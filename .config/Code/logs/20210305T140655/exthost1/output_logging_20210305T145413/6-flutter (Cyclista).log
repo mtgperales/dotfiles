@@ -1,0 +1,917 @@
+[Cyclista] flutter pub get
+Running "flutter pub get" in Cyclista...                        
+Because cyclista depends on map_controller ^0.8.0 which depends on cupertino_icons ^0.1.2, cupertino_icons ^0.1.2 is required.
+
+So, because cyclista depends on cupertino_icons ^1.0.0, version solving failed.
+
+---- Log transcript ----
+
+FINE: Pub 2.10.5
+
+MSG : Resolving dependencies...
+
+SLVR: fact: cyclista is 1.0.0+1
+
+SLVR: derived: cyclista
+
+SLVR: fact: cyclista depends on flutter any from sdk
+
+SLVR: fact: cyclista depends on flutter_map any
+
+SLVR: fact: cyclista depends on flutter_map_location any
+
+SLVR: fact: cyclista depends on map_controller ^0.8.0
+
+SLVR: fact: cyclista depends on latlong any
+
+SLVR: fact: cyclista depends on location any
+
+SLVR: fact: cyclista depends on geolocator any
+
+SLVR: fact: cyclista depends on http any
+
+SLVR: fact: cyclista depends on flutter_mapbox_navigation any
+
+SLVR: fact: cyclista depends on mapbox_gl any
+
+SLVR: fact: cyclista depends on mapbox_api any
+
+SLVR: fact: cyclista depends on polyline any
+
+SLVR: fact: cyclista depends on cupertino_icons ^1.0.0
+
+SLVR: fact: cyclista depends on firebase_core ^0.5.0+1
+
+SLVR: fact: cyclista depends on cloud_firestore ^0.14.1+3
+
+SLVR: fact: cyclista depends on firebase_analytics ^6.0.2
+SLVR: fact: cyclista depends on firebase_auth ^0.18.1+2
+
+
+SLVR: fact: cyclista depends on geoflutterfire any
+
+SLVR: fact: cyclista depends on flutter_speed_dial from git
+SLVR: fact: cyclista depends on flushbar ^1.10.4
+SLVR: fact: cyclista depends on shared_preferences ^0.5.7+3
+SLVR: fact: cyclista depends on provider ^4.1.3
+SLVR: fact: cyclista depends on firebase_picture_uploader ^1.1.2
+SLVR: fact: cyclista depends on image_picker ^0.6.7+3
+
+
+
+
+
+
+
+
+SLVR: fact: cyclista depends on android_intent any
+SLVR: fact: cyclista depends on permission_handler ^5.0.0
+SLVR: fact: cyclista depends on contacts_service ^0.3.10
+
+SLVR: fact: cyclista depends on flutter_sms 2.0.0+2
+SLVR: fact: cyclista depends on url_launcher ^5.7.1
+SLVR: fact: cyclista depends on flutter_test any from sdk
+SLVR: fact: cyclista depends on build_runner ^1.3.1
+SLVR:   selecting cyclista
+SLVR:   derived: build_runner ^1.3.1
+
+
+
+
+
+
+SLVR:   derived: flutter_test any from sdk
+
+SLVR:   derived: url_launcher ^5.7.1
+
+SLVR:   derived: flutter_sms 2.0.0+2
+
+SLVR:   derived: contacts_service ^0.3.10
+
+SLVR:   derived: permission_handler ^5.0.0
+
+SLVR:   derived: android_intent any
+
+SLVR:   derived: image_picker ^0.6.7+3
+
+SLVR:   derived: firebase_picture_uploader ^1.1.2
+SLVR:   derived: provider ^4.1.3
+SLVR:   derived: shared_preferences ^0.5.7+3
+SLVR:   derived: flushbar ^1.10.4
+
+
+
+
+SLVR:   derived: flutter_speed_dial from git
+SLVR:   derived: geoflutterfire any
+SLVR:   derived: firebase_auth ^0.18.1+2
+
+
+
+SLVR:   derived: firebase_analytics ^6.0.2
+SLVR:   derived: cloud_firestore ^0.14.1+3
+
+
+SLVR:   derived: firebase_core ^0.5.0+1
+
+SLVR:   derived: cupertino_icons ^1.0.0
+
+SLVR:   derived: polyline any
+
+SLVR:   derived: mapbox_api any
+
+SLVR:   derived: mapbox_gl any
+
+SLVR:   derived: flutter_mapbox_navigation any
+
+SLVR:   derived: http any
+
+SLVR:   derived: geolocator any
+SLVR:   derived: location any
+
+
+SLVR:   derived: latlong any
+
+SLVR:   derived: map_controller ^0.8.0
+SLVR:   derived: flutter_map_location any
+
+
+SLVR:   derived: flutter_map any
+
+SLVR:   derived: flutter any from sdk
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/map_controller.
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/map_controller
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+
+    | user-agent: Dart pub 2.10.5
+IO  : HTTP response 200 OK for GET https://pub.dartlang.org/api/packages/map_controller
+
+    | took 0:00:00.497973
+
+    | transfer-encoding: chunked
+
+    | date: Fri, 05 Mar 2021 06:54:15 GMT
+
+    | content-encoding: gzip
+
+    | vary: Accept-Encoding
+
+    | strict-transport-security: max-age=31536000; preload
+
+    | via: 1.1 google
+
+    | content-type: application/json; charset="utf-8"
+
+    | x-frame-options: SAMEORIGIN
+
+    | x-xss-protection: 1; mode=block
+
+    | x-content-type-options: nosniff
+
+    | server: dart:io with Shelf
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/extra_pedantic.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/flutter_map.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/geojson.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/geopoint.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/latlong.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/pedantic.
+
+IO  : Get versions from https://pub.dartlang.org/api/packages/rxdart.
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/extra_pedantic
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+    | X-Pub-Reason: direct
+    | user-agent: Dart pub 2.10.5
+IO  : HTTP GET https://pub.dartlang.org/api/packages/flutter_map
+    | Accept: application/vnd.pub.v2+json
+
+
+
+
+
+
+
+    | X-Pub-OS: linux
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/geojson
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/geopoint
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/latlong
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/pedantic
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+IO  : HTTP GET https://pub.dartlang.org/api/packages/rxdart
+
+    | Accept: application/vnd.pub.v2+json
+
+    | X-Pub-OS: linux
+
+    | X-Pub-Command: get
+
+    | X-Pub-Session-ID: CB8AE6BE-F6FD-4A73-9F8E-5FD67166CF11
+
+    | X-Pub-Environment: vscode.dart-code:flutter_bot:flutter_cli:get
+
+    | X-Pub-Reason: direct
+
+    | user-agent: Dart pub 2.10.5
+
+SLVR:   fact: build_runner 1.10.3 depends on args ^1.4.0
+
+SLVR:   fact: build_runner 1.10.3 depends on async >=1.13.3 <3.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on build >=1.5.0 <1.6.0
+
+SLVR:   fact: build_runner 1.10.3 depends on build_config >=0.4.1 <0.4.3
+
+SLVR:   fact: build_runner 1.10.3 depends on build_daemon ^2.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on build_resolvers ^1.4.0
+
+SLVR:   fact: build_runner 1.10.3 depends on build_runner_core >=5.2.0 <7.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on code_builder >2.3.0 <4.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on collection ^1.14.0
+
+SLVR:   fact: build_runner 1.10.3 depends on crypto >=0.9.2 <3.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on dart_style ^1.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on glob ^1.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on graphs ^0.2.0
+
+SLVR:   fact: build_runner 1.10.3 depends on http_multi_server ^2.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on io ^0.3.0
+
+SLVR:   fact: build_runner 1.10.3 depends on js ^0.6.1+1
+
+SLVR:   fact: build_runner 1.10.3 depends on logging ^0.11.2
+
+SLVR:   fact: build_runner 1.10.3 depends on meta ^1.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on mime ^0.9.3+3
+
+SLVR:   fact: build_runner 1.10.3 depends on path ^1.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on pedantic ^1.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on pool ^1.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on pub_semver ^1.4.0
+
+SLVR:   fact: build_runner 1.10.3 depends on pubspec_parse ^0.1.0
+
+SLVR:   fact: build_runner 1.10.3 depends on shelf >=0.6.5 <0.8.0
+
+SLVR:   fact: build_runner 1.10.3 depends on shelf_web_socket ^0.2.2+4
+
+SLVR:   fact: build_runner 1.10.3 depends on stack_trace ^1.9.0
+
+SLVR:   fact: build_runner 1.10.3 depends on stream_transform >=0.0.20 <2.0.0
+
+SLVR:   fact: build_runner 1.10.3 depends on timing ^0.1.1
+
+SLVR:   fact: build_runner 1.10.3 depends on watcher ^0.9.7
+
+SLVR:   fact: build_runner 1.10.3 depends on web_socket_channel ^1.0.9
+
+SLVR:   fact: build_runner 1.10.3 depends on yaml ^2.1.0
+
+SLVR:     selecting build_runner 1.10.3
+
+SLVR:     derived: yaml ^2.1.0
+
+SLVR:     derived: web_socket_channel ^1.0.9
+
+SLVR:     derived: watcher ^0.9.7
+
+SLVR:     derived: timing ^0.1.1
+
+SLVR:     derived: stream_transform >=0.0.20 <2.0.0
+
+SLVR:     derived: stack_trace ^1.9.0
+
+SLVR:     derived: shelf_web_socket ^0.2.2+4
+
+SLVR:     derived: shelf >=0.6.5 <0.8.0
+
+SLVR:     derived: pubspec_parse ^0.1.0
+
+SLVR:     derived: pub_semver ^1.4.0
+
+SLVR:     derived: pool ^1.0.0
+
+SLVR:     derived: pedantic ^1.0.0
+
+SLVR:     derived: path ^1.1.0
+
+SLVR:     derived: mime ^0.9.3+3
+
+SLVR:     derived: meta ^1.1.0
+
+SLVR:     derived: logging ^0.11.2
+
+SLVR:     derived: js ^0.6.1+1
+
+SLVR:     derived: io ^0.3.0
+
+SLVR:     derived: http_multi_server ^2.1.0
+
+SLVR:     derived: graphs ^0.2.0
+
+SLVR:     derived: glob ^1.1.0
+
+SLVR:     derived: dart_style ^1.0.0
+
+SLVR:     derived: crypto >=0.9.2 <3.0.0
+
+SLVR:     derived: collection ^1.14.0
+
+SLVR:     derived: code_builder >2.3.0 <4.0.0
+
+SLVR:     derived: build_runner_core >=5.2.0 <7.0.0
+
+SLVR:     derived: build_resolvers ^1.4.0
+
+SLVR:     derived: build_daemon ^2.1.0
+
+SLVR:     derived: build_config >=0.4.1 <0.4.3
+
+SLVR:     derived: build >=1.5.0 <1.6.0
+
+SLVR:     derived: async >=1.13.3 <3.0.0
+
+SLVR:     derived: args ^1.4.0
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on flutter any from sdk
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on test_api 0.2.19-nullsafety.2
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on path 1.8.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on fake_async 1.2.0-nullsafety.1
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on clock 1.1.0-nullsafety.1
+
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on stack_trace 1.10.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on vector_math 2.1.0-nullsafety.3
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on async 2.5.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on boolean_selector 2.1.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on characters 1.1.0-nullsafety.3
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on charcode 1.2.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on collection 1.15.0-nullsafety.3
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on matcher 0.12.10-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on meta 1.3.0-nullsafety.3
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on source_span 1.8.0-nullsafety.2
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on stream_channel 2.1.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on string_scanner 1.1.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on term_glyph 1.2.0-nullsafety.1
+
+SLVR:     fact: flutter_test 0.0.0 from sdk depends on typed_data 1.3.0-nullsafety.3
+
+SLVR:       selecting flutter_test 0.0.0 from sdk
+
+SLVR:       derived: typed_data 1.3.0-nullsafety.3
+
+SLVR:       derived: term_glyph 1.2.0-nullsafety.1
+
+SLVR:       derived: string_scanner 1.1.0-nullsafety.1
+
+SLVR:       derived: stream_channel 2.1.0-nullsafety.1
+
+SLVR:       derived: source_span 1.8.0-nullsafety.2
+
+SLVR:       derived: meta 1.3.0-nullsafety.3
+
+SLVR:       derived: matcher 0.12.10-nullsafety.1
+
+SLVR:       derived: collection 1.15.0-nullsafety.3
+
+SLVR:       derived: charcode 1.2.0-nullsafety.1
+
+SLVR:       derived: characters 1.1.0-nullsafety.3
+
+SLVR:       derived: boolean_selector 2.1.0-nullsafety.1
+
+SLVR:       derived: async 2.5.0-nullsafety.1
+
+SLVR:       derived: vector_math 2.1.0-nullsafety.3
+
+SLVR:       derived: stack_trace 1.10.0-nullsafety.1
+
+SLVR:       derived: clock 1.1.0-nullsafety.1
+
+SLVR:       derived: fake_async 1.2.0-nullsafety.1
+
+SLVR:       derived: path 1.8.0-nullsafety.1
+
+SLVR:       derived: test_api 0.2.19-nullsafety.2
+
+SLVR:       fact: url_launcher 5.7.2 depends on flutter any from sdk
+
+SLVR:       fact: url_launcher 5.7.2 depends on url_launcher_platform_interface ^1.0.8
+
+SLVR:       fact: url_launcher 5.7.2 depends on url_launcher_web ^0.1.3
+
+SLVR:       fact: url_launcher 5.7.2 depends on url_launcher_linux ^0.0.1
+
+
+SLVR:       fact: url_launcher 5.7.2 depends on url_launcher_macos ^0.0.1
+SLVR:       fact: url_launcher 5.7.2 depends on url_launcher_windows ^0.0.1
+
+SLVR:         selecting url_launcher 5.7.2
+
+SLVR:         derived: url_launcher_windows ^0.0.1
+
+SLVR:         derived: url_launcher_macos ^0.0.1
+
+SLVR:         derived: url_launcher_linux ^0.0.1
+SLVR:         derived: url_launcher_web ^0.1.3
+
+
+SLVR:         derived: url_launcher_platform_interface ^1.0.8
+SLVR:         fact: flutter_sms 2.0.0+2 depends on flutter any from sdk
+SLVR:         fact: flutter_sms 2.0.0+2 depends on url_launcher ^5.4.1
+SLVR:         fact: flutter_sms 2.0.0+2 depends on flutter_web_plugins any from sdk
+
+
+
+
+SLVR:         fact: flutter_sms 2.0.0+2 depends on plugin_platform_interface ^1.0.1
+
+SLVR:           selecting flutter_sms 2.0.0+2
+
+SLVR:           derived: plugin_platform_interface ^1.0.1
+
+SLVR:           derived: flutter_web_plugins any from sdk
+
+SLVR:           fact: contacts_service 0.3.10 depends on flutter any from sdk
+
+SLVR:           fact: contacts_service 0.3.10 depends on collection ^1.14.11
+
+SLVR:           fact: contacts_service 0.3.10 depends on quiver ^2.0.0
+
+SLVR:             selecting contacts_service 0.3.10
+
+SLVR:             derived: quiver ^2.0.0
+
+SLVR:             fact: permission_handler 5.0.1+1 depends on flutter any from sdk
+
+SLVR:             fact: permission_handler 5.0.1+1 depends on meta ^1.1.6
+
+SLVR:             fact: permission_handler 5.0.1+1 depends on permission_handler_platform_interface ^2.0.1
+
+SLVR:               selecting permission_handler 5.0.1+1
+
+
+SLVR:               derived: permission_handler_platform_interface ^2.0.1
+SLVR:               fact: android_intent 0.3.7+7 depends on flutter any from sdk
+
+SLVR:               fact: android_intent 0.3.7+7 depends on platform >=2.0.0 <4.0.0
+
+SLVR:               fact: android_intent 0.3.7+7 depends on meta ^1.0.5
+
+SLVR:                 selecting android_intent 0.3.7+7
+
+SLVR:                 derived: platform >=2.0.0 <4.0.0
+
+SLVR:                 fact: image_picker 0.6.7+11 depends on flutter any from sdk
+
+SLVR:                 fact: image_picker 0.6.7+11 depends on flutter_plugin_android_lifecycle ^1.0.2
+
+SLVR:                 fact: image_picker 0.6.7+11 depends on image_picker_platform_interface ^1.1.0
+
+SLVR:                   selecting image_picker 0.6.7+11
+
+SLVR:                   derived: image_picker_platform_interface ^1.1.0
+
+SLVR:                   derived: flutter_plugin_android_lifecycle ^1.0.2
+
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on flutter any from sdk
+
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on cached_network_image ^2.3.1
+
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on firebase_storage ^4.0.0
+
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on image ^2.1.4
+
+
+
+
+
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on image_picker ^0.6.7+7
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on image_cropper ^1.3.1
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on shared_preferences ^0.5.10
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on path_provider ^1.6.14
+SLVR:                   fact: firebase_picture_uploader 1.1.2 depends on cupertino_icons ^1.0.0
+
+SLVR:                     selecting firebase_picture_uploader 1.1.2
+
+SLVR:                     derived: path_provider ^1.6.14
+
+SLVR:                     derived: shared_preferences ^0.5.10
+
+SLVR:                     derived: image_cropper ^1.3.1
+
+SLVR:                     derived: image ^2.1.4
+
+SLVR:                     derived: firebase_storage ^4.0.0
+
+SLVR:                     derived: cached_network_image ^2.3.1
+
+SLVR:                     fact: provider 4.3.2+2 depends on flutter any from sdk
+
+SLVR:                     fact: provider 4.3.2+2 depends on nested >=0.0.4 <2.0.0
+
+SLVR:                     fact: provider 4.3.2+2 depends on collection ^1.14.0
+
+SLVR:                       selecting provider 4.3.2+2
+
+SLVR:                       derived: nested >=0.0.4 <2.0.0
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on meta ^1.0.4
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on flutter any from sdk
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on shared_preferences_platform_interface ^1.0.0
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on shared_preferences_linux ^0.0.2
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on shared_preferences_macos ^0.0.1
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on shared_preferences_web ^0.1.2
+
+SLVR:                       fact: shared_preferences 0.5.12 depends on shared_preferences_windows ^0.0.1
+
+SLVR:                         selecting shared_preferences 0.5.12
+
+SLVR:                         derived: shared_preferences_windows ^0.0.1
+
+SLVR:                         derived: shared_preferences_web ^0.1.2
+
+SLVR:                         derived: shared_preferences_macos ^0.0.1
+
+SLVR:                         derived: shared_preferences_linux ^0.0.2
+
+SLVR:                         derived: shared_preferences_platform_interface ^1.0.0
+
+SLVR:                         fact: flushbar 1.10.4 depends on flutter any from sdk
+
+SLVR:                           selecting flushbar 1.10.4
+
+SLVR:                           fact: flutter_speed_dial 2.3.0 from git depends on flutter any from sdk
+
+SLVR:                             selecting flutter_speed_dial 2.3.0 from git
+
+SLVR:                             fact: geoflutterfire 2.2.1 depends on flutter any from sdk
+
+SLVR:                             fact: geoflutterfire 2.2.1 depends on cloud_firestore ^0.14.0+2
+
+SLVR:                             fact: geoflutterfire 2.2.1 depends on rxdart ^0.24.1
+
+SLVR:                               selecting geoflutterfire 2.2.1
+
+SLVR:                               derived: rxdart ^0.24.1
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on meta ^1.0.4
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on firebase_core ^0.5.0+1
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on firebase_core_platform_interface >=2.0.0 <2.1.0
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on firebase_auth_platform_interface ^2.1.1
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on firebase_auth_web ^0.3.1+1
+
+SLVR:                               fact: firebase_auth 0.18.1+2 depends on flutter any from sdk
+
+SLVR:                                 selecting firebase_auth 0.18.1+2
+
+SLVR:                                 derived: firebase_auth_web ^0.3.1+1
+
+SLVR:                                 derived: firebase_auth_platform_interface ^2.1.1
+
+SLVR:                                 derived: firebase_core_platform_interface >=2.0.0 <2.1.0
+
+
+SLVR:                                 fact: firebase_analytics 6.0.2 depends on meta ^1.0.4
+SLVR:                                 fact: firebase_analytics 6.0.2 depends on flutter any from sdk
+
+SLVR:                                 fact: firebase_analytics 6.0.2 depends on firebase_core ^0.5.0+1
+
+SLVR:                                 fact: firebase_analytics 6.0.2 depends on firebase_analytics_web ^0.1.0
+
+SLVR:                                 fact: firebase_analytics 6.0.2 depends on firebase_analytics_platform_interface ^1.0.1
+
+SLVR:                                   selecting firebase_analytics 6.0.2
+
+SLVR:                                   derived: firebase_analytics_platform_interface ^1.0.1
+
+SLVR:                                   derived: firebase_analytics_web ^0.1.0
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on flutter any from sdk
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on meta ^1.0.5
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on quiver ^2.0.0
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on firebase_core ^0.5.0+1
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on firebase_core_platform_interface >=2.0.0 <2.1.0
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on cloud_firestore_platform_interface ^2.1.2
+
+SLVR:                                   fact: cloud_firestore 0.14.1+3 depends on cloud_firestore_web ^0.2.0+4
+
+SLVR:                                     selecting cloud_firestore 0.14.1+3
+
+SLVR:                                     derived: cloud_firestore_web ^0.2.0+4
+
+SLVR:                                     derived: cloud_firestore_platform_interface ^2.1.2
+
+SLVR:                                     fact: firebase_core 0.5.0+1 depends on firebase_core_platform_interface ^2.0.0
+
+SLVR:                                     fact: firebase_core 0.5.0+1 depends on flutter any from sdk
+
+SLVR:                                     fact: firebase_core 0.5.0+1 depends on quiver ^2.0.0
+SLVR:                                     fact: firebase_core 0.5.0+1 depends on meta ^1.1.8
+
+
+SLVR:                                     fact: firebase_core 0.5.0+1 depends on firebase_core_web ^0.2.0
+
+SLVR:                                       selecting firebase_core 0.5.0+1
+SLVR:                                       derived: firebase_core_web ^0.2.0
+
+
+SLVR:                                         selecting cupertino_icons 1.0.0
+
+SLVR:                                           selecting polyline 1.0.2
+
+SLVR:                                           fact: mapbox_api 0.2.3 depends on http ^0.12.2
+
+SLVR:                                             selecting mapbox_api 0.2.3
+
+SLVR:                                             derived: http ^0.12.2
+
+SLVR:                                             fact: mapbox_gl 0.9.0 depends on flutter any from sdk
+
+SLVR:                                             fact: mapbox_gl 0.9.0 depends on mapbox_gl_platform_interface ^0.9.0
+SLVR:                                             fact: mapbox_gl 0.9.0 depends on mapbox_gl_web ^0.9.0
+
+
+SLVR:                                               selecting mapbox_gl 0.9.0
+
+SLVR:                                               derived: mapbox_gl_web ^0.9.0
+
+SLVR:                                               derived: mapbox_gl_platform_interface ^0.9.0
+
+SLVR:                                               fact: flutter_mapbox_navigation 0.0.18 depends on flutter any from sdk
+
+SLVR:                                                 selecting flutter_mapbox_navigation 0.0.18
+
+SLVR:                                                 fact: http 0.12.2 depends on http_parser >=0.0.1 <4.0.0
+
+SLVR:                                                 fact: http 0.12.2 depends on path >=0.9.0 <2.0.0
+
+SLVR:                                                 fact: http 0.12.2 depends on pedantic ^1.0.0
+
+SLVR:                                                   selecting http 0.12.2
+SLVR:                                                   derived: http_parser >=0.0.1 <4.0.0
+
+
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on flutter any from sdk
+
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on meta ^1.1.6
+
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on equatable ^1.0.3
+
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on google_api_availability ^2.0.4
+
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on location_permissions ^3.0.0
+SLVR:                                                   fact: geolocator 5.3.2+2 depends on vector_math ^2.0.8
+
+
+SLVR:                                                     selecting geolocator 5.3.2+2
+
+SLVR:                                                     derived: location_permissions ^3.0.0
+
+SLVR:                                                     derived: google_api_availability ^2.0.4
+
+SLVR:                                                     derived: equatable ^1.0.3
+
+SLVR:                                                     fact: location 3.2.4 depends on flutter any from sdk
+
+SLVR:                                                     fact: location 3.2.4 depends on location_platform_interface ^1.1.0
+
+SLVR:                                                     fact: location 3.2.4 depends on location_web ^1.0.1
+
+SLVR:                                                     fact: location 3.2.4 depends on meta ^1.0.5
+SLVR:                                                       selecting location 3.2.4
+
+
+SLVR:                                                       derived: location_web ^1.0.1
+
+SLVR:                                                       derived: location_platform_interface ^1.1.0
+SLVR:                                                       fact: latlong 0.6.1 depends on logging >=0.11.3 <1.0.0
+
+
+SLVR:                                                       fact: latlong 0.6.1 depends on console_log_handler ^1.1.0
+
+SLVR:                                                       fact: latlong 0.6.1 depends on validate ^1.0.0
+SLVR:                                                       fact: latlong 0.6.1 depends on intl >=0.15.0 <1.0.0
+
+
+SLVR:                                                         selecting latlong 0.6.1
+
+SLVR:                                                         derived: intl >=0.15.0 <1.0.0
+
+SLVR:                                                         derived: validate ^1.0.0
+
+SLVR:                                                         derived: console_log_handler ^1.1.0
+
+SLVR:                                                         derived: logging >=0.11.3 <1.0.0
+
+SLVR:                                                         fact: map_controller <0.9.0-∞ depends on cupertino_icons ^0.1.2
+
+SLVR:                                                         fact: map_controller >=0.5.0 <0.9.0-∞ depends on extra_pedantic ^1.1.1+3
+
+SLVR:                                                         fact: every version of map_controller depends on flutter any from sdk
+
+SLVR:                                                         fact: map_controller >=0.8.0 <0.9.0-∞ depends on flutter_map ^0.9.0
+
+SLVR:                                                         fact: map_controller >=0.7.1 <0.9.0-∞ depends on geojson ^0.9.1
+
+SLVR:                                                         fact: map_controller >=0.7.0 <0.9.0-∞ depends on geopoint ^0.7.1
+
+SLVR:                                                         fact: every version of map_controller depends on latlong ^0.6.1
+
+SLVR:                                                         fact: map_controller >=0.7.0 <0.9.0-∞ depends on pedantic ^1.8.0
+
+SLVR:                                                         fact: map_controller >=0.8.0 <0.9.0-∞ depends on rxdart ^0.24.1
+
+SLVR:                                                         derived: pedantic ^1.8.0
+
+SLVR:                                                         derived: geopoint ^0.7.1
+
+SLVR:                                                         derived: geojson ^0.9.1
+
+
+
+
+
+
+SLVR:                                                         derived: flutter_map ^0.9.0
+SLVR:                                                         derived: extra_pedantic ^1.1.1+3
+SLVR:                                                         conflict: map_controller <0.9.0-∞ depends on cupertino_icons ^0.1.2
+SLVR:                                                         ! map_controller <0.9.0-∞ is satisfied by map_controller ^0.8.0
+SLVR:                                                         ! which is caused by "cyclista depends on map_controller ^0.8.0"
+SLVR:                                                         ! thus: cupertino_icons ^0.1.2 is required
+
+SLVR:                                                         ! not cupertino_icons ^0.1.2 is satisfied by cupertino_icons ^1.0.0
+
+SLVR:                                                         ! which is caused by "cyclista depends on cupertino_icons ^1.0.0"
+
+SLVR:                                                         ! thus: version solving failed
+
+SLVR: Version solving took 0:00:01.350378 seconds.
+
+    | Tried 1 solutions.
+
+FINE: Resolving dependencies finished (1.5s).
+
+ERR : Because cyclista depends on map_controller ^0.8.0 which depends on cupertino_icons ^0.1.2, cupertino_icons ^0.1.2 is required.
+
+    | So, because cyclista depends on cupertino_icons ^1.0.0, version solving failed.
+
+FINE: Exception type: SolveFailure
+
+FINE: package:pub/src/solver/version_solver.dart 312:5   VersionSolver._resolveConflict
+
+    | package:pub/src/solver/version_solver.dart 133:27  VersionSolver._propagate
+
+    | package:pub/src/solver/version_solver.dart 97:11   VersionSolver.solve.<fn>
+
+    | ===== asynchronous gap ===========================
+
+    | dart:async                                         Future.catchError
+
+    | package:pub/src/utils.dart 113:52                  captureErrors.wrappedCallback
+
+    | package:stack_trace                                Chain.capture
+
+    | package:pub/src/utils.dart 126:11                  captureErrors
+    | package:pub/src/command_runner.dart 182:13         PubCommandRunner.runCommand
+
+
+---- End log transcript ----
+pub get failed (1; ---- End log transcript ----)
+exit code 1

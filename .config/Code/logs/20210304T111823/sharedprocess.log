@@ -1,0 +1,7 @@
+[2021-03-04 11:18:31.153] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-03-04 11:18:33.025] [sharedprocess] [info] Downloaded extension: dart-code.dart-code undefined
+[2021-03-04 11:18:43.667] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dart-code.dart-code-3.20.1: dart-code.dart-code
+[2021-03-04 11:18:43.668] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dart-code.dart-code-3.20.1
+[2021-03-04 11:18:43.673] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-03-04 11:18:43.764] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2021-03-04 11:19:07.575] [sharedprocess] [info] Starting to clean up unused language packs.

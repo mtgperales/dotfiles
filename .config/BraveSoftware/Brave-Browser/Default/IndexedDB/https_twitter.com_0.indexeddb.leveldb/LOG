@@ -1,0 +1,15 @@
+2021/03/05-11:01:26.708 b99 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/05-11:01:26.709 b99 Recovering log #4
+2021/03/05-11:01:26.711 b99 Reusing old log /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000004.log 
+2021/03/05-11:01:58.929 cf1 Level-0 table #8: started
+2021/03/05-11:01:58.962 cf1 Level-0 table #8: 741 bytes OK
+2021/03/05-11:01:59.039 cf1 Delete type=0 #4
+2021/03/05-11:01:59.040 cf1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/05-11:01:59.040 cf1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x05\x00q\x00u\x00e\x00u\x00e' @ 60 : 1
+2021/03/05-11:01:59.040 cf1 Compacting 1@1 + 1@2 files
+2021/03/05-11:01:59.083 cf1 Generated table #9@1: 30 keys, 621 bytes
+2021/03/05-11:01:59.083 cf1 Compacted 1@1 + 1@2 files => 621 bytes
+2021/03/05-11:01:59.171 cf1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/05-11:01:59.171 cf1 Delete type=2 #5
+2021/03/05-11:01:59.172 cf1 Delete type=2 #8
+2021/03/05-11:01:59.172 cf1 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x05\x00q\x00u\x00e\x00u\x00e' @ 60 : 1 .. (end); will stop at (end)

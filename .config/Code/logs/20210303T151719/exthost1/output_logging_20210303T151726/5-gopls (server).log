@@ -1,0 +1,30 @@
+[Info  - 3:17:28 PM] 2021/03/03 15:17:28 go env for /home/tan/Documents/GoLang
+(root /home/tan/Documents/GoLang)
+(go version go version go1.15.8 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+GOROOT=/usr/lib/golang
+GOMOD=
+GOPATH=/home/tan/go
+GOSUMDB=off
+GO111MODULE=
+GOPROXY=direct
+GONOSUMDB=
+GOPRIVATE=
+GOMODCACHE=/home/tan/go/pkg/mod
+GONOPROXY=
+GOCACHE=/home/tan/.cache/go-build
+GOINSECURE=
+GOFLAGS=
+
+
+[Info  - 3:17:29 PM] 2021/03/03 15:17:29 go/packages.Load
+	snapshot=0
+	directory=/home/tan/Documents/GoLang
+	query=[./ builtin]
+	packages=2
+
+[Info  - 3:17:59 PM] 2021/03/03 15:17:59 background imports cache refresh starting
+
+[Info  - 3:17:59 PM] 2021/03/03 15:17:59 background refresh finished after 10.344334ms
+

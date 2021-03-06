@@ -1,0 +1,15 @@
+2021/03/02-12:20:37.645 2fc7 Reusing MANIFEST /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cloud.mail.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/02-12:20:37.645 2fc7 Recovering log #7
+2021/03/02-12:20:37.646 2fc7 Reusing old log /home/tan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cloud.mail.ru_0.indexeddb.leveldb/000007.log 
+2021/03/02-12:21:30.157 3091 Level-0 table #12: started
+2021/03/02-12:21:30.277 3091 Level-0 table #12: 952 bytes OK
+2021/03/02-12:21:30.322 3091 Delete type=0 #7
+2021/03/02-12:21:30.322 3091 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/02-12:21:30.322 3091 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01$\x002\x008\x007\x001\x000\x004\x00a\x008\x00-\x008\x000\x000\x005\x00-\x004\x00d\x003\x002\x00-\x00b\x00e\x00f\x00d\x00-\x000\x00b\x003\x009\x00b\x000\x006\x003\x007\x005\x00b\x005\x00\x01$\x002\x008\x007\x001\x000\x004\x00a\x008\x00-\x008\x000\x000\x005\x00-\x004\x00d\x003\x002\x00-\x00b\x00e\x00f\x00d\x00-\x000\x00b\x003\x009\x00b\x000\x006\x003\x007\x005\x00b\x005' @ 112 : 1
+2021/03/02-12:21:30.322 3091 Compacting 1@1 + 1@2 files
+2021/03/02-12:21:30.343 3091 Generated table #13@1: 23 keys, 769 bytes
+2021/03/02-12:21:30.343 3091 Compacted 1@1 + 1@2 files => 769 bytes
+2021/03/02-12:21:30.398 3091 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/02-12:21:30.399 3091 Delete type=2 #9
+2021/03/02-12:21:30.399 3091 Delete type=2 #12
+2021/03/02-12:21:30.399 3091 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01$\x002\x008\x007\x001\x000\x004\x00a\x008\x00-\x008\x000\x000\x005\x00-\x004\x00d\x003\x002\x00-\x00b\x00e\x00f\x00d\x00-\x000\x00b\x003\x009\x00b\x000\x006\x003\x007\x005\x00b\x005\x00\x01$\x002\x008\x007\x001\x000\x004\x00a\x008\x00-\x008\x000\x000\x005\x00-\x004\x00d\x003\x002\x00-\x00b\x00e\x00f\x00d\x00-\x000\x00b\x003\x009\x00b\x000\x006\x003\x007\x005\x00b\x005' @ 112 : 1 .. (end); will stop at (end)

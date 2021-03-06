@@ -1,0 +1,13 @@
+2021/03/02-17:59:36.014 7 Reusing MANIFEST /home/tan/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2021/03/02-18:21:12.432 c Level-0 table #5: started
+2021/03/02-18:21:12.588 c Level-0 table #5: 139259 bytes OK
+2021/03/02-18:21:12.643 c Delete type=0 #3
+2021/03/02-18:24:16.613 f Level-0 table #7: started
+2021/03/02-18:24:16.740 f Level-0 table #7: 25060 bytes OK
+2021/03/02-18:24:16.797 f Delete type=0 #4
+2021/03/02-18:30:10.921 12 Level-0 table #9: started
+2021/03/02-18:30:11.050 12 Level-0 table #9: 12244 bytes OK
+2021/03/02-18:30:11.107 12 Delete type=0 #6
+2021/03/02-18:30:38.649 f Level-0 table #11: started
+2021/03/02-18:30:38.817 f Level-0 table #11: 107954 bytes OK
+2021/03/02-18:30:38.884 f Delete type=0 #8

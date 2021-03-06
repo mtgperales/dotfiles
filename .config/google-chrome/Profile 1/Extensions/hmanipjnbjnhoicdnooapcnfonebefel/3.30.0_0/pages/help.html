@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Oberlo Chrome Extension Help</title>
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <style>
+        .oberlo-panel {
+            width: 100%;
+            min-width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .oberlo-panel-body {
+            padding: 20px;
+            text-align: left;
+        }
+
+        .oberlo-panel-footer {
+            padding: 0 20px 20px;
+        }
+
+        .oberlo-form-control {
+            height: inherit;
+        }
+
+        #help-error {
+            color:#f78243;
+        }
+    </style>
+</head>
+<body class="oberlo-body">
+<!-- Do not use advanced JS in this file -->
+<div class="oberlo-panel oberlo-panel-setting">
+    <div class="oberlo-panel-body">
+        <p>You can use this extension in AliExpress order, order list, product, product category and wishlist pages.</p>
+        <p><a href="https://help.oberlo.com/other-faqs/how-to-use-the-oberlo-chrome-extension-oce" class="oberlo-anchor" target="_blank">See how it works</a></p>
+
+        <h4>Oberlo Chrome Extension Info</h4>
+        <ul id="help-info"></ul>
+        <textarea id="help-issue" class="oberlo-form-control" rows="3"
+                  placeholder="Describe your issue (optional)"></textarea>
+        <span id="help-error"></span>
+    </div>
+    <div class="oberlo-panel-footer">
+        <button id="help-send"
+                type="button"
+                class="oberlo-btn oberlo-btn-success oberlo-btn-lg oberlo-btn-block"
+        >Report a Bug
+        </button>
+    </div>
+</div>
+
+<script src="../scripts/pages/help.js"></script>
+
+</body>
+</html>

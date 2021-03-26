@@ -1,26 +1,37 @@
-{"key":"totalUploaded","value":48989190,"_id":"2fjX5CuCERhJBqnE"}
-{"key":"customMoviesServer","value":"https://popcorn-ru.tk/","_id":"3sEVk36Orwh72LEf"}
-{"key":"disclaimerAccepted","value":1,"_id":"40m4n1wgH1sm89I9"}
-{"key":"movies_default_quality","value":"1080p","_id":"4ikWKVe6gS3wwIdk"}
-{"key":"subtitle_language","value":"en","_id":"KLxSVTNoftj22NFz"}
-{"key":"customSeriesServer","value":"https://tv-v2.api-fetch.sh/","_id":"Nep1JIaLH9cAiiix"}
-{"key":"OnlineSearchCategory","value":"Movies","_id":"PVWcVyQGk5Vnhvpd"}
-{"key":"arch","value":"x64","_id":"R1AlAX3aeqijLfoL"}
-{"key":"opensubtitlesAuthenticated","value":true,"_id":"VGqLsGxZuknp6NzK"}
-{"key":"opensubtitlesPassword","value":"baff4d048a739728ffb3b448cd14e69a","_id":"dJFCJtSBbPwIwDDQ"}
-{"key":"totalDownloaded","value":3703887634,"_id":"eWuImZtj8poMku5d"}
-{"key":"language","value":"en","_id":"ekQfVyD0CFnGIINC"}
-{"key":"ipAddress","value":"192.168.100.13","_id":"k3AcVXdJ41ckhOtr"}
-{"key":"customAnimeServer","value":"","_id":"nV8PosAwhMbolS9P"}
-{"key":"opensubtitlesUsername","value":"flaryx","_id":"pImm15Q0t3tSoRUQ"}
-{"key":"lastWatchedTime","value":false,"_id":"qHDB8yhXWF7XYQP0"}
-{"key":"version","value":"0.4.4","_id":"qNxGRZ1s3elkw9Gs"}
-{"key":"os","value":"linux","_id":"qfI9HKpDEAB5FXCX"}
-{"key":"playerVolume","value":"1.00","_id":"r6kRECH6U94S7TnI"}
-{"key":"showAdvancedSettings","value":true,"_id":"xNrRfOfSt0dBuVXj"}
-{"key":"releaseName","value":"Love in the Time of Corona","_id":"xy25TbLi8XkoIN0e"}
+{"key":"disclaimerAccepted","value":1,"_id":"00GyxUaXYBrWWF7e"}
+{"key":"opensubtitlesUsername","value":"flaryx","_id":"38hmbKDpABQJO0L5"}
+{"key":"OnlineSearchCategory","value":"TV Series","_id":"6rzzr37XmFev1uwy"}
+{"key":"customMoviesServer","value":"https://popcorn-ru.tk/","_id":"7HCPcsWqYb4zjYTi"}
+{"key":"totalDownloaded","value":11029896965,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"subtitle_language","value":"en","_id":"Dhz7cornKZcuAvTx"}
+{"key":"language","value":"en","_id":"E17uAAQOHgj8CYEl"}
+{"key":"showAdvancedSettings","value":true,"_id":"IdKEROBprIMkHyRL"}
+{"key":"shows_default_quality","value":"1080p","_id":"JwLvZQVWdKS83XSy"}
+{"key":"os","value":"linux","_id":"L3JcjsznXOw684P7"}
+{"key":"totalUploaded","value":873501042,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"customSeriesServer","value":"https://popcorn-ru.tk/","_id":"Q2Jz5k4pQL9IcEG0"}
+{"key":"opensubtitlesAuthenticated","value":true,"_id":"SJ4JKgE14GkLRHpQ"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"U5VKXblOYSqO4TVC"}
+{"key":"ipAddress","value":"192.168.100.13","_id":"eQsOseZHB5K1VigZ"}
+{"key":"opensubtitlesPassword","value":"baff4d048a739728ffb3b448cd14e69a","_id":"h2CmdbcymcOWOEFZ"}
+{"key":"arch","value":"x64","_id":"uskglZRzmxaWdMW1"}
+{"key":"version","value":"0.4.4","_id":"vPgl7NjMHxHBkNcr"}
+{"key":"chosenPlayer","value":"VLC","_id":"wEyEL1a8gtZqTks4"}
 {"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
-{"key":"version","value":"0.4.4","_id":"qNxGRZ1s3elkw9Gs"}
-{"key":"releaseName","value":"Love in the Time of Corona","_id":"xy25TbLi8XkoIN0e"}
-{"key":"arch","value":"x64","_id":"R1AlAX3aeqijLfoL"}
-{"key":"os","value":"linux","_id":"qfI9HKpDEAB5FXCX"}
+{"key":"version","value":"0.4.4","_id":"vPgl7NjMHxHBkNcr"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"U5VKXblOYSqO4TVC"}
+{"key":"arch","value":"x64","_id":"uskglZRzmxaWdMW1"}
+{"key":"os","value":"linux","_id":"L3JcjsznXOw684P7"}
+{"key":"OnlineSearchCategory","value":"TV Series","_id":"6rzzr37XmFev1uwy"}
+{"key":"totalDownloaded","value":11029896965,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":873501042,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":12187524869,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":7653708146,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":13345152773,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":14433915250,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":15287115525,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":18935222642,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":17229078277,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":23436530034,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":19352248069,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":23701688690,"_id":"NjKC9tjmLd8OrdCB"}

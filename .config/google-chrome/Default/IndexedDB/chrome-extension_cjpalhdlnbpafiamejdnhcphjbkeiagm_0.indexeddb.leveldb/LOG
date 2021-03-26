@@ -1,8 +1,8 @@
-2021/03/02-18:45:19.646 87d Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/02-18:45:19.647 87d Recovering log #10
-2021/03/02-18:45:19.647 87d Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000010.log 
-2021/03/02-18:45:21.801 835 Level-0 table #14: started
-2021/03/02-18:45:21.801 835 Level-0 table #14: 0 bytes OK
-2021/03/02-18:45:22.581 835 Delete type=0 #10
-2021/03/02-18:45:22.582 835 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/02-18:45:22.582 835 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/03/23-22:06:44.537 9da Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-22:06:44.537 9da Recovering log #118
+2021/03/23-22:06:44.537 9da Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000118.log 
+2021/03/23-22:06:46.622 9bc Level-0 table #122: started
+2021/03/23-22:06:46.622 9bc Level-0 table #122: 0 bytes OK
+2021/03/23-22:06:47.342 9bc Delete type=0 #118
+2021/03/23-22:06:47.343 9bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/23-22:06:47.343 9bc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

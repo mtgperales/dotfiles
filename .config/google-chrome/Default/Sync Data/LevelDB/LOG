@@ -1,3 +1,15 @@
-2021/03/02-18:45:14.300 836 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/03/02-18:45:14.300 836 Recovering log #3
-2021/03/02-18:45:14.301 836 Reusing old log /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2021/03/25-20:54:13.921 8b7 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/03/25-20:54:14.395 8b7 Recovering log #73
+2021/03/25-20:54:14.580 8b7 Reusing old log /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/000073.log 
+2021/03/25-20:59:00.368 b64 Level-0 table #77: started
+2021/03/25-20:59:00.520 b64 Level-0 table #77: 130419 bytes OK
+2021/03/25-20:59:00.597 b64 Delete type=0 #73
+2021/03/25-20:59:00.598 b64 Compacting 4@0 + 1@1 files
+2021/03/25-20:59:00.652 b64 Generated table #78@0: 116 keys, 14549 bytes
+2021/03/25-20:59:00.652 b64 Compacted 4@0 + 1@1 files => 14549 bytes
+2021/03/25-20:59:01.571 b64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-20:59:01.572 b64 Delete type=2 #67
+2021/03/25-20:59:01.572 b64 Delete type=2 #69
+2021/03/25-20:59:01.572 b64 Delete type=2 #72
+2021/03/25-20:59:01.572 b64 Delete type=2 #74
+2021/03/25-20:59:01.572 b64 Delete type=2 #77

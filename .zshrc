@@ -126,10 +126,12 @@ alias apk-release="adb install ~/cyclista/build/app/outputs/flutter-apk/app-rele
 alias se="sudo edit"
 alias di="sudo dnf install"
 alias du="sudo dnf upgrade"
+alias ds="sudo dnf search"
+alias e="exit"
 alias c="clear"
 
 # path
-export PATH=$PATH:~/Apps/Flutter/bin
+export PATH=$PATH:~/Apps/flutter/bin
 export JAVA_HOME='/usr/lib/jvm/java-1.8.0-openjdk'
 export PATH=$PATH:$JAVA_HOME/bin
 export ANDROID_SDK_ROOT='~/Apps/android/android-sdk'

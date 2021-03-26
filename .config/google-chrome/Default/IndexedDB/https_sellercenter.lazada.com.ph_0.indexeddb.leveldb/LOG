@@ -1,0 +1,15 @@
+2021/03/25-22:24:27.108 1681 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-22:24:27.109 1681 Recovering log #6
+2021/03/25-22:24:27.109 1681 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter.lazada.com.ph_0.indexeddb.leveldb/000006.log 
+2021/03/25-22:24:59.333 1681 Level-0 table #11: started
+2021/03/25-22:24:59.376 1681 Level-0 table #11: 2130 bytes OK
+2021/03/25-22:24:59.442 1681 Delete type=0 #6
+2021/03/25-22:24:59.443 1681 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/25-22:24:59.443 1681 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01 \x04\x00\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4468 : 1
+2021/03/25-22:24:59.443 1681 Compacting 1@1 + 1@2 files
+2021/03/25-22:24:59.475 1681 Generated table #12@1: 104 keys, 17157 bytes
+2021/03/25-22:24:59.475 1681 Compacted 1@1 + 1@2 files => 17157 bytes
+2021/03/25-22:24:59.530 1681 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/25-22:24:59.530 1681 Delete type=2 #8
+2021/03/25-22:24:59.530 1681 Delete type=2 #11
+2021/03/25-22:24:59.531 1681 Manual compaction at level-1 from '\x00\x05\x01 \x04\x00\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 4468 : 1 .. (end); will stop at (end)

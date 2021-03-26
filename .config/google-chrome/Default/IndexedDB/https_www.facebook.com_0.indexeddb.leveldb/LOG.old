@@ -1,0 +1,8 @@
+2021/03/23-22:29:54.683 129b Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-22:29:54.684 129b Recovering log #19
+2021/03/23-22:29:54.685 129b Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000019.log 
+2021/03/23-22:31:46.459 12bc Level-0 table #24: started
+2021/03/23-22:31:46.459 12bc Level-0 table #24: 0 bytes OK
+2021/03/23-22:31:46.705 12bc Delete type=0 #19
+2021/03/23-22:31:46.706 12bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/23-22:31:46.706 12bc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

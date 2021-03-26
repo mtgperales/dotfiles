@@ -1,0 +1,8 @@
+2021/03/09-13:46:50.084 c3e7 Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-13:46:50.084 c3e7 Recovering log #19
+2021/03/09-13:46:50.085 c3e7 Reusing old log /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000019.log 
+2021/03/09-13:46:53.988 c3e6 Level-0 table #23: started
+2021/03/09-13:46:53.988 c3e6 Level-0 table #23: 0 bytes OK
+2021/03/09-13:46:54.038 c3e6 Delete type=0 #19
+2021/03/09-13:46:54.039 c3e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/09-13:46:54.039 c3e6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

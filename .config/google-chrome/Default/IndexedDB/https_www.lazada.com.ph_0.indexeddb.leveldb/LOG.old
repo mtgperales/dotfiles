@@ -1,0 +1,15 @@
+2021/03/25-22:28:18.321 16f1 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-22:28:18.322 16f1 Recovering log #423
+2021/03/25-22:28:18.322 16f1 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/000423.log 
+2021/03/25-22:28:52.948 16ef Level-0 table #428: started
+2021/03/25-22:28:53.071 16ef Level-0 table #428: 7436 bytes OK
+2021/03/25-22:28:53.126 16ef Delete type=0 #423
+2021/03/25-22:28:53.127 16ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/25-22:28:53.128 16ef Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`2\x94\x9c\x86wB\x00\x01e\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x004\x00b\x002\x005\x000\x008\x007\x002\x00c\x005\x00c\x00c\x00e\x008\x00a\x00d\x00f\x00a\x00f\x001\x009\x009\x008\x00e\x002\x00c\x002\x00c\x005\x00c\x004\x001\x00.\x00j\x00p\x00g\x00_\x007\x002\x000\x00x\x007\x002\x000\x00q\x008\x000\x00.\x00j\x00p\x00g\x00_\x00.\x00w\x00e\x00b\x00p' @ 242294 : 1
+2021/03/25-22:28:53.128 16ef Compacting 1@1 + 1@2 files
+2021/03/25-22:28:53.203 16ef Generated table #429@1: 2884 keys, 239277 bytes
+2021/03/25-22:28:53.203 16ef Compacted 1@1 + 1@2 files => 239277 bytes
+2021/03/25-22:28:53.483 16ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/25-22:28:53.484 16ef Delete type=2 #425
+2021/03/25-22:28:53.484 16ef Delete type=2 #428
+2021/03/25-22:28:53.485 16ef Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`2\x94\x9c\x86wB\x00\x01e\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x004\x00b\x002\x005\x000\x008\x007\x002\x00c\x005\x00c\x00c\x00e\x008\x00a\x00d\x00f\x00a\x00f\x001\x009\x009\x008\x00e\x002\x00c\x002\x00c\x005\x00c\x004\x001\x00.\x00j\x00p\x00g\x00_\x007\x002\x000\x00x\x007\x002\x000\x00q\x008\x000\x00.\x00j\x00p\x00g\x00_\x00.\x00w\x00e\x00b\x00p' @ 242294 : 1 .. (end); will stop at (end)

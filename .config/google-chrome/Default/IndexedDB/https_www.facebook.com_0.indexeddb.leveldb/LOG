@@ -1,0 +1,15 @@
+2021/03/25-20:54:37.076 898 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-20:54:37.092 898 Recovering log #23
+2021/03/25-20:54:37.092 898 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000023.log 
+2021/03/25-20:55:36.095 89a Level-0 table #27: started
+2021/03/25-20:55:36.237 89a Level-0 table #27: 662 bytes OK
+2021/03/25-20:55:36.281 89a Delete type=0 #23
+2021/03/25-20:55:36.282 89a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/25-20:55:36.282 89a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 305 : 1
+2021/03/25-20:55:36.282 89a Compacting 1@1 + 1@2 files
+2021/03/25-20:55:36.303 89a Generated table #28@1: 67 keys, 1554 bytes
+2021/03/25-20:55:36.303 89a Compacted 1@1 + 1@2 files => 1554 bytes
+2021/03/25-20:55:36.347 89a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/25-20:55:36.347 89a Delete type=2 #21
+2021/03/25-20:55:36.347 89a Delete type=2 #27
+2021/03/25-20:55:36.348 89a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 305 : 1 .. (end); will stop at (end)

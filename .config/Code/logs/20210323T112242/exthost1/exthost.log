@@ -1,0 +1,34 @@
+[2021-03-23 11:22:49.550] [exthost] [info] extension host started
+[2021-03-23 11:22:49.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-23 11:22:49.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-23 11:22:49.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-23 11:22:49.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-23 11:22:49.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-23 11:22:49.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-03-23 11:22:50.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-23 11:22:50.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-03-23 11:22:50.352] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-23 11:22:50.353] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-23 11:22:50.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-23 11:22:50.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-23 11:22:51.025] [exthost] [info] eager extensions activated
+[2021-03-23 11:22:51.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-23 11:22:51.037] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-23 11:22:51.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-23 11:22:51.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-23 11:22:51.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-23 11:22:51.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-23 11:22:51.201] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-03-23 11:22:51.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19/client/out/extension
+[2021-03-23 11:22:51.270] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-03-23 11:22:51.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/esbenp.prettier-vscode-6.3.1/dist/extension
+[2021-03-23 11:29:12.249] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onLanguage:dart"}
+[2021-03-23 11:29:12.249] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/dart-code.dart-code-3.20.1/out/dist/extension
+[2021-03-23 11:29:13.169] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"api"}
+[2021-03-23 11:29:13.169] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tan/.vscode/extensions/dart-code.flutter-3.20.0/out/src/extension
+[2021-03-23 11:29:14.158] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-03-23 11:29:14.158] [exthost] [error] {"code":"GET_FIXES_INVALID_FILE","message":"Error during `edit.getFixes`: invalid file."}
+[2021-03-23 11:29:14.179] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-03-23 11:29:14.179] [exthost] [error] {"code":"GET_FIXES_INVALID_FILE","message":"Error during `edit.getFixes`: invalid file."}
+[2021-03-23 11:36:19.419] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-23 11:36:20.471] [exthost] [info] exiting with code 0

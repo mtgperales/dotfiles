@@ -1,0 +1,16 @@
+2021/03/21-12:23:48.048 c91 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/21-16:27:18.035 2f97 Level-0 table #5: started
+2021/03/21-16:27:18.129 2f97 Level-0 table #5: 1553429 bytes OK
+2021/03/21-16:27:18.175 2f97 Delete type=0 #3
+2021/03/21-20:54:52.741 53d7 Level-0 table #7: started
+2021/03/21-20:54:52.817 53d7 Level-0 table #7: 1466660 bytes OK
+2021/03/21-20:54:52.864 53d7 Delete type=0 #4
+2021/03/21-20:54:52.868 53d7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/21-20:54:52.868 53d7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x011\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00c\x00o\x00m\x00.\x00p\x00h\x00/\x00a\x00p\x00p\x00s\x00/\x00i\x00m\x00/\x00w\x00i\x00n\x00d\x00o\x00w' @ 4311 : 1
+2021/03/21-20:54:52.868 53d7 Compacting 1@1 + 1@2 files
+2021/03/21-20:54:52.938 53d7 Generated table #8@1: 71 keys, 16324 bytes
+2021/03/21-20:54:52.938 53d7 Compacted 1@1 + 1@2 files => 16324 bytes
+2021/03/21-20:54:52.993 53d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/21-20:54:52.993 53d7 Delete type=2 #5
+2021/03/21-20:54:52.994 53d7 Delete type=2 #7
+2021/03/21-20:54:52.995 53d7 Manual compaction at level-1 from '\x00\x04\x01\x02\x011\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00c\x00o\x00m\x00.\x00p\x00h\x00/\x00a\x00p\x00p\x00s\x00/\x00i\x00m\x00/\x00w\x00i\x00n\x00d\x00o\x00w' @ 4311 : 1 .. (end); will stop at (end)

@@ -2,11 +2,27 @@
     "telemetry.machineId": "809f9e6ddfcfb67e0cc08b941b8d5d32168f1a9b3c564e3413a4f570b2d6646c",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/tan/Documents/Flutter/Cyclista",
-            "file:///home/tan/Documents/GoLang"
+            "file:///home/tan/prog/flutter",
+            "file:///home/tan/prog/javascript"
         ],
         "files2": []
     },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/tan/prog/flutter",
+            "backupPath": "/home/tan/.config/Code/Backups/933bff7f2af97703495aa5449629226c",
+            "uiState": {
+                "mode": 0,
+                "x": 171,
+                "y": 80,
+                "width": 1024,
+                "height": 688
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
     "lastKnownMenubarData": {
         "menus": {
             "File": {
@@ -35,14 +51,13 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.25",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -51,24 +66,24 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tan/Documents/Flutter/Cyclista",
-                                        "external": "file:///home/tan/Documents/Flutter/Cyclista",
-                                        "path": "/home/tan/Documents/Flutter/Cyclista",
+                                        "fsPath": "/home/tan/prog/flutter",
+                                        "external": "file:///home/tan/prog/flutter",
+                                        "path": "/home/tan/prog/flutter",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/Flutter/Cyclista"
+                                    "label": "~/prog/flutter"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/tan/Documents/GoLang",
-                                        "path": "/home/tan/Documents/GoLang",
+                                        "external": "file:///home/tan/prog/javascript",
+                                        "path": "/home/tan/prog/javascript",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/GoLang"
+                                    "label": "~/prog/javascript"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -122,7 +137,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.23",
+                        "id": "submenuitem.24",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -364,7 +379,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.15",
+                        "id": "submenuitem.16",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -447,7 +462,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.22",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -539,6 +554,10 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.actions.view.problems",
+                        "label": "&&Problems"
+                    },
+                    {
                         "id": "workbench.action.output.toggleOutput",
                         "label": "&&Output"
                     },
@@ -549,10 +568,6 @@
                     {
                         "id": "workbench.action.terminal.toggleTerminal",
                         "label": "&&Terminal"
-                    },
-                    {
-                        "id": "workbench.actions.view.problems",
-                        "label": "&&Problems"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -601,7 +616,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.27",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -650,7 +665,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -857,7 +872,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.22",
+                        "id": "submenuitem.23",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -912,7 +927,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -969,6 +985,10 @@
                     {
                         "id": "workbench.action.showWelcomePage",
                         "label": "&&Welcome"
+                    },
+                    {
+                        "id": "workbench.action.showGettingStarted",
+                        "label": "Getting Started"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1256,10 +1276,6 @@
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
             },
-            "workbench.view.search": {
-                "label": "Ctrl+Shift+F",
-                "userSettingsLabel": "ctrl+shift+f"
-            },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
                 "userSettingsLabel": "ctrl+shift+g"
@@ -1267,6 +1283,10 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
+            },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
             },
             "workbench.action.output.toggleOutput": {
                 "label": "Ctrl+K Ctrl+H",
@@ -1280,10 +1300,6 @@
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
-            },
-            "workbench.actions.view.problems": {
-                "label": "Ctrl+Shift+M",
-                "userSettingsLabel": "ctrl+shift+m"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -1471,21 +1487,5 @@
             }
         }
     },
-    "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
-    "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/tan/Documents/Flutter/Cyclista",
-            "backupPath": "/home/tan/.config/Code/Backups/61dd4d7bd291b54fb2bdc2e47ffbc06c",
-            "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 51,
-                "width": 1366,
-                "height": 717
-            }
-        },
-        "openedWindows": []
-    },
-    "pickerWorkingDir": "/home/tan/Documents/Flutter"
+    "pickerWorkingDir": "/home/tan/prog"
 }

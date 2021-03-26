@@ -1,0 +1,13 @@
+[2021-03-12 14:35:45.139] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-12 14:37:10.748] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-03-12 14:37:11.409] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-03-12 14:37:11.504] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.17: dbaeumer.vscode-eslint
+[2021-03-12 14:37:11.505] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dbaeumer.vscode-eslint-2.1.17
+[2021-03-12 14:37:11.507] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-03-12 14:37:11.616] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-03-12 14:42:25.936] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-03-12 14:42:26.669] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-03-12 14:42:27.327] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.esbenp.prettier-vscode-5.9.2: esbenp.prettier-vscode
+[2021-03-12 14:42:27.329] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/esbenp.prettier-vscode-5.9.2
+[2021-03-12 14:42:27.335] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-03-12 14:42:27.383] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

@@ -1,6 +1,6 @@
 {
-    "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,

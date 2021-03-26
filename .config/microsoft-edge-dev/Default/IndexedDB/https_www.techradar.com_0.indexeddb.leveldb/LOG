@@ -1,0 +1,5 @@
+2021/03/09-13:34:47.560 b974 Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-13:38:38.727 b979 Level-0 table #5: started
+2021/03/09-13:38:38.771 b979 Level-0 table #5: 5682 bytes OK
+2021/03/09-13:38:38.837 b979 Delete type=0 #3
+2021/03/09-13:38:38.837 b979 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

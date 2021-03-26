@@ -1,0 +1,5 @@
+2021/03/09-13:48:10.443 c3e7 Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-13:48:14.207 bf60 Level-0 table #5: started
+2021/03/09-13:48:14.248 bf60 Level-0 table #5: 805 bytes OK
+2021/03/09-13:48:14.696 bf60 Delete type=0 #3
+2021/03/09-13:48:14.697 bf60 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

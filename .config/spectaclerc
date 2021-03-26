@@ -1,0 +1,4 @@
+[GuiConfig]
+captureMode=5
+onClickChecked=true
+window-position=50,50

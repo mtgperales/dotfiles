@@ -1,0 +1,5 @@
+2021/03/09-13:56:13.779 c7fb Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_9c9bfd259e59fecaddab4120691a1ef0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-13:56:18.314 c7fb Level-0 table #5: started
+2021/03/09-13:56:18.354 c7fb Level-0 table #5: 439 bytes OK
+2021/03/09-13:56:18.431 c7fb Delete type=0 #3
+2021/03/09-13:56:18.432 c7fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

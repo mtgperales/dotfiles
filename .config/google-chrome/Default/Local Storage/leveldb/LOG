@@ -1,5 +1,87 @@
-2021/03/02-18:45:14.186 5 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/03/02-18:45:14.229 5 Recovering log #4
-2021/03/02-18:45:14.254 5 Level-0 table #7: started
-2021/03/02-18:45:14.576 5 Level-0 table #7: 135355 bytes OK
-2021/03/02-18:45:16.149 5 Delete type=0 #4
+2021/03/25-20:54:15.067 3 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/25-20:54:15.098 3 Recovering log #2113
+2021/03/25-20:54:15.173 3 Reusing old log /home/tan/.config/google-chrome/Default/Local Storage/leveldb/002113.log 
+2021/03/25-20:57:24.960 3 Level-0 table #2117: started
+2021/03/25-20:57:25.588 3 Level-0 table #2117: 17637 bytes OK
+2021/03/25-20:57:25.667 3 Delete type=0 #2113
+2021/03/25-20:58:53.096 3 Level-0 table #2119: started
+2021/03/25-20:58:53.142 3 Level-0 table #2119: 135269 bytes OK
+2021/03/25-20:58:53.200 3 Delete type=0 #2116
+2021/03/25-20:58:53.201 3 Compacting 4@0 + 1@1 files
+2021/03/25-20:58:53.318 3 Generated table #2120@0: 1065 keys, 1025061 bytes
+2021/03/25-20:58:53.318 3 Compacted 4@0 + 1@1 files => 1025061 bytes
+2021/03/25-20:58:54.288 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-20:58:54.290 3 Delete type=2 #2110
+2021/03/25-20:58:54.291 3 Delete type=2 #2112
+2021/03/25-20:58:54.291 3 Delete type=2 #2114
+2021/03/25-20:58:54.291 3 Delete type=2 #2117
+2021/03/25-20:58:54.291 3 Delete type=2 #2119
+2021/03/25-21:10:03.638 a Level-0 table #2122: started
+2021/03/25-21:10:03.774 a Level-0 table #2122: 16806 bytes OK
+2021/03/25-21:10:03.830 a Delete type=0 #2118
+2021/03/25-21:12:13.940 3 Level-0 table #2124: started
+2021/03/25-21:12:14.108 3 Level-0 table #2124: 139737 bytes OK
+2021/03/25-21:12:14.187 3 Delete type=0 #2121
+2021/03/25-21:59:38.400 3 Level-0 table #2126: started
+2021/03/25-21:59:38.464 3 Level-0 table #2126: 141935 bytes OK
+2021/03/25-21:59:38.543 3 Delete type=0 #2123
+2021/03/25-22:02:06.402 3 Level-0 table #2128: started
+2021/03/25-22:02:06.452 3 Level-0 table #2128: 141162 bytes OK
+2021/03/25-22:02:06.519 3 Delete type=0 #2125
+2021/03/25-22:02:06.521 3 Compacting 4@0 + 1@1 files
+2021/03/25-22:02:06.616 3 Generated table #2129@0: 1093 keys, 1165710 bytes
+2021/03/25-22:02:06.617 3 Compacted 4@0 + 1@1 files => 1165710 bytes
+2021/03/25-22:02:07.000 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-22:02:07.003 3 Delete type=2 #2120
+2021/03/25-22:02:07.003 3 Delete type=2 #2122
+2021/03/25-22:02:07.003 3 Delete type=2 #2124
+2021/03/25-22:02:07.004 3 Delete type=2 #2126
+2021/03/25-22:02:07.004 3 Delete type=2 #2128
+2021/03/25-22:02:51.328 3 Level-0 table #2131: started
+2021/03/25-22:02:51.390 3 Level-0 table #2131: 98390 bytes OK
+2021/03/25-22:02:51.491 3 Delete type=0 #2127
+2021/03/25-22:03:09.550 16 Level-0 table #2133: started
+2021/03/25-22:03:09.686 16 Level-0 table #2133: 139625 bytes OK
+2021/03/25-22:03:09.831 16 Delete type=0 #2130
+2021/03/25-22:13:12.377 1d Level-0 table #2135: started
+2021/03/25-22:13:12.432 1d Level-0 table #2135: 12527 bytes OK
+2021/03/25-22:13:12.533 1d Delete type=0 #2132
+2021/03/25-22:13:55.881 1d Level-0 table #2137: started
+2021/03/25-22:13:55.930 1d Level-0 table #2137: 125125 bytes OK
+2021/03/25-22:13:56.019 1d Delete type=0 #2134
+2021/03/25-22:13:56.021 1d Compacting 4@0 + 1@1 files
+2021/03/25-22:13:56.139 1d Generated table #2138@0: 1119 keys, 1285052 bytes
+2021/03/25-22:13:56.139 1d Compacted 4@0 + 1@1 files => 1285052 bytes
+2021/03/25-22:13:56.889 1d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-22:13:56.891 1d Delete type=2 #2129
+2021/03/25-22:13:56.891 1d Delete type=2 #2131
+2021/03/25-22:13:56.891 1d Delete type=2 #2133
+2021/03/25-22:13:56.891 1d Delete type=2 #2135
+2021/03/25-22:13:56.891 1d Delete type=2 #2137
+2021/03/25-22:14:16.383 16 Level-0 table #2140: started
+2021/03/25-22:14:16.425 16 Level-0 table #2140: 124395 bytes OK
+2021/03/25-22:14:16.516 16 Delete type=0 #2136
+2021/03/25-22:17:19.407 1f Level-0 table #2142: started
+2021/03/25-22:17:19.444 1f Level-0 table #2142: 11413 bytes OK
+2021/03/25-22:17:19.522 1f Delete type=0 #2139
+2021/03/25-22:24:31.953 1f Level-0 table #2144: started
+2021/03/25-22:24:32.096 1f Level-0 table #2144: 137071 bytes OK
+2021/03/25-22:24:32.177 1f Delete type=0 #2141
+2021/03/25-22:24:52.098 25 Level-0 table #2146: started
+2021/03/25-22:24:52.153 25 Level-0 table #2146: 135815 bytes OK
+2021/03/25-22:24:52.288 25 Delete type=0 #2143
+2021/03/25-22:24:52.290 25 Compacting 4@0 + 1@1 files
+2021/03/25-22:24:52.417 25 Generated table #2147@0: 1177 keys, 1406999 bytes
+2021/03/25-22:24:52.418 25 Compacted 4@0 + 1@1 files => 1406999 bytes
+2021/03/25-22:24:52.946 25 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-22:24:52.949 25 Delete type=2 #2138
+2021/03/25-22:24:52.949 25 Delete type=2 #2140
+2021/03/25-22:24:52.949 25 Delete type=2 #2142
+2021/03/25-22:24:52.949 25 Delete type=2 #2144
+2021/03/25-22:24:52.949 25 Delete type=2 #2146
+2021/03/25-22:25:53.481 1f Level-0 table #2149: started
+2021/03/25-22:25:53.788 1f Level-0 table #2149: 141356 bytes OK
+2021/03/25-22:25:53.867 1f Delete type=0 #2145
+2021/03/25-22:32:20.400 29 Level-0 table #2151: started
+2021/03/25-22:32:20.552 29 Level-0 table #2151: 11101 bytes OK
+2021/03/25-22:32:20.620 29 Delete type=0 #2148

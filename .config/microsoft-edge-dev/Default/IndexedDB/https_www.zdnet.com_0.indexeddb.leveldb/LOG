@@ -1,0 +1,15 @@
+2021/03/09-13:48:17.832 c3e7 Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/09-13:48:17.833 c3e7 Recovering log #4
+2021/03/09-13:48:17.833 c3e7 Reusing old log /home/tan/.config/microsoft-edge-dev/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/000004.log 
+2021/03/09-13:48:54.871 c3e7 Level-0 table #8: started
+2021/03/09-13:48:54.956 c3e7 Level-0 table #8: 1693 bytes OK
+2021/03/09-13:48:55.000 c3e7 Delete type=0 #4
+2021/03/09-13:48:55.000 c3e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/09-13:48:55.000 c3e7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x00\x00\xc8\x08\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s' @ 105 : 1
+2021/03/09-13:48:55.000 c3e7 Compacting 1@1 + 1@2 files
+2021/03/09-13:48:55.033 c3e7 Generated table #9@1: 48 keys, 1105 bytes
+2021/03/09-13:48:55.033 c3e7 Compacted 1@1 + 1@2 files => 1105 bytes
+2021/03/09-13:48:55.076 c3e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/09-13:48:55.077 c3e7 Delete type=2 #5
+2021/03/09-13:48:55.077 c3e7 Delete type=2 #8
+2021/03/09-13:48:55.077 c3e7 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x08\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s' @ 105 : 1 .. (end); will stop at (end)

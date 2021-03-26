@@ -1,0 +1,5 @@
+2021/03/23-22:15:16.765 eb9 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-22:16:34.418 eb6 Level-0 table #5: started
+2021/03/23-22:16:34.459 eb6 Level-0 table #5: 8313 bytes OK
+2021/03/23-22:16:34.503 eb6 Delete type=0 #3
+2021/03/23-22:16:34.504 eb6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

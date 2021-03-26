@@ -1,0 +1,6 @@
+2021/03/20-21:11:49.345 335b Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_shopee.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/20-21:11:49.554 32de Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/20-21:11:53.457 335b Level-0 table #5: started
+2021/03/20-21:11:53.501 335b Level-0 table #5: 3123 bytes OK
+2021/03/20-21:11:53.545 335b Delete type=0 #3
+2021/03/20-21:11:53.546 335b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

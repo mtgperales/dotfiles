@@ -1,0 +1,25 @@
+[2021-03-22 14:46:39.184] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-03-22 14:46:39.186] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-03-22 14:46:40.427] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-03-22 14:46:40.618] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.19: dbaeumer.vscode-eslint
+[2021-03-22 14:46:40.621] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19
+[2021-03-22 14:46:40.624] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-03-22 14:46:41.371] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-03-22 14:46:41.404] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-03-22 14:46:41.981] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.esbenp.prettier-vscode-6.3.1: esbenp.prettier-vscode
+[2021-03-22 14:46:41.982] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/esbenp.prettier-vscode-6.3.1
+[2021-03-22 14:46:41.991] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-03-22 14:46:42.063] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-03-22 14:47:15.839] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-22 14:58:30.981] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2021-03-22 14:58:35.684] [sharedprocess] [info] Downloaded extension: dart-code.flutter undefined
+[2021-03-22 14:58:36.525] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dart-code.flutter-3.20.0: dart-code.flutter
+[2021-03-22 14:58:36.526] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dart-code.flutter-3.20.0
+[2021-03-22 14:58:36.528] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2021-03-22 14:58:39.375] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-03-22 14:58:43.608] [sharedprocess] [info] Downloaded extension: dart-code.dart-code undefined
+[2021-03-22 14:59:09.592] [sharedprocess] [info] Extracted extension to /home/tan/.vscode/extensions/.dart-code.dart-code-3.20.1: dart-code.dart-code
+[2021-03-22 14:59:09.593] [sharedprocess] [info] Renamed to /home/tan/.vscode/extensions/dart-code.dart-code-3.20.1
+[2021-03-22 14:59:09.616] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-03-22 14:59:09.954] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2021-03-22 14:59:09.958] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter

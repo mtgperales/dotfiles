@@ -1,0 +1,31 @@
+2021/03/09-13:32:56.758 5 Reusing MANIFEST /home/tan/.config/microsoft-edge-dev/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/09-13:33:36.841 5 Level-0 table #5: started
+2021/03/09-13:33:36.910 5 Level-0 table #5: 30329 bytes OK
+2021/03/09-13:33:36.989 5 Delete type=0 #3
+2021/03/09-13:35:26.310 3 Level-0 table #7: started
+2021/03/09-13:35:26.441 3 Level-0 table #7: 27722 bytes OK
+2021/03/09-13:35:26.511 3 Delete type=0 #4
+2021/03/09-13:37:04.336 5 Level-0 table #9: started
+2021/03/09-13:37:04.381 5 Level-0 table #9: 26499 bytes OK
+2021/03/09-13:37:04.448 5 Delete type=0 #6
+2021/03/09-13:37:38.666 5 Level-0 table #11: started
+2021/03/09-13:37:38.788 5 Level-0 table #11: 336289 bytes OK
+2021/03/09-13:37:38.856 5 Delete type=0 #8
+2021/03/09-13:40:03.687 5 Level-0 table #13: started
+2021/03/09-13:40:03.729 5 Level-0 table #13: 41230 bytes OK
+2021/03/09-13:40:03.807 5 Delete type=0 #10
+2021/03/09-13:41:03.686 b Level-0 table #15: started
+2021/03/09-13:41:03.746 b Level-0 table #15: 25660 bytes OK
+2021/03/09-13:41:03.791 b Delete type=0 #12
+2021/03/09-13:41:03.792 b Compacting 4@0 + 1@1 files
+2021/03/09-13:41:03.845 b Generated table #16@0: 87 keys, 405809 bytes
+2021/03/09-13:41:03.845 b Compacted 4@0 + 1@1 files => 405809 bytes
+2021/03/09-13:41:03.888 b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/09-13:41:03.890 b Delete type=2 #7
+2021/03/09-13:41:03.891 b Delete type=2 #9
+2021/03/09-13:41:03.891 b Delete type=2 #11
+2021/03/09-13:41:03.891 b Delete type=2 #13
+2021/03/09-13:41:03.891 b Delete type=2 #15
+2021/03/09-13:42:26.825 b Level-0 table #18: started
+2021/03/09-13:42:26.968 b Level-0 table #18: 26590 bytes OK
+2021/03/09-13:42:27.021 b Delete type=0 #14

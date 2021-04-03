@@ -1,15 +1,15 @@
-2021/03/25-20:58:47.731 af0 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter-ph.lazada-seller.cn_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/25-20:58:47.768 af0 Recovering log #7
-2021/03/25-20:58:47.768 af0 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter-ph.lazada-seller.cn_0.indexeddb.leveldb/000007.log 
-2021/03/25-22:02:41.285 1276 Level-0 table #12: started
-2021/03/25-22:02:41.328 1276 Level-0 table #12: 177441 bytes OK
-2021/03/25-22:02:41.450 1276 Delete type=0 #7
-2021/03/25-22:02:41.450 1276 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/25-22:02:41.451 1276 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01`\x00m\x00t\x00o\x00p\x00.\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00m\x00e\x00r\x00c\x00h\x00a\x00n\x00t\x00.\x00c\x00o\x00m\x00m\x00o\x00n\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00m\x00e\x00n\x00u\x00{\x00"\x00d\x00o\x00m\x00a\x00i\x00n\x00"\x00:\x00"\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00-\x00p\x00h\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00-\x00s\x00e\x00l\x00l\x00e\x00r\x00.\x00c\x00n\x005\x000\x000\x001\x007\x001\x001\x008\x001\x000\x004\x009\x00"\x00}' @ 2748 : 1
-2021/03/25-22:02:41.451 1276 Compacting 1@1 + 1@2 files
-2021/03/25-22:02:41.526 1276 Generated table #13@1: 26 keys, 9731 bytes
-2021/03/25-22:02:41.526 1276 Compacted 1@1 + 1@2 files => 9731 bytes
-2021/03/25-22:02:41.636 1276 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/03/25-22:02:41.636 1276 Delete type=2 #9
-2021/03/25-22:02:41.636 1276 Delete type=2 #12
-2021/03/25-22:02:41.637 1276 Manual compaction at level-1 from '\x00\x01\x01\x02\x01`\x00m\x00t\x00o\x00p\x00.\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00m\x00e\x00r\x00c\x00h\x00a\x00n\x00t\x00.\x00c\x00o\x00m\x00m\x00o\x00n\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00m\x00e\x00n\x00u\x00{\x00"\x00d\x00o\x00m\x00a\x00i\x00n\x00"\x00:\x00"\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00-\x00p\x00h\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00-\x00s\x00e\x00l\x00l\x00e\x00r\x00.\x00c\x00n\x005\x000\x000\x001\x007\x001\x001\x008\x001\x000\x004\x009\x00"\x00}' @ 2748 : 1 .. (end); will stop at (end)
+2021/03/26-18:08:29.684 bc5 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter-ph.lazada-seller.cn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/26-18:08:29.685 bc5 Recovering log #11
+2021/03/26-18:08:29.829 bc5 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_sellercenter-ph.lazada-seller.cn_0.indexeddb.leveldb/000011.log 
+2021/03/26-18:13:04.314 e55 Level-0 table #16: started
+2021/03/26-18:13:04.362 e55 Level-0 table #16: 47736 bytes OK
+2021/03/26-18:13:04.451 e55 Delete type=0 #11
+2021/03/26-18:13:04.452 e55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/26-18:13:04.452 e55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01`\x00m\x00t\x00o\x00p\x00.\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00m\x00e\x00r\x00c\x00h\x00a\x00n\x00t\x00.\x00c\x00o\x00m\x00m\x00o\x00n\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00m\x00e\x00n\x00u\x00{\x00"\x00d\x00o\x00m\x00a\x00i\x00n\x00"\x00:\x00"\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00-\x00p\x00h\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00-\x00s\x00e\x00l\x00l\x00e\x00r\x00.\x00c\x00n\x005\x000\x000\x001\x007\x001\x001\x008\x001\x000\x004\x009\x00"\x00}' @ 3013 : 1
+2021/03/26-18:13:04.452 e55 Compacting 1@1 + 1@2 files
+2021/03/26-18:13:04.494 e55 Generated table #17@1: 28 keys, 14504 bytes
+2021/03/26-18:13:04.494 e55 Compacted 1@1 + 1@2 files => 14504 bytes
+2021/03/26-18:13:05.029 e55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/26-18:13:05.029 e55 Delete type=2 #13
+2021/03/26-18:13:05.029 e55 Delete type=2 #16
+2021/03/26-18:13:05.030 e55 Manual compaction at level-1 from '\x00\x01\x01\x02\x01`\x00m\x00t\x00o\x00p\x00.\x00g\x00l\x00o\x00b\x00a\x00l\x00.\x00m\x00e\x00r\x00c\x00h\x00a\x00n\x00t\x00.\x00c\x00o\x00m\x00m\x00o\x00n\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00.\x00m\x00e\x00n\x00u\x00{\x00"\x00d\x00o\x00m\x00a\x00i\x00n\x00"\x00:\x00"\x00s\x00e\x00l\x00l\x00e\x00r\x00c\x00e\x00n\x00t\x00e\x00r\x00-\x00p\x00h\x00.\x00l\x00a\x00z\x00a\x00d\x00a\x00-\x00s\x00e\x00l\x00l\x00e\x00r\x00.\x00c\x00n\x005\x000\x000\x001\x007\x001\x001\x008\x001\x000\x004\x009\x00"\x00}' @ 3013 : 1 .. (end); will stop at (end)

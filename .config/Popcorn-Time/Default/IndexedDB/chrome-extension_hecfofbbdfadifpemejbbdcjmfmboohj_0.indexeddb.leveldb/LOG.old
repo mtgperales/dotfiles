@@ -1,14 +1,14 @@
-2021/03/25-17:06:16.248 d41 Reusing MANIFEST /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/25-17:06:16.248 d41 Recovering log #38
-2021/03/25-17:06:16.248 d41 Reusing old log /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000038.log 
-2021/03/25-17:06:16.248 d41 Delete type=2 #36
-2021/03/25-17:06:57.193 e98 Level-0 table #43: started
-2021/03/25-17:06:57.258 e98 Level-0 table #43: 1080 bytes OK
-2021/03/25-17:06:57.786 e98 Delete type=0 #38
-2021/03/25-17:06:57.787 e98 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 660 : 1
-2021/03/25-17:06:57.787 e98 Compacting 1@0 + 1@1 files
-2021/03/25-17:06:57.918 e98 Generated table #44@0: 20 keys, 634 bytes
-2021/03/25-17:06:57.918 e98 Compacted 1@0 + 1@1 files => 634 bytes
-2021/03/25-17:06:58.341 e98 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/03/25-17:06:58.342 e98 Delete type=2 #43
-2021/03/25-17:06:58.342 e98 Manual compaction at level-0 from '\x00\x0b\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 660 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/25-17:07:15.626 eb2 Reusing MANIFEST /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-17:07:15.627 eb2 Recovering log #42
+2021/03/25-17:07:15.627 eb2 Reusing old log /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000042.log 
+2021/03/25-17:07:15.627 eb2 Delete type=2 #40
+2021/03/25-18:02:53.657 1270 Level-0 table #47: started
+2021/03/25-18:02:53.721 1270 Level-0 table #47: 1086 bytes OK
+2021/03/25-18:02:54.107 1270 Delete type=0 #42
+2021/03/25-18:02:54.107 1270 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 724 : 1
+2021/03/25-18:02:54.107 1270 Compacting 1@0 + 1@1 files
+2021/03/25-18:02:54.173 1270 Generated table #48@0: 20 keys, 636 bytes
+2021/03/25-18:02:54.173 1270 Compacted 1@0 + 1@1 files => 636 bytes
+2021/03/25-18:02:54.554 1270 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/25-18:02:54.554 1270 Delete type=2 #47
+2021/03/25-18:02:54.555 1270 Manual compaction at level-0 from '\x00\x0c\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 724 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

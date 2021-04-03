@@ -2,13 +2,13 @@
 {"key":"opensubtitlesUsername","value":"flaryx","_id":"38hmbKDpABQJO0L5"}
 {"key":"OnlineSearchCategory","value":"TV Series","_id":"6rzzr37XmFev1uwy"}
 {"key":"customMoviesServer","value":"https://popcorn-ru.tk/","_id":"7HCPcsWqYb4zjYTi"}
-{"key":"totalDownloaded","value":11029896965,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalDownloaded","value":19352248069,"_id":"92Bp3rCorS1wAGgi"}
 {"key":"subtitle_language","value":"en","_id":"Dhz7cornKZcuAvTx"}
 {"key":"language","value":"en","_id":"E17uAAQOHgj8CYEl"}
 {"key":"showAdvancedSettings","value":true,"_id":"IdKEROBprIMkHyRL"}
 {"key":"shows_default_quality","value":"1080p","_id":"JwLvZQVWdKS83XSy"}
 {"key":"os","value":"linux","_id":"L3JcjsznXOw684P7"}
-{"key":"totalUploaded","value":873501042,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalUploaded","value":23701688690,"_id":"NjKC9tjmLd8OrdCB"}
 {"key":"customSeriesServer","value":"https://popcorn-ru.tk/","_id":"Q2Jz5k4pQL9IcEG0"}
 {"key":"opensubtitlesAuthenticated","value":true,"_id":"SJ4JKgE14GkLRHpQ"}
 {"key":"releaseName","value":"Love in the Time of Corona","_id":"U5VKXblOYSqO4TVC"}
@@ -22,16 +22,27 @@
 {"key":"releaseName","value":"Love in the Time of Corona","_id":"U5VKXblOYSqO4TVC"}
 {"key":"arch","value":"x64","_id":"uskglZRzmxaWdMW1"}
 {"key":"os","value":"linux","_id":"L3JcjsznXOw684P7"}
-{"key":"OnlineSearchCategory","value":"TV Series","_id":"6rzzr37XmFev1uwy"}
-{"key":"totalDownloaded","value":11029896965,"_id":"92Bp3rCorS1wAGgi"}
-{"key":"totalUploaded","value":873501042,"_id":"NjKC9tjmLd8OrdCB"}
-{"key":"totalDownloaded","value":12187524869,"_id":"92Bp3rCorS1wAGgi"}
-{"key":"totalUploaded","value":7653708146,"_id":"NjKC9tjmLd8OrdCB"}
-{"key":"totalDownloaded","value":13345152773,"_id":"92Bp3rCorS1wAGgi"}
-{"key":"totalUploaded","value":14433915250,"_id":"NjKC9tjmLd8OrdCB"}
-{"key":"totalDownloaded","value":15287115525,"_id":"92Bp3rCorS1wAGgi"}
-{"key":"totalUploaded","value":18935222642,"_id":"NjKC9tjmLd8OrdCB"}
-{"key":"totalDownloaded","value":17229078277,"_id":"92Bp3rCorS1wAGgi"}
-{"key":"totalUploaded","value":23436530034,"_id":"NjKC9tjmLd8OrdCB"}
-{"key":"totalDownloaded","value":19352248069,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"ipAddress","value":"192.168.100.13","_id":"eQsOseZHB5K1VigZ"}
+{"key":"totalDownloaded","value":19352379141,"_id":"92Bp3rCorS1wAGgi"}
 {"key":"totalUploaded","value":23701688690,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"OnlineSearchCategory","value":"TV Series","_id":"6rzzr37XmFev1uwy"}
+{"key":"totalDownloaded","value":19352379141,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":23701688690,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":20627447557,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":24471261554,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":21902515973,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":25240834418,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":23857061637,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":25918050674,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":25811607301,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":26595266930,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":28449824517,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":26815582578,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":31088041733,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":27035898226,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":33726258949,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":27066044786,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":36364476165,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":27096191346,"_id":"NjKC9tjmLd8OrdCB"}
+{"key":"totalDownloaded","value":39476649733,"_id":"92Bp3rCorS1wAGgi"}
+{"key":"totalUploaded","value":27523043698,"_id":"NjKC9tjmLd8OrdCB"}

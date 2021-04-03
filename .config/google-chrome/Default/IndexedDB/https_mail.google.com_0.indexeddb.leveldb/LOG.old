@@ -1,5 +1,15 @@
-2021/03/21-12:18:47.942 92e Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/21-12:20:43.646 afe Level-0 table #5: started
-2021/03/21-12:20:43.686 afe Level-0 table #5: 2556 bytes OK
-2021/03/21-12:20:43.742 afe Delete type=0 #3
-2021/03/21-12:20:43.742 afe Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/30-12:53:01.135 c29 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/30-12:53:01.136 c29 Recovering log #23
+2021/03/30-12:53:01.136 c29 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
+2021/03/30-13:21:50.679 f61 Level-0 table #28: started
+2021/03/30-13:21:50.755 f61 Level-0 table #28: 520553 bytes OK
+2021/03/30-13:21:50.821 f61 Delete type=0 #23
+2021/03/30-13:21:50.822 f61 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/30-13:21:50.823 f61 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 6325 : 1
+2021/03/30-13:21:50.823 f61 Compacting 1@1 + 1@2 files
+2021/03/30-13:21:50.897 f61 Generated table #29@1: 103 keys, 92457 bytes
+2021/03/30-13:21:50.898 f61 Compacted 1@1 + 1@2 files => 92457 bytes
+2021/03/30-13:21:50.963 f61 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/30-13:21:50.964 f61 Delete type=2 #25
+2021/03/30-13:21:50.964 f61 Delete type=2 #28
+2021/03/30-13:21:50.965 f61 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 6325 : 1 .. (end); will stop at (end)

@@ -1,3 +1,21 @@
-2021/03/24-10:17:58.740 5 Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Local Storage/leveldb/MANIFEST-000001
-2021/03/24-10:17:58.772 5 Recovering log #19
-2021/03/24-10:17:58.789 5 Reusing old log /home/tan/.config/google-chrome-unstable/Default/Local Storage/leveldb/000019.log 
+2021/03/29-11:37:04.557 3 Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/29-11:37:04.812 3 Recovering log #19
+2021/03/29-11:37:04.887 3 Reusing old log /home/tan/.config/google-chrome-unstable/Default/Local Storage/leveldb/000019.log 
+2021/03/29-11:37:28.520 3 Level-0 table #23: started
+2021/03/29-11:37:28.887 3 Level-0 table #23: 13056 bytes OK
+2021/03/29-11:37:29.510 3 Delete type=0 #19
+2021/03/29-11:50:56.849 a Level-0 table #25: started
+2021/03/29-11:50:56.909 a Level-0 table #25: 14818 bytes OK
+2021/03/29-11:50:56.997 a Delete type=0 #22
+2021/03/29-11:50:56.998 a Compacting 4@0 + 1@1 files
+2021/03/29-11:50:57.052 a Generated table #26@0: 171 keys, 11274 bytes
+2021/03/29-11:50:57.052 a Compacted 4@0 + 1@1 files => 11274 bytes
+2021/03/29-11:50:57.128 a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/29-11:50:57.130 a Delete type=2 #16
+2021/03/29-11:50:57.130 a Delete type=2 #18
+2021/03/29-11:50:57.130 a Delete type=2 #20
+2021/03/29-11:50:57.130 a Delete type=2 #23
+2021/03/29-11:50:57.131 a Delete type=2 #25
+2021/03/29-11:56:09.295 a Level-0 table #28: started
+2021/03/29-11:56:09.439 a Level-0 table #28: 11963 bytes OK
+2021/03/29-11:56:09.518 a Delete type=0 #24

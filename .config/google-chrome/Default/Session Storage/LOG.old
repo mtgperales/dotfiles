@@ -1,4 +1,9 @@
-2021/03/23-22:06:37.626 5 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2021/03/23-22:06:37.671 5 Recovering log #95
-2021/03/23-22:06:38.499 5 Reusing old log /home/tan/.config/google-chrome/Default/Session Storage/000095.log 
-2021/03/23-22:42:08.291 1e Level-0 table #100: started
+2021/03/30-20:18:18.473 3 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/03/30-20:18:18.506 3 Recovering log #114
+2021/03/30-20:18:18.508 3 Reusing old log /home/tan/.config/google-chrome/Default/Session Storage/000114.log 
+2021/03/30-20:18:39.329 5 Level-0 table #119: started
+2021/03/30-20:18:40.335 5 Level-0 table #119: 26731 bytes OK
+2021/03/30-20:18:40.613 5 Delete type=0 #114
+2021/03/30-20:19:34.720 5 Level-0 table #121: started
+2021/03/30-20:19:35.115 5 Level-0 table #121: 17431 bytes OK
+2021/03/30-20:19:36.171 5 Delete type=0 #118

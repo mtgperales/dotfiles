@@ -1,0 +1,15 @@
+2021/04/01-19:54:05.446 5401 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-19:54:05.446 5401 Recovering log #737
+2021/04/01-19:54:05.446 5401 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000737.log 
+2021/04/01-19:54:44.188 5386 Level-0 table #741: started
+2021/04/01-19:54:44.730 5386 Level-0 table #741: 42715 bytes OK
+2021/04/01-19:54:44.785 5386 Delete type=0 #737
+2021/04/01-19:54:44.786 5386 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/01-19:54:44.786 5386 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x03\x02\x01%\x000\x002\x00a\x006\x00a\x00c\x007\x00b\x00e\x00f\x001\x002\x00a\x005\x003\x006\x007\x007\x00f\x009\x001\x00c\x00c\x004\x000\x000\x009\x008\x004\x001\x009\x00f\x00_\x006\x00:\x000\x000' @ 25557 : 1
+2021/04/01-19:54:44.786 5386 Compacting 1@1 + 1@2 files
+2021/04/01-19:54:44.829 5386 Generated table #742@1: 758 keys, 201506 bytes
+2021/04/01-19:54:44.829 5386 Compacted 1@1 + 1@2 files => 201506 bytes
+2021/04/01-19:54:45.149 5386 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/01-19:54:45.150 5386 Delete type=2 #729
+2021/04/01-19:54:45.150 5386 Delete type=2 #741
+2021/04/01-19:54:45.151 5386 Manual compaction at level-1 from '\x00\x04\x03\x02\x01%\x000\x002\x00a\x006\x00a\x00c\x007\x00b\x00e\x00f\x001\x002\x00a\x005\x003\x006\x007\x007\x00f\x009\x001\x00c\x00c\x004\x000\x000\x009\x008\x004\x001\x009\x00f\x00_\x006\x00:\x000\x000' @ 25557 : 1 .. (end); will stop at (end)

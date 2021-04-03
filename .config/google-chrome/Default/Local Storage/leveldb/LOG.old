@@ -1,63 +1,42 @@
-2021/03/23-22:06:26.229 3 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/03/23-22:06:26.266 3 Recovering log #2088
-2021/03/23-22:06:26.267 3 Reusing old log /home/tan/.config/google-chrome/Default/Local Storage/leveldb/002088.log 
-2021/03/23-22:10:02.737 5 Level-0 table #2091: started
-2021/03/23-22:10:02.857 5 Level-0 table #2091: 133747 bytes OK
-2021/03/23-22:10:03.002 5 Delete type=0 #2088
-2021/03/23-22:10:03.006 5 Compacting 4@0 + 1@1 files
-2021/03/23-22:10:03.124 5 Generated table #2092@0: 938 keys, 1023191 bytes
-2021/03/23-22:10:03.125 5 Compacted 4@0 + 1@1 files => 1023191 bytes
-2021/03/23-22:10:03.644 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/03/23-22:10:03.647 5 Delete type=2 #2081
-2021/03/23-22:10:03.647 5 Delete type=2 #2083
-2021/03/23-22:10:03.647 5 Delete type=2 #2085
-2021/03/23-22:10:03.647 5 Delete type=2 #2087
-2021/03/23-22:10:03.647 5 Delete type=2 #2091
-2021/03/23-22:15:09.860 9 Level-0 table #2094: started
-2021/03/23-22:15:09.926 9 Level-0 table #2094: 14781 bytes OK
-2021/03/23-22:15:10.038 9 Delete type=0 #2090
-2021/03/23-22:17:25.584 5 Level-0 table #2096: started
-2021/03/23-22:17:25.621 5 Level-0 table #2096: 16768 bytes OK
-2021/03/23-22:17:25.701 5 Delete type=0 #2093
-2021/03/23-22:20:01.217 5 Level-0 table #2098: started
-2021/03/23-22:20:01.494 5 Level-0 table #2098: 11616 bytes OK
-2021/03/23-22:20:01.593 5 Delete type=0 #2095
-2021/03/23-22:20:33.922 5 Level-0 table #2100: started
-2021/03/23-22:20:34.051 5 Level-0 table #2100: 120139 bytes OK
-2021/03/23-22:20:34.572 5 Delete type=0 #2097
-2021/03/23-22:20:34.573 5 Compacting 4@0 + 1@1 files
-2021/03/23-22:20:34.728 5 Generated table #2101@0: 1014 keys, 1018684 bytes
-2021/03/23-22:20:34.729 5 Compacted 4@0 + 1@1 files => 1018684 bytes
-2021/03/23-22:20:35.126 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/03/23-22:20:35.130 5 Delete type=2 #2092
-2021/03/23-22:20:35.130 5 Delete type=2 #2094
-2021/03/23-22:20:35.130 5 Delete type=2 #2096
-2021/03/23-22:20:35.130 5 Delete type=2 #2098
-2021/03/23-22:20:35.131 5 Delete type=2 #2100
-2021/03/23-22:22:18.607 c Level-0 table #2103: started
-2021/03/23-22:22:18.649 c Level-0 table #2103: 11260 bytes OK
-2021/03/23-22:22:18.740 c Delete type=0 #2099
-2021/03/23-22:22:30.992 5 Level-0 table #2105: started
-2021/03/23-22:22:31.052 5 Level-0 table #2105: 119861 bytes OK
-2021/03/23-22:22:31.108 5 Delete type=0 #2102
-2021/03/23-22:23:56.857 c Level-0 table #2107: started
-2021/03/23-22:23:56.893 c Level-0 table #2107: 13379 bytes OK
-2021/03/23-22:23:56.949 c Delete type=0 #2104
-2021/03/23-22:28:49.277 c Level-0 table #2109: started
-2021/03/23-22:28:49.345 c Level-0 table #2109: 10556 bytes OK
-2021/03/23-22:28:49.405 c Delete type=0 #2106
-2021/03/23-22:28:49.407 c Compacting 4@0 + 1@1 files
-2021/03/23-22:28:49.503 c Generated table #2110@0: 1036 keys, 1020575 bytes
-2021/03/23-22:28:49.503 c Compacted 4@0 + 1@1 files => 1020575 bytes
-2021/03/23-22:28:49.994 c compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/03/23-22:28:49.998 c Delete type=2 #2101
-2021/03/23-22:28:49.998 c Delete type=2 #2103
-2021/03/23-22:28:49.999 c Delete type=2 #2105
-2021/03/23-22:28:49.999 c Delete type=2 #2107
-2021/03/23-22:28:50.000 c Delete type=2 #2109
-2021/03/23-22:30:01.217 c Level-0 table #2112: started
-2021/03/23-22:30:01.260 c Level-0 table #2112: 10535 bytes OK
-2021/03/23-22:30:01.338 c Delete type=0 #2108
-2021/03/23-22:40:01.217 17 Level-0 table #2114: started
-2021/03/23-22:40:01.247 17 Level-0 table #2114: 13255 bytes OK
-2021/03/23-22:40:01.326 17 Delete type=0 #2111
+2021/03/30-20:18:08.398 3 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/30-20:18:08.414 3 Recovering log #2706
+2021/03/30-20:18:08.420 3 Reusing old log /home/tan/.config/google-chrome/Default/Local Storage/leveldb/002706.log 
+2021/03/30-20:18:27.674 5 Level-0 table #2710: started
+2021/03/30-20:18:28.800 5 Level-0 table #2710: 135214 bytes OK
+2021/03/30-20:18:29.613 5 Delete type=0 #2706
+2021/03/30-20:18:29.647 5 Compacting 4@0 + 1@1 files
+2021/03/30-20:18:30.924 5 Generated table #2711@0: 1373 keys, 1414866 bytes
+2021/03/30-20:18:30.924 5 Compacted 4@0 + 1@1 files => 1414866 bytes
+2021/03/30-20:18:31.714 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/30-20:18:31.721 5 Delete type=2 #2701
+2021/03/30-20:18:31.721 5 Delete type=2 #2703
+2021/03/30-20:18:31.721 5 Delete type=2 #2705
+2021/03/30-20:18:31.721 5 Delete type=2 #2707
+2021/03/30-20:18:31.721 5 Delete type=2 #2710
+2021/03/30-20:19:00.223 3 Level-0 table #2713: started
+2021/03/30-20:19:00.640 3 Level-0 table #2713: 118430 bytes OK
+2021/03/30-20:19:02.782 3 Delete type=0 #2709
+2021/03/30-20:20:53.959 3 Level-0 table #2715: started
+2021/03/30-20:20:54.007 3 Level-0 table #2715: 121997 bytes OK
+2021/03/30-20:20:54.063 3 Delete type=0 #2712
+2021/03/30-20:46:43.194 10 Level-0 table #2717: started
+2021/03/30-20:46:43.229 10 Level-0 table #2717: 12910 bytes OK
+2021/03/30-20:46:43.307 10 Delete type=0 #2714
+2021/03/30-20:54:10.516 13 Level-0 table #2719: started
+2021/03/30-20:54:10.566 13 Level-0 table #2719: 12053 bytes OK
+2021/03/30-20:54:10.634 13 Delete type=0 #2716
+2021/03/30-20:54:10.635 13 Compacting 4@0 + 1@1 files
+2021/03/30-20:54:10.754 13 Generated table #2720@0: 1379 keys, 1417254 bytes
+2021/03/30-20:54:10.754 13 Compacted 4@0 + 1@1 files => 1417254 bytes
+2021/03/30-20:54:11.145 13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/30-20:54:11.148 13 Delete type=2 #2711
+2021/03/30-20:54:11.149 13 Delete type=2 #2713
+2021/03/30-20:54:11.149 13 Delete type=2 #2715
+2021/03/30-20:54:11.149 13 Delete type=2 #2717
+2021/03/30-20:54:11.149 13 Delete type=2 #2719
+2021/03/30-20:59:10.502 13 Level-0 table #2722: started
+2021/03/30-20:59:10.676 13 Level-0 table #2722: 12006 bytes OK
+2021/03/30-20:59:11.202 13 Delete type=0 #2718
+2021/03/30-21:09:10.493 13 Level-0 table #2724: started
+2021/03/30-21:09:10.723 13 Level-0 table #2724: 10649 bytes OK
+2021/03/30-21:09:10.896 13 Delete type=0 #2721

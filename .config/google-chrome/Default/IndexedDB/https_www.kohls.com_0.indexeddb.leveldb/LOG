@@ -1,0 +1,5 @@
+2021/04/01-17:07:01.489 3739 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.kohls.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-19:09:28.731 4cd2 Level-0 table #5: started
+2021/04/01-19:09:28.752 4cd2 Level-0 table #5: 975 bytes OK
+2021/04/01-19:09:28.796 4cd2 Delete type=0 #3
+2021/04/01-19:09:28.797 4cd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

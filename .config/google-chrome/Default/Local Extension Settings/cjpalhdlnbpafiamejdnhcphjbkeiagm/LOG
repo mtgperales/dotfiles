@@ -1,3 +1,6 @@
-2021/03/23-22:06:39.847 99a Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2021/03/23-22:06:39.862 99a Recovering log #100
-2021/03/23-22:06:39.886 99a Reusing old log /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000100.log 
+2021/04/01-11:53:27.806 9a4 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/04/01-11:53:27.856 9a4 Recovering log #118
+2021/04/01-11:53:27.871 9a4 Reusing old log /home/tan/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000118.log 
+2021/04/01-12:01:34.464 dbc Level-0 table #126: started
+2021/04/01-12:01:34.597 dbc Level-0 table #126: 2907926 bytes OK
+2021/04/01-12:01:34.664 dbc Delete type=0 #118

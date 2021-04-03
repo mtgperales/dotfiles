@@ -1,0 +1,36 @@
+00:00:03.372865 VirtualBox GUI VM Selector Window 6.1.18_RPMFusion r142142 linux.amd64 (Jan 21 2021 00:00:00) release log
+00:00:03.372874 Log opened 2021-04-02T06:57:53.719694000Z
+00:00:03.372877 Build Type: release
+00:00:03.372888 OS Product: Linux
+00:00:03.372891 OS Release: 5.11.10-200.fc33.x86_64
+00:00:03.372894 OS Version: #1 SMP Thu Mar 25 16:51:31 UTC 2021
+00:00:03.372956 DMI Product Name: 80XS
+00:00:03.372979 DMI Product Version: Lenovo ideapad 320-15ABR
+00:00:03.373001 Firmware type: UEFI
+00:00:03.373581 Secure Boot: Disabled
+00:00:03.373720 Host RAM: 6895MB (6.7GB) total, 5338MB (5.2GB) available
+00:00:03.373734 Executable: /usr/lib64/virtualbox/VirtualBox
+00:00:03.373736 Process ID: 3260
+00:00:03.373739 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:03.373830 Qt version: 5.15.2
+00:00:03.561725 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.875226 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x44 x 1366x724
+00:00:04.903302 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:56.980790 GUI: UIMediumEnumerator: Medium with key={{0d65ec30-0ed8-445f-9bd2-3e48520883ce}} created
+00:01:58.334262 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:12.847696 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:17.204901 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:18.573176 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:27.007353 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:10.435790 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:13.276978 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:13.616073 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:13.641559 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:17.166505 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:31.247872 GUI: UIMediumEnumerator: Medium with key={{90240ad5-812e-431d-8d43-e29f9181adc6}} created
+00:14:32.723587 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:45.939753 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:53.251216 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:35.535342 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:36.631957 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:36.896268 GUI: UIMediumEnumerator: Medium-enumeration finished!

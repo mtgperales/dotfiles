@@ -1,5 +1,38 @@
-2021/03/23-22:15:10.278 e7f Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/23-22:16:34.531 eb6 Level-0 table #5: started
-2021/03/23-22:16:34.602 eb6 Level-0 table #5: 635687 bytes OK
-2021/03/23-22:16:34.657 eb6 Delete type=0 #3
-2021/03/23-22:16:34.658 eb6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/01-17:59:11.613 3f86 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-17:59:11.614 3f86 Recovering log #64
+2021/04/01-17:59:11.614 3f86 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000064.log 
+2021/04/01-17:59:22.827 4015 Level-0 table #69: started
+2021/04/01-17:59:22.998 4015 Level-0 table #69: 1764775 bytes OK
+2021/04/01-17:59:23.371 4015 Delete type=0 #64
+2021/04/01-18:00:51.887 408c Level-0 table #71: started
+2021/04/01-18:00:51.955 408c Level-0 table #71: 775595 bytes OK
+2021/04/01-18:00:52.023 408c Delete type=0 #68
+2021/04/01-18:00:52.024 408c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x02\x03\x01:\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00v\x005\x00O\x00V\x00g\x00f' @ 58246 : 1
+2021/04/01-18:00:52.025 408c Compacting 1@0 + 1@1 files
+2021/04/01-18:00:52.153 408c Generated table #72@0: 8818 keys, 2130525 bytes
+2021/04/01-18:00:52.197 408c Generated table #73@0: 2376 keys, 213347 bytes
+2021/04/01-18:00:52.197 408c Compacted 1@0 + 1@1 files => 2343872 bytes
+2021/04/01-18:00:52.551 408c compacted to: files[ 0 2 3 0 0 0 0 ]
+2021/04/01-18:00:52.552 408c Delete type=2 #69
+2021/04/01-18:00:52.552 408c Delete type=2 #71
+2021/04/01-18:00:52.554 408c Manual compaction at level-0 from '\x00\x03\x02\x03\x01:\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00v\x005\x00O\x00V\x00g\x00f' @ 58246 : 1 .. (end); will stop at (end)
+2021/04/01-18:00:52.554 408c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x01\x018\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00s\x00y\x00z\x000' @ 51955 : 1
+2021/04/01-18:00:52.554 408c Compacting 1@1 + 2@2 files
+2021/04/01-18:00:52.702 408c Generated table #74@1: 2201 keys, 2119693 bytes
+2021/04/01-18:00:52.846 408c Generated table #75@1: 1974 keys, 2132769 bytes
+2021/04/01-18:00:52.977 408c Generated table #76@1: 2045 keys, 2065154 bytes
+2021/04/01-18:00:52.978 408c Compacted 1@1 + 2@2 files => 6317616 bytes
+2021/04/01-18:00:53.054 408c compacted to: files[ 0 1 4 0 0 0 0 ]
+2021/04/01-18:00:53.055 408c Delete type=2 #61
+2021/04/01-18:00:53.055 408c Delete type=2 #66
+2021/04/01-18:00:53.055 408c Delete type=2 #72
+2021/04/01-18:00:53.058 408c Manual compaction at level-1 from '\x00\x03\x02\x01\x018\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00s\x00y\x00z\x000' @ 51955 : 1 .. (end); will stop at '\x00\x03\x02\x03\x01:\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00v\x005\x00O\x00V\x00g\x00f' @ 58246 : 1
+2021/04/01-18:00:53.058 408c Compacting 1@1 + 2@2 files
+2021/04/01-18:00:53.197 408c Generated table #77@1: 2069 keys, 2118759 bytes
+2021/04/01-18:00:53.285 408c Generated table #78@1: 7346 keys, 742869 bytes
+2021/04/01-18:00:53.285 408c Compacted 1@1 + 2@2 files => 2861628 bytes
+2021/04/01-18:00:53.573 408c compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/04/01-18:00:53.573 408c Delete type=2 #62
+2021/04/01-18:00:53.573 408c Delete type=2 #73
+2021/04/01-18:00:53.574 408c Delete type=2 #76
+2021/04/01-18:00:53.575 408c Manual compaction at level-1 from '\x00\x03\x02\x03\x01:\x00d\x00r\x00i\x00v\x00e\x00_\x00f\x00e\x00.\x00m\x00a\x00i\x00n\x00.\x00e\x00n\x00.\x00X\x003\x00x\x007\x00R\x00n\x00b\x00t\x00T\x003\x00Q\x00.\x00O\x00.\x00A\x00Z\x008\x00B\x00I\x00F\x00L\x00Y\x00I\x00V\x00G\x00X\x00A\x00m\x00Q\x00B\x00B\x00Y\x00Q\x00C\x00;\x00v\x005\x00O\x00V\x00g\x00f' @ 58246 : 1 .. (end); will stop at (end)

@@ -1,8 +1,27 @@
-2021/03/25-20:54:23.490 5 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2021/03/25-20:54:23.699 5 Recovering log #95
-2021/03/25-20:54:24.052 5 Level-0 table #99: started
-2021/03/25-20:54:24.481 5 Level-0 table #99: 19516 bytes OK
-2021/03/25-20:54:24.481 5 Recovering log #99
-2021/03/25-20:54:24.482 5 Reusing old log /home/tan/.config/google-chrome/Default/Session Storage/000099.log 
-2021/03/25-20:54:27.132 5 Delete type=0 #95
-2021/03/25-20:54:27.132 5 Delete type=2 #100
+2021/04/01-11:53:23.331 5 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/04/01-11:53:23.833 5 Recovering log #120
+2021/04/01-11:53:23.904 5 Reusing old log /home/tan/.config/google-chrome/Default/Session Storage/000120.log 
+2021/04/01-11:58:04.698 7 Level-0 table #124: started
+2021/04/01-11:58:04.740 7 Level-0 table #124: 32502 bytes OK
+2021/04/01-11:58:04.840 7 Delete type=0 #120
+2021/04/01-16:56:04.844 99 Level-0 table #126: started
+2021/04/01-16:56:04.918 99 Level-0 table #126: 25096 bytes OK
+2021/04/01-16:56:05.162 99 Delete type=0 #123
+2021/04/01-16:56:05.164 99 Compacting 4@0 + 1@1 files
+2021/04/01-16:56:05.248 99 Generated table #127@0: 4935 keys, 123999 bytes
+2021/04/01-16:56:05.249 99 Compacted 4@0 + 1@1 files => 123999 bytes
+2021/04/01-16:56:06.271 99 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/01-16:56:06.273 99 Delete type=2 #116
+2021/04/01-16:56:06.273 99 Delete type=2 #119
+2021/04/01-16:56:06.273 99 Delete type=2 #121
+2021/04/01-16:56:06.273 99 Delete type=2 #124
+2021/04/01-16:56:06.273 99 Delete type=2 #126
+2021/04/01-17:28:50.721 a6 Level-0 table #129: started
+2021/04/01-17:28:50.802 a6 Level-0 table #129: 19878 bytes OK
+2021/04/01-17:28:50.903 a6 Delete type=0 #125
+2021/04/01-19:25:24.487 f7 Level-0 table #131: started
+2021/04/01-19:25:24.596 f7 Level-0 table #131: 679303 bytes OK
+2021/04/01-19:25:24.873 f7 Delete type=0 #128
+2021/04/01-19:27:46.987 f9 Level-0 table #133: started
+2021/04/01-19:27:47.144 f9 Level-0 table #133: 659506 bytes OK
+2021/04/01-19:27:47.212 f9 Delete type=0 #130

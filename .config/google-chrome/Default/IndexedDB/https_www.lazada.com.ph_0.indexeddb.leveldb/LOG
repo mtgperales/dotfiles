@@ -1,3 +1,15 @@
-2021/03/25-22:36:40.059 16ef Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/25-22:36:40.060 16ef Recovering log #427
-2021/03/25-22:36:40.060 16ef Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/000427.log 
+2021/04/01-19:27:10.056 516c Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-19:27:10.058 516c Recovering log #591
+2021/04/01-19:27:10.058 516c Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/000591.log 
+2021/04/01-19:27:58.302 521b Level-0 table #596: started
+2021/04/01-19:27:58.437 521b Level-0 table #596: 90467 bytes OK
+2021/04/01-19:27:58.492 521b Delete type=0 #591
+2021/04/01-19:27:58.492 521b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/01-19:27:58.493 521b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`-\xff\xd2\x88wB\x00\x01a\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x00d\x00b\x00b\x009\x00c\x00a\x00e\x001\x00b\x003\x005\x00f\x002\x005\x001\x00d\x000\x009\x009\x003\x009\x00c\x008\x000\x00b\x00c\x007\x002\x00a\x00b\x001\x003\x00.\x00p\x00n\x00g\x00_\x001\x002\x000\x000\x00x\x001\x002\x000\x000\x00q\x008\x000\x00.\x00j\x00p\x00g' @ 332247 : 1
+2021/04/01-19:27:58.493 521b Compacting 1@1 + 1@2 files
+2021/04/01-19:27:58.569 521b Generated table #597@1: 3552 keys, 297050 bytes
+2021/04/01-19:27:58.569 521b Compacted 1@1 + 1@2 files => 297050 bytes
+2021/04/01-19:27:58.999 521b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/01-19:27:59.001 521b Delete type=2 #593
+2021/04/01-19:27:59.001 521b Delete type=2 #596
+2021/04/01-19:27:59.003 521b Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`-\xff\xd2\x88wB\x00\x01a\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00p\x00h\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00p\x00/\x00d\x00b\x00b\x009\x00c\x00a\x00e\x001\x00b\x003\x005\x00f\x002\x005\x001\x00d\x000\x009\x009\x003\x009\x00c\x008\x000\x00b\x00c\x007\x002\x00a\x00b\x001\x003\x00.\x00p\x00n\x00g\x00_\x001\x002\x000\x000\x00x\x001\x002\x000\x000\x00q\x008\x000\x00.\x00j\x00p\x00g' @ 332247 : 1 .. (end); will stop at (end)

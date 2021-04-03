@@ -1,3 +1,6 @@
-2021/03/24-15:52:52.896 9c1 Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/03/24-15:52:52.944 9c1 Recovering log #4
-2021/03/24-15:52:53.001 9c1 Reusing old log /home/tan/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000004.log 
+2021/04/02-15:16:32.074 17de Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/04/02-15:16:32.485 17de Recovering log #4
+2021/04/02-15:16:32.583 17de Reusing old log /home/tan/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000004.log 
+2021/04/02-15:16:42.602 17dd Level-0 table #8: started
+2021/04/02-15:16:43.740 17dd Level-0 table #8: 111270 bytes OK
+2021/04/02-15:16:43.876 17dd Delete type=0 #4

@@ -1,8 +1,15 @@
-2021/03/23-22:29:54.683 129b Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/23-22:29:54.684 129b Recovering log #19
-2021/03/23-22:29:54.685 129b Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000019.log 
-2021/03/23-22:31:46.459 12bc Level-0 table #24: started
-2021/03/23-22:31:46.459 12bc Level-0 table #24: 0 bytes OK
-2021/03/23-22:31:46.705 12bc Delete type=0 #19
-2021/03/23-22:31:46.706 12bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/23-22:31:46.706 12bc Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/03/27-21:09:10.179 2014 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-21:09:10.179 2014 Recovering log #30
+2021/03/27-21:09:10.179 2014 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000030.log 
+2021/03/27-21:09:28.848 2013 Level-0 table #35: started
+2021/03/27-21:09:29.160 2013 Level-0 table #35: 702 bytes OK
+2021/03/27-21:09:31.026 2013 Delete type=0 #30
+2021/03/27-21:09:31.026 2013 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-21:09:31.026 2013 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 353 : 1
+2021/03/27-21:09:31.026 2013 Compacting 1@1 + 1@2 files
+2021/03/27-21:09:32.453 2013 Generated table #36@1: 63 keys, 1423 bytes
+2021/03/27-21:09:32.453 2013 Compacted 1@1 + 1@2 files => 1423 bytes
+2021/03/27-21:09:32.888 2013 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-21:09:32.889 2013 Delete type=2 #32
+2021/03/27-21:09:32.889 2013 Delete type=2 #35
+2021/03/27-21:09:32.889 2013 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 353 : 1 .. (end); will stop at (end)

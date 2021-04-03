@@ -1,3 +1,17 @@
-2021/03/23-16:31:35.848 11b1 Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2021/03/23-16:31:35.849 11b1 Recovering log #23
-2021/03/23-16:31:35.866 11b1 Reusing old log /home/tan/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000023.log 
+2021/03/29-11:37:22.258 12d1 Reusing MANIFEST /home/tan/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/03/29-11:37:22.259 12d1 Recovering log #38
+2021/03/29-11:37:22.358 12d1 Reusing old log /home/tan/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000038.log 
+2021/03/29-11:58:53.056 1e1d Compacting 3@0 + 4@1 files
+2021/03/29-11:58:53.537 1e1d Generated table #41@0: 16 keys, 2742015 bytes
+2021/03/29-11:58:53.674 1e1d Generated table #42@0: 6 keys, 2141823 bytes
+2021/03/29-11:58:53.812 1e1d Generated table #43@0: 8 keys, 2467173 bytes
+2021/03/29-11:58:53.856 1e1d Generated table #44@0: 4 keys, 146760 bytes
+2021/03/29-11:58:53.856 1e1d Compacted 3@0 + 4@1 files => 7497771 bytes
+2021/03/29-11:58:53.943 1e1d compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/03/29-11:58:53.944 1e1d Delete type=2 #30
+2021/03/29-11:58:53.944 1e1d Delete type=2 #31
+2021/03/29-11:58:53.944 1e1d Delete type=2 #32
+2021/03/29-11:58:53.944 1e1d Delete type=2 #33
+2021/03/29-11:58:53.944 1e1d Delete type=2 #35
+2021/03/29-11:58:53.944 1e1d Delete type=2 #37
+2021/03/29-11:58:53.944 1e1d Delete type=2 #39

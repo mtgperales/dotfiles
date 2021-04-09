@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Lanjutan"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Masukkan domain ke daftar putih. 1 entri per baris."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Nonaktifkan LocalCDN untuk domain ini:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Jumlah injeksi sumber daya Jaringan Distribusi Konten lokal sejak pemasangan."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Beta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Jika permintaan untuk sumber daya yang hilang diizinkan, koneksi ke \"fonts.googleapis.com\" tidak akan diblokir. Aktifkan opsi ini untuk memblokir permintaan."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Blokir Fon Google"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Batalkan pencegatan permintaan jika sumber daya yang dibutuhkan tidak tersedia secara lokal."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Blokir permintaan untuk sumber daya yang hilang"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Lanjutan"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Dasar"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Info"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Lainnya"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "Ubah warna lencana jika sumber daya tidak ada."
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Mengindikasikan sumber daya tidak ada pada ikon"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Pilih ikon untuk ekstensi ini"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Salin"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Apakah Anda yakin ingin menghapus semua statistik?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Impor gagal"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Impor berhasil"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Mencegah permintaan yang dicekal bocor ke jaringan pengiriman."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Nonaktifkan pra-ambil tautan"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Melindungi Anda dari pelacakan melalui CDN (Content Delivery Networks) dengan mengalihkannya ke sumber lokal."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Nonaktifkan"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Fitur ini akan membuat situs web tidak bekerja dengan benar. Jangan membiarkannya aktif, kecuali jika Anda siap menambahkan secara manual semua domain yang terdampak ke dalam daftar putih."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Jika Anda menggunakan pemblokir iklan, Anda bisa membuat aturannya di sini. Anda harus manambahkan aturan ini secara manual ke pemblokir iklan Anda."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Buat aturan untuk pemblokir iklan Anda"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Impor/Ekspor"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Statistik"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Tipe penyimpanan"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Sembunyikan tombol donasi"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Masukkan domain yang terdampak atau diabaikan oleh filter HTML. 1 entri per baris."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Jangan terapkan filter HTML untuk domain ini:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Terapkan filter HTML untuk domain ini:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Fungsi ini masih dalam tahap eksperimental. Tidak ada data yang dikirim. Semuanya lokal pada perangkat Anda."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Statistik internal"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Sedang (Pengalihan per hari)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Hapus"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Domain ini diizinkan untuk memuat Google Fonts. 1 entri per baris."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Donasi"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Cadangkan ke berkas"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Pulihkan dari berkas"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Ganti framework"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Filter kode sumber HTML"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Bulan lalu"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Minggu lalu"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Tahun lalu"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Lokal"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Sinkron"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Hari ini"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Terakhir diperbarui:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Anda bisa membuka log dengan tombol di dalam menu. Log akan dihapus setelah Anda menutup peramban atau menonaktifkannya."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Aktifkan pencatatan log"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Aktifkan opsi untuk selalu menerapkan filter HTML. Domain dalam daftar akan diabaikan. Jika opsi ini dinonaktifkan, filter HTML hanya akan diterapkan ke domain di dalam daftar."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Inversi filter HTML"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Fungsi ini bisa membuat situs web tidak bekerja dengan benar. Silakan baca informasinya pada halaman Wiki."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Opsi"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Tampilkan jumlah injeksi sumber daya pada ekstensi ikon."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Tampilkan jumlah injeksi pada ikon"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Hapus data sensitif dari permintaan CDN yang diizinkan untuk meningkatkan privasi."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Buang data meta dari permintaan yang diizinkan"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Selalu"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Tidak pernah"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Hanya aturan dan CDN baru"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Notifikasi setelah pembaruan"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Situs web tidak bekerja?"
+   }
+}

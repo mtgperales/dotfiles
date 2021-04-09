@@ -1,0 +1,1474 @@
+{
+   "1pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Taikyti pakeitimus"
+   },
+   "1pExport": {
+      "description": "English: Export",
+      "message": "Eksportuoti"
+   },
+   "1pExportFilename": {
+      "description": "English: my-AdNauseam-static-filters_{{datetime}}.txt",
+      "message": "mano-AdNauseam-statiniai-filtrai_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "description": "Short information about how to create custom filters",
+      "message": "Vienas filtras eilutėje. Filtras gali būti paprastas serverio adresas, arba su Adblock Plus suderinamas filtras. Eilutės pradėtos \u003Ccode>!\u003C/code> bus ignoruotos."
+   },
+   "1pImport": {
+      "description": "English: Import and append",
+      "message": "Importuoti ir papildyti"
+   },
+   "1pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Mano filtrai"
+   },
+   "3pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Taikyti pakeitimus"
+   },
+   "3pAutoUpdatePrompt1": {
+      "description": "A checkbox in the _3rd-party filters_ pane",
+      "message": "Automatiškai atnaujinti filtrų sąrašus."
+   },
+   "3pExternalListObsolete": {
+      "description": "used as a tooltip for the out-of-date icon beside a list",
+      "message": "Pasenęs."
+   },
+   "3pExternalListsHint": {
+      "description": "Short information about how to use the textarea to import external filter lists by URL",
+      "message": "Vienas URL eilutėje. Neteisingi URL bus tyliai ignoruoti."
+   },
+   "3pGroupAds": {
+      "description": "English: Ads",
+      "message": "Reklamos"
+   },
+   "3pGroupAnnoyances": {
+      "description": "The header identifying the filter lists in the category 'annoyances'",
+      "message": "Erzinimas"
+   },
+   "3pGroupCustom": {
+      "description": "English: Custom",
+      "message": "Adaptuoti"
+   },
+   "3pGroupDefault": {
+      "description": "Header for the uBlock filters section in 'Filter lists pane'",
+      "message": "Įtaisyti"
+   },
+   "3pGroupEssentials": {
+      "description": "English: Essentials",
+      "message": "Pagrindai"
+   },
+   "3pGroupMalware": {
+      "description": "English: Malware",
+      "message": "Kenkėjiškos programos"
+   },
+   "3pGroupMultipurpose": {
+      "description": "English: Multipurpose",
+      "message": "Univarsalūs"
+   },
+   "3pGroupOther": {
+      "description": "English: Other",
+      "message": "Kita"
+   },
+   "3pGroupPrivacy": {
+      "description": "English: Privacy",
+      "message": "Privatumas"
+   },
+   "3pGroupRegions": {
+      "description": "English: Languages",
+      "message": "Kalbos"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "description": "This will cause uBO to ignore all generic cosmetic filters.",
+      "message": "Ignoruoti daugybinius kosmetinius filtrus."
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature.",
+      "message": "\u003Cp>Daugybiniai kosmetiniai filtrai yra tokie kosmetiniai filtrai, kurie taikomi visoms svetainėms.\u003Cp>Nors AdNauseam juos apdoroja efektyviai, daugybiniai kosmetiniai filtrai vis tiek gali prisidėti prie pamatuojamo atminties ir procesoriaus panaudojimo kai kuriose svetainėse, ypač didelėse ir ilgai gyvuojančiose.\u003Cp>Šio nustatymo įjungimas sumažins atminties ir procesoriaus naudojimą, kurį sukelia svetainės dėl daugybinių kosmetinių filtrų apdorojimo, bei sumažins bendrą AdNauseam atminties naudojimą.\u003Cp>Rekomenduojama įjungti šį nustatymą mažiau galinguose įrenginiuose."
+   },
+   "3pImport": {
+      "description": "The label for the checkbox used to import external filter lists",
+      "message": "Importuoti..."
+   },
+   "3pLastUpdate": {
+      "description": "used as a tooltip for the clock icon beside a list",
+      "message": "Paskutinis atnaujinimas: {{ago}}.\nIeškoti atnaujinimo."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "description": "English: Lists of blocked hosts",
+      "message": "Blokuotų serverių sąrašas"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "naudojama {{used}} iš {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "description": "Appears at the top of the _3rd-party filters_ pane",
+      "message": "Tinklo filtrų ({{netFilterCount}})  / kosmetinių filtrų ({{cosmeticFilterCount}}) iš:"
+   },
+   "3pNetworkError": {
+      "description": "used as a tooltip for error icon beside a list",
+      "message": "Tinklo klaida sutrukdė atnaujinti resursą."
+   },
+   "3pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Filtrų sąrašai"
+   },
+   "3pPageUpdate": {
+      "description": "English: update",
+      "message": "Atnaujinti"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature.",
+      "message": "\u003Cp>Ši nuostata įjungia \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Su Adblock Plus suderinamų „elementų slėpimo“ filtrų\u003C/a> analizę ir taikymą. Šie filtrai iš esmės yra kosmetiniai, jie naudojami tinklalapio elementams, kurie yra laikomi vaizdiniais nepatogumais ir kurių negalima užblokuoti tinklo užklausomis paremtais filtrais, paslėpti.\u003C/p>\u003Cp>Šios nuostatos įjungimas padidina AdNauseam atminties naudojimą.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "description": "English: Parse and enforce Adblock+ element hiding filters.",
+      "message": "Analizuoti ir taikyti kosmetinius filtrus."
+   },
+   "3pPurgeAll": {
+      "description": "A button in the in the _3rd-party filters_ pane",
+      "message": "Valyti visus podėlius"
+   },
+   "3pUpdateNow": {
+      "description": "A button in the in the _3rd-party filters_ pane",
+      "message": "Atnaujinti dabar"
+   },
+   "3pUpdating": {
+      "description": "used as a tooltip for the spinner icon beside a list",
+      "message": "Atnaujinama..."
+   },
+   "3pViewContent": {
+      "description": "used as a tooltip for eye icon beside a list",
+      "message": "view content"
+   },
+   "ClickingFrequencyAlways": {
+      "description": "English: Click Frequency - Always",
+      "message": "Visada"
+   },
+   "ClickingFrequencyRarely": {
+      "description": "English: Click Frequency - Rarely",
+      "message": "Retai"
+   },
+   "ClickingFrequencySometimes": {
+      "description": "English: Click Frequency - Sometimes",
+      "message": "Kartais"
+   },
+   "GB": {
+      "description": "short for 'gigabytes'",
+      "message": "GB"
+   },
+   "KB": {
+      "description": "short for 'kilobytes'",
+      "message": "KB"
+   },
+   "MB": {
+      "description": "short for 'megabytes'",
+      "message": "MB"
+   },
+   "aboutBackupDataButton": {
+      "description": "Text for button to create a backup of all settings",
+      "message": "Padaryti atsarginę kopiją į failą"
+   },
+   "aboutBackupFilename": {
+      "description": "English: my-AdNauseam-backup_{{datetime}}.txt",
+      "message": "mano-AdNauseam-atsarginė_kopija_{{datetime}}.txt"
+   },
+   "aboutBuiltOn": {
+      "description": "English: links.html Built on",
+      "message": "Sukurta naudojant"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Pakeitimų žurnalas"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Pirminis tekstas (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Talkininkai"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Išorinės priklausomybės (suderinamos su „GPLv3“):"
+   },
+   "aboutFaq": {
+      "description": "English: links.html -> Frequently asked questions",
+      "message": "Dažniausiai užduodami klausimai"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Filter lists"
+   },
+   "aboutIssues": {
+      "description": "Text for a link to official issue tracker",
+      "message": "Klaidų sekimo sistema"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Apie"
+   },
+   "aboutResetDataButton": {
+      "description": "English: Reset to default settings...",
+      "message": "Atkurti numatytuosius nustatymus..."
+   },
+   "aboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "Visi jūsų nustatymai bus pašalinti, o AdNauseam bus perleistas.\n\nAtkurti AdNauseam pradinius nustatymus?"
+   },
+   "aboutRestoreDataButton": {
+      "description": "English: Restore from file...",
+      "message": "Atkurti iš failo..."
+   },
+   "aboutRestoreDataConfirm": {
+      "description": "Message asking user to confirm restore",
+      "message": "Visi jūsų nustatymai bus perrašyti naudojant duomenis iš {{time}} atsarginės kopijos, o AdNauseam bus perleistas.\n\nPerrašyti visus nustatymus naudojant atsarginės kopijos duomenis?"
+   },
+   "aboutRestoreDataError": {
+      "description": "Message to display when an error occurred during restore",
+      "message": "Nepavyko nuskaityti duomenų arba jie neteisingi"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Source code"
+   },
+   "aboutSupport": {
+      "description": "English: links.html Support",
+      "message": "Pagalba"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Translations"
+   },
+   "aboutWiki": {
+      "description": "English: project' wiki on GitHub",
+      "message": "Viki"
+   },
+   "adTypes": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Skelbimų tipai"
+   },
+   "adTypesImageAds": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Vaizdo skelbimai"
+   },
+   "adTypesTextAds": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Tekstiniai skelbimai"
+   },
+   "adnAboutPageName": {
+      "description": "English: Firstrun.html page title",
+      "message": "AdNauseam - Apie"
+   },
+   "adnAboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "Visi jūsų nustatymai bus pašalinti, išsaugoti skelbimai bus ištrinti, o „AdNauseam“ bus paleistas iš naujo.\n\nAtstatyti „AdNauseam“ į pradinius nustatymus?"
+   },
+   "adnAdClickingStatusFailed": {
+      "description": "Menu & AdVault: Failed",
+      "message": "Nepavyko"
+   },
+   "adnAdClickingStatusPending": {
+      "description": "Menu & AdVault: Pending",
+      "message": "Laukiama"
+   },
+   "adnAdClickingStatusSkippedDNT": {
+      "description": "Menu & AdVault: SKIPPED: DNT Allowed",
+      "message": "PRALEISTA: DNT leidžiama"
+   },
+   "adnAdClickingStatusSkippedDisabled": {
+      "description": "Menu & AdVault: SKIPPED: Clicking disabled",
+      "message": "PRALEISTA: Spaudinėjimas išjungtas"
+   },
+   "adnAdClickingStatusSkippedFrequency": {
+      "description": "Menu & AdVault: SKIPPED: Click Frequency",
+      "message": "PRALEISTA: Paspaudimų dažnis"
+   },
+   "adnAdClickingStatusSkippedUser": {
+      "description": "Menu & AdVault: SKIPPED: Clicked by User",
+      "message": "PRALEISTA: Paspausta naudotojo"
+   },
+   "adnAdClickingStatusVisited": {
+      "description": "Menu & AdVault: Visited",
+      "message": "Aplankyti"
+   },
+   "adnAllowedByDNT": {
+      "description": "English: Not Yet Visited",
+      "message": "Leista per Do Not Track"
+   },
+   "adnClearConfirm": {
+      "description": "appears in ADN settings",
+      "message": "Šis veiksmas visam laikui pašalins VISUS skelbimus"
+   },
+   "adnExportedAdsFilename": {
+      "description": "English: AdNauseam file export",
+      "message": "AdNauseam_Exportuoti_{{datetime}}.json"
+   },
+   "adnFirstRunBetterButStill": {
+      "description": "English: Firstrun.html -> Better, but still…",
+      "message": "Geriau, bet vis tiek…"
+   },
+   "adnFirstRunBlockingMalware": {
+      "description": "English: Firstrun.html -> Block Malware",
+      "message": "Blokuoti kenkėjiškas programas"
+   },
+   "adnFirstRunBlockingMalwareDescription": {
+      "description": "English: Firstrun.html -> Block trackers and other malware (customize)",
+      "message": "Blokuoti sekimo ir kitas kenkėjiškas programas (\u003Cspan>Tinkinti\u003C/span>)"
+   },
+   "adnFirstRunClickingAds": {
+      "description": "English: Firstrun.html -> Click Ads",
+      "message": "Spustelėti skelbimus"
+   },
+   "adnFirstRunClickingAdsDescription": {
+      "description": "English: Firstrun.html -> Register visits on Ads found via your filter lists",
+      "message": "Registruoti apsilankymus skelbimuose jūsų pasirinktuose \u003Cspan>filtruose\u003C/span>"
+   },
+   "adnFirstRunHideAllAds": {
+      "description": "English: Firstrun.html -> Hide Ads:",
+      "message": "Paslėpti skelbimus"
+   },
+   "adnFirstRunHideAllAdsDescription": {
+      "description": "English: Firstrun.html -> Hide Ads in your selected filter lists",
+      "message": "Paslėpti skelbimus jūsų pasirinktuose \u003Cspan>filtruose\u003C/span>"
+   },
+   "adnFirstRunLetsGo": {
+      "description": "English: Firstrun.html -> Let's go!",
+      "message": "Pirmyn!"
+   },
+   "adnFirstRunPlease": {
+      "description": "English: Firstrun.html -> Please:",
+      "message": "Prašau:"
+   },
+   "adnFirstRunSwitchMeOn": {
+      "description": "English: Firstrun.html -> Switch me on",
+      "message": "Įjunkite mane"
+   },
+   "adnFirstRunThatsIt": {
+      "description": "English: Firstrun.html -> That's it? ok…",
+      "message": "Viskas? Gerai…"
+   },
+   "adnFoundOn": {
+      "description": "English: Vault.html -> inspected Ad -> FOUND ON",
+      "message": "RASTAS"
+   },
+   "adnImportAlert": {
+      "description": "appears in ADN vault, after import",
+      "message": "{{count}} skelbimų buvo importuoti"
+   },
+   "adnImportAlertFormat": {
+      "description": "appears in ADN vault, after import",
+      "message": "Faile nėra jokių reklamų, pasirinkite kitą failą."
+   },
+   "adnLogNoLog": {
+      "description": "appears in ADN log page",
+      "message": "Nėra įrašų"
+   },
+   "adnLogViewFullLog": {
+      "description": "appears in ADN log page",
+      "message": "Peržiūrėti visą žurnalą"
+   },
+   "adnMenuAdsClicked": {
+      "description": "appears in ADN popup menu and vault",
+      "message": "paspausta {{number}}"
+   },
+   "adnMenuAdsDetected": {
+      "description": "appears in ADN popup menu",
+      "message": "{{count}} aptiktų skelbimų"
+   },
+   "adnMenuClearAds": {
+      "description": "appears in ADN popup menu",
+      "message": "Išvalyti skelbimus ir naršyklės istoriją"
+   },
+   "adnMenuClearAdsNow": {
+      "description": "appears in ADN popup menu",
+      "message": "Išvalyti skelbimus"
+   },
+   "adnMenuDisableAllLogging": {
+      "description": "appears in ADN popup menu",
+      "message": "Išjungti žurnalo registrą"
+   },
+   "adnMenuDisableOutgoingReferrer": {
+      "description": "appears in ADN popup menu",
+      "message": "Išjungti refererio šaltinį"
+   },
+   "adnMenuExportAdsOnly": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Tik skelbimus"
+   },
+   "adnMenuExportOptions": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Eksporto parametrai"
+   },
+   "adnMenuExportSettingsAndAds": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Nuostatas ir skelbimus"
+   },
+   "adnMenuExportSettingsOnly": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Tik nuostatas"
+   },
+   "adnMenuHideBadge": {
+      "description": "appears in ADN popup menu",
+      "message": "Slėpti skelbimų skaičių piktogramoje"
+   },
+   "adnMenuImportAds": {
+      "description": "appears in ADN popup menu",
+      "message": "Importuoti Skelbimus"
+   },
+   "adnMenuResume": {
+      "description": "appears in ADN popup menu",
+      "message": "Tęsti"
+   },
+   "adnMenuSettings": {
+      "description": "appears in ADN popup menu",
+      "message": "Nuostatos"
+   },
+   "adnMenuViewLog": {
+      "description": "appears in ADN popup menu",
+      "message": "Peržiūrėti žurnalą"
+   },
+   "adnMenuViewVault": {
+      "description": "appears in ADN popup menu",
+      "message": "Rodyti AdVault"
+   },
+   "adnNotHiding": {
+      "description": "English: Menu->display when not hiding Ads",
+      "message": "AdNauseam šiuo metu neslėpia skelbimų"
+   },
+   "adnNotYetVisited": {
+      "description": "English: Not Yet Visited",
+      "message": "Dar neaplankytas"
+   },
+   "adnNotificationActivateAdNauseamList": {
+      "description": "English: Notifications -> Activate the AdNauseam filter",
+      "message": "Aktyvuoti AdNauseam filtrą"
+   },
+   "adnNotificationActivateBlocking": {
+      "description": "English: Notifications -> Activate malware blocking",
+      "message": "Aktyvuoti kenkėjiškų programų blokavimą"
+   },
+   "adnNotificationActivateClicking": {
+      "description": "English: Notifications -> Activate Ad clicking",
+      "message": "Aktyvuoti skelbimų paspaudimą"
+   },
+   "adnNotificationActivateEasyList": {
+      "description": "English: Notifications -> Activate the EasyList filter",
+      "message": "Aktyvuoti EasyList filtrą"
+   },
+   "adnNotificationActivateHiding": {
+      "description": "English: Notifications -> Activate Ad hiding",
+      "message": "Aktyvus skelbimų slėpimas"
+   },
+   "adnNotificationBrowserSetting": {
+      "description": "English: Notifications -> The 'Content Blocking' settings in your browser may interfere with AdNauseam!",
+      "message": "Jūsų naršyklės „Turinio blokavimo“ nustatymai gali trukdyti „AdNauseam“!"
+   },
+   "adnNotificationDNTAllowed": {
+      "description": "English: Notifications -> This page respects Do Not Track, Ads are allowed.",
+      "message": "Šis puslapis gerbia \u003Cb>Nesekti\u003C/b> nuostatą, skelbimai bus leidžiami."
+   },
+   "adnNotificationDNTClickingNotHiding": {
+      "description": "English: Notifications -> This page respects Do Not Track, clicking not hiding.",
+      "message": "Šis puslapis gerbia \u003Cb>Nesekti\u003C/b> nuostatą, skelbimai bus paspaudžiami, bet nepaslėpti"
+   },
+   "adnNotificationDNTHidingNotClicking": {
+      "description": "English: Notifications -> This page respects Do Not Track, hiding not clicking.",
+      "message": "Šis puslapis gerbia \u003Cb>Nesekti\u003C/b> nuostatą, skelbimai bus paslėpti, bet nespaudžiami."
+   },
+   "adnNotificationDNTJustSoYouKnow": {
+      "description": "English: Notifications -> This page respects Do Not Track, just so you know.",
+      "message": "Jūsų žiniai, šis puslapis gerbia \u003Cb>Nesekti\u003C/b> nuostatą."
+   },
+   "adnNotificationDisable": {
+      "description": "English: Notifications -> Disable",
+      "message": "Išjungti"
+   },
+   "adnNotificationDisableAdBlocker": {
+      "description": "English: Notifications -> Your ad blocker and AdNauseam may conflict!",
+      "message": "Jūsų skelbimų blokavimo programėlė ir AdNauseum gali neveikti kartu!"
+   },
+   "adnNotificationDisableUBlock": {
+      "description": "English: Notifications -> uBlock and AdNauseam may conflict!",
+      "message": "uBlock ir AdNauseam gali neveikti kartu!"
+   },
+   "adnNotificationOperaSetting": {
+      "description": "English: Notifications -> Please allow AdNauseam to access search page results",
+      "message": "Leiskite „AdNauseam“ pasiekti paieškos puslapio rezultatus"
+   },
+   "adnNotificationPrivacyMode": {
+      "description": "English: Notifications -> You have allowed adnauseam to have access to your online activities while private browsing.",
+      "message": "Jūs suteikėte „Adnauseam“ prieigą prie internetinės veiklos, kai privačiai naršote."
+   },
+   "adnNotificationReactivate": {
+      "description": "English: Notifications -> Reactivate",
+      "message": "Atstatyti"
+   },
+   "adnPausedOnPage": {
+      "description": "English: Menu->display when paused on page/site",
+      "message": "Šiame puslapyje AdNauseam pristabdytas"
+   },
+   "adnShowingRecentAds": {
+      "description": "shown in menu when only 'recent' Ads are shown",
+      "message": "Jokių skelbimų nesurinktą šiame puslapyje (rodoma naujausius)"
+   },
+   "adnTarget": {
+      "description": "English: Vault.html -> inspected Ad -> TARGET",
+      "message": "TAIKINYS"
+   },
+   "adnVaultAdsCost": {
+      "description": "appears on vault page",
+      "message": "vertė"
+   },
+   "adnVaultClear": {
+      "description": "appears on vault page",
+      "message": "Išvalyti"
+   },
+   "adnVaultDeleteThisAd": {
+      "description": "appears on vault page",
+      "message": "naikinti šį skelbimą"
+   },
+   "adnVaultExport": {
+      "description": "appears on vault page",
+      "message": "Eksportuoti"
+   },
+   "adnVaultFound": {
+      "description": "appears on vault page",
+      "message": "{{total}} surinktų skelbimų"
+   },
+   "adnVaultImport": {
+      "description": "appears on vault page",
+      "message": "Importuoti"
+   },
+   "adnVaultName": {
+      "description": "English: AdNauseam — Ad Vault",
+      "message": "AdNauseam — AdVault"
+   },
+   "adnVaultShowing": {
+      "description": "appears on vault page",
+      "message": "rodoma"
+   },
+   "adnVaultSince": {
+      "description": "appears on vault page",
+      "message": "Nuo {{datetime}}"
+   },
+   "adnVaultTotalEstimated": {
+      "description": "appears on vault page",
+      "message": "iš viso apskaičiuota"
+   },
+   "advancedSettingsPageName": {
+      "description": "Title for the advanced settings page",
+      "message": "Sudėtingesni nustatymai"
+   },
+   "advancedSettingsWarning": {
+      "description": "A warning to users at the top of 'Advanced settings' page",
+      "message": "Įspėjimas! Keiskite šiuos sudėtingesnius nustatymus savo rizika."
+   },
+   "assetViewerPageName": {
+      "description": "Title for the asset viewer page",
+      "message": "AdNauseam — resursų žiūryklė"
+   },
+   "blockingMalwarePrompt": {
+      "description": "English: lock trackers and other malware",
+      "message": "Blokuoti sekimo ir kitas kenkėjiškas programas"
+   },
+   "clickingAdsPrompt": {
+      "description": "English: Click Ads identified by your chosen filter lists",
+      "message": "Paspausti skelbimus iš jūsų pasirinkto filtro sąrašo"
+   },
+   "cloudDeviceNamePrompt": {
+      "description": "used as a prompt for the user to provide a custom device name",
+      "message": "Šio įrenginio vardas:"
+   },
+   "cloudNoData": {
+      "description": "",
+      "message": "...\n..."
+   },
+   "cloudPull": {
+      "description": "tooltip",
+      "message": "Importuoti iš nuotolinės saugyklos"
+   },
+   "cloudPullAndMerge": {
+      "description": "tooltip",
+      "message": "Importuoti iš nuotolinės saugyklos ir sulieti su dabartiniais nustatymais"
+   },
+   "cloudPush": {
+      "description": "tooltip",
+      "message": "Eksportuoti į nuotolinę saugyklą"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "description": "A context menu entry, present when large media elements have been blocked on the current site",
+      "message": "Laikinai leisti didelius medijos elementus"
+   },
+   "dashboardName": {
+      "description": "English: AdNauseam — Dashboard",
+      "message": "AdNauseam — Prietaisų skydas"
+   },
+   "dashboardUnsavedWarning": {
+      "description": "A warning in the dashboard when navigating away from unsaved changes",
+      "message": "Warning! You have unsaved changes"
+   },
+   "dashboardUnsavedWarningIgnore": {
+      "description": "Label for button to ignore unsaved changes",
+      "message": "Ignore"
+   },
+   "dashboardUnsavedWarningStay": {
+      "description": "Label for button to prevent navigating away from unsaved changes",
+      "message": "Stay"
+   },
+   "disableClickingForDNTPrompt": {
+      "description": "English: Don't click non-tracking Ads",
+      "message": "Nespausti nesekančius skelbimus"
+   },
+   "disableHidingForDNTPrompt": {
+      "description": "English: Don't hide non-tracking Ads",
+      "message": "Neslėpti nesekančius skelbimus"
+   },
+   "docblockedBack": {
+      "description": "English: Go back",
+      "message": "Grįžti"
+   },
+   "docblockedClose": {
+      "description": "English: Close this window",
+      "message": "Užverti langą"
+   },
+   "docblockedDisablePermanent": {
+      "description": "English: Permanently",
+      "message": "Negrįžtamai"
+   },
+   "docblockedDisableTemporary": {
+      "description": "English: Temporarily",
+      "message": "Laikinai"
+   },
+   "docblockedFoundIn": {
+      "description": "English: List of filter list names follows",
+      "message": "Rasta:"
+   },
+   "docblockedNoParamsPrompt": {
+      "description": "label to be used for the parameter-less URL: https://cloud.githubusercontent.com/assets/585534/9832014/bfb1b8f0-593b-11e5-8a27-fba472a5529a.png",
+      "message": "be parametrų"
+   },
+   "docblockedProceed": {
+      "description": "English: Disable strict blocking for {{hostname}} ...",
+      "message": "Išjungti griežtą {{hostname}} blokavimą"
+   },
+   "docblockedPrompt1": {
+      "description": "English: AdNauseam has prevented the following page from loading:",
+      "message": "AdNauseam neleido įkelti šio puslapio:"
+   },
+   "docblockedPrompt2": {
+      "description": "English: Because of the following filter",
+      "message": "Dėl šio filtro"
+   },
+   "dummy": {
+      "description": "so we dont need to deal with comma for last entry",
+      "message": "This entry must be the last one"
+   },
+   "elapsedManyDaysAgo": {
+      "description": "English: {{value}} days ago",
+      "message": "prieš {{value}} d."
+   },
+   "elapsedManyHoursAgo": {
+      "description": "English: {{value}} hours ago",
+      "message": "prieš {{value}} val."
+   },
+   "elapsedManyMinutesAgo": {
+      "description": "English: {{value}} minutes ago",
+      "message": "prieš {{value}} min."
+   },
+   "elapsedOneDayAgo": {
+      "description": "English: a day ago",
+      "message": "prieš dieną"
+   },
+   "elapsedOneHourAgo": {
+      "description": "English: an hour ago",
+      "message": "prieš valandą"
+   },
+   "elapsedOneMinuteAgo": {
+      "description": "English: a minute ago",
+      "message": "prieš minutę"
+   },
+   "errorCantConnectTo": {
+      "description": "English: Network error: {{msg}}",
+      "message": "Tinklo klaida: {{msg}}"
+   },
+   "eventLoggingPrompt": {
+      "description": "prompt for toggle",
+      "message": "Įjungti derinimo režimą"
+   },
+   "extName": {
+      "description": "extension name",
+      "message": "AdNauseam"
+   },
+   "extShortDesc": {
+      "description": "for the chrome web store: must be 132 characters or less",
+      "message": "Kovoti atgal prieš skelbimų sekimą"
+   },
+   "fennecMenuItemBlockingOff": {
+      "description": "Firefox-specific: appears as 'AdNauseam (off)'",
+      "message": "išjungta"
+   },
+   "genericApplyChanges": {
+      "description": "for generic 'Apply changes' buttons",
+      "message": "Taikyti pakeitimus"
+   },
+   "genericBytes": {
+      "description": "",
+      "message": "baitai"
+   },
+   "genericCopyToClipboard": {
+      "description": "Label for buttons used to copy something to the clipboard",
+      "message": "Kopijuoti į iškarpinę"
+   },
+   "genericMergeViewScrollLock": {
+      "description": "Tooltip for the button used to lock scrolling between the views in the 'My rules' pane",
+      "message": "Toggle locked scrolling"
+   },
+   "genericRevert": {
+      "description": "for generic 'Revert' buttons",
+      "message": "Atstatyti"
+   },
+   "genericSubmit": {
+      "description": "for generic 'Submit' buttons",
+      "message": "Pateikti"
+   },
+   "goToAdNauseamWebsite": {
+      "description": "English: Menu icon title -> Go to AdNauseam website",
+      "message": "Eikite į AdNauseam svetainę"
+   },
+   "hidingAdsPrompt": {
+      "description": "English: Hide Ads identified by your chosen filter lists",
+      "message": "Paslėpti skelbimus iš jūsų pasirinkto filtro sąrašo"
+   },
+   "logAll": {
+      "description": "Appears in the logger's tab selector",
+      "message": "Visos"
+   },
+   "logBehindTheScene": {
+      "description": "Pretty name for behind-the-scene network requests",
+      "message": "Užkulisiai"
+   },
+   "logFilterPrompt": {
+      "description": "Placeholder string for logger output filtering input field",
+      "message": "filtruoti žurnalo įrašus"
+   },
+   "logRequestsHeaderDomain": {
+      "description": "English: Domain",
+      "message": "Sritis"
+   },
+   "logRequestsHeaderFilter": {
+      "description": "English: Filter",
+      "message": "Filtras"
+   },
+   "logRequestsHeaderType": {
+      "description": "English: Type",
+      "message": "Tipas"
+   },
+   "logRequestsHeaderURL": {
+      "description": "English: URL",
+      "message": "URL"
+   },
+   "loggerClearTip": {
+      "description": "Tooltip for the eraser in the logger page; used to blank the content of the logger",
+      "message": "Valyti žurnalą"
+   },
+   "loggerCurrentTab": {
+      "description": "Appears in the logger's tab selector",
+      "message": "Dabartinė kortelė"
+   },
+   "loggerDomInspectorTip": {
+      "description": "Tooltip for the DOM inspector button in the logger page",
+      "message": "Įjungti / išjungti DOM tyriklį"
+   },
+   "loggerEntryDetailsContext": {
+      "description": "Label to identify a context field (typically a hostname)",
+      "message": "Kontekstas"
+   },
+   "loggerEntryDetailsFilter": {
+      "description": "Label to identify a filter field",
+      "message": "Filtras"
+   },
+   "loggerEntryDetailsFilterList": {
+      "description": "Label to identify a filter list field",
+      "message": "Filtrų sąrašas"
+   },
+   "loggerEntryDetailsHeader": {
+      "description": "Small header to identify the 'Details' pane for a specific logger entry",
+      "message": "Išsamiau"
+   },
+   "loggerEntryDetailsPartyness": {
+      "description": "Label to identify a field providing partyness information",
+      "message": "Partyness"
+   },
+   "loggerEntryDetailsRootContext": {
+      "description": "Label to identify a root context field (typically a hostname)",
+      "message": "Šakninis kontekstas"
+   },
+   "loggerEntryDetailsRule": {
+      "description": "Label to identify a rule field",
+      "message": "Taisyklė"
+   },
+   "loggerEntryDetailsType": {
+      "description": "Label to identify the type of an entry",
+      "message": "Tipas"
+   },
+   "loggerEntryDetailsURL": {
+      "description": "Label to identify the URL of an entry",
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "description": "Label for radio-button to pick export text format",
+      "message": "Markdown"
+   },
+   "loggerExportEncodePlain": {
+      "description": "Label for radio-button to pick export text format",
+      "message": "Neformatuotas"
+   },
+   "loggerExportFormatList": {
+      "description": "Label for radio-button to pick export format",
+      "message": "Sąrašas"
+   },
+   "loggerExportFormatTable": {
+      "description": "Label for radio-button to pick export format",
+      "message": "Lentelė"
+   },
+   "loggerInfoTip": {
+      "description": "Tooltip for the top-right info label in the logger page",
+      "message": "„AdNauseam“ vikis: žurnalas"
+   },
+   "loggerPauseTip": {
+      "description": "Tooltip for the pause button in the logger page",
+      "message": "Pristabdyti žurnalą (atmesti visus gaunamus duomenis)"
+   },
+   "loggerPopupPanelTip": {
+      "description": "Tooltip for the popup panel button in the logger page",
+      "message": "Toggle the popup panel"
+   },
+   "loggerReloadTip": {
+      "description": "Tooltip for the reload button in the logger page",
+      "message": "Įkelti kortelės turinį iš naujo"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "1-oji šalis"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "3-ioji šalis"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "leidžiama"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "užblokuota"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "description": "A keyword in the built-in row filtering expression: all items corresponding to uBO doing something (blocked, allowed, redirected, etc.)",
+      "message": "eventful"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "Ne"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "description": "Tooltip for the button to bring up logger output filtering options",
+      "message": "Žurnalo filtravimo nuostatos"
+   },
+   "loggerRowFiltererButtonTip": {
+      "description": "Tooltip for the row filterer button in the logger page",
+      "message": "Įjungti / išjungti žurnalo filtravimą"
+   },
+   "loggerSettingDiscardPrompt": {
+      "description": "Logger setting: A sentence to describe the purpose of the settings below",
+      "message": "Logger entries which do not fulfill all three conditions below will be automatically discarded:"
+   },
+   "loggerSettingHideColumnContext": {
+      "description": "A label for the context column",
+      "message": "{{input}} Context"
+   },
+   "loggerSettingHideColumnFilter": {
+      "description": "A label for the filter or rule column",
+      "message": "{{input}} Filter/rule"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "description": "A label for the partyness column",
+      "message": "{{input}} Partyness"
+   },
+   "loggerSettingHideColumnTime": {
+      "description": "A label for the time column",
+      "message": "{{input}} Time"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "description": "Logger settings: a sentence to describe the purpose of the checkboxes below",
+      "message": "Hide columns:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "description": "A logger setting",
+      "message": "Use {{input}} lines per entry in vertically expanded mode"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "description": "A logger setting",
+      "message": "Preserve entries from the last {{input}} minutes"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "description": "A logger setting",
+      "message": "Preserve at most {{input}} entries per tab"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "description": "A logger setting",
+      "message": "Preserve at most {{input}} page loads per tab"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "description": "Below this sentence, the filter list(s) in which the filter was found",
+      "message": "Statinis filtras \u003Ccode>{{filter}}\u003C/code> rastas:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "description": "Message to show when a filter cannot be found in any filter lists",
+      "message": "Statinis filtras \u003Ccode>{{filter}}\u003C/code> nerastas jokiame dabar įjungtame filtrų sąraše"
+   },
+   "loggerStaticFilteringHeader": {
+      "description": "Small header to identify the static filtering section",
+      "message": "Statinis filtravimas"
+   },
+   "loggerStaticFilteringSentence": {
+      "description": "Used in the static filtering wizard",
+      "message": "{{action}} {{type}} tinklo užklausas, {{br}}kur URL adresas atitinka {{url}} {{br}}ir kurios kyla {{origin}},{{br}}{{importance}} yra atitinkantis išimties filtras."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "description": "Used in the static filtering wizard",
+      "message": "Leisti"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "description": "Used in the static filtering wizard",
+      "message": "bet kur"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "description": "Used in the static filtering wizard",
+      "message": "bet kokio tipo"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "description": "Used in the static filtering wizard",
+      "message": "Blokuoti"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "description": "Used in the static filtering wizard",
+      "message": "net jei"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "description": "Used in the static filtering wizard",
+      "message": "išskyrus kai"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "description": "Used in the static filtering wizard",
+      "message": "iš „{{origin}}“"
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "description": "Used in the static filtering wizard",
+      "message": "„{{type}}“ tipo"
+   },
+   "loggerURLFilteringContextLabel": {
+      "description": "Label for the context selector",
+      "message": "Kontekstas:"
+   },
+   "loggerURLFilteringHeader": {
+      "description": "Small header to identify the dynamic URL filtering section",
+      "message": "URL taisyklė"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "description": "Label for the type selector",
+      "message": "Tipas:"
+   },
+   "loggerUnpauseTip": {
+      "description": "Tooltip for the play button in the logger page",
+      "message": "Tęsti žurnalą"
+   },
+   "myStatistics": {
+      "description": "appears in ADN vault, above ad slider",
+      "message": "Mano statistika"
+   },
+   "noIncomingCookiesPrompt": {
+      "description": "English: Ignore cookies returned with clicks",
+      "message": "Ignoruoti slapukus atsiųstus iš paspaudimų"
+   },
+   "noOutgoingCookiesPrompt": {
+      "description": "English: Don't send cookies on visits",
+      "message": "Nesiųsti slapukus apsilankant"
+   },
+   "noOutgoingRefererPrompt": {
+      "description": "English: Hide referring page on visits",
+      "message": "Slėpti nurodomajį puslapį apsilankant"
+   },
+   "noOutgoingUserAgentPrompt": {
+      "description": "English: Hide user-agent header on visits",
+      "message": "Slėpti naudotojo priemonės antraštę apsilankant"
+   },
+   "parseTextAdsPrompt": {
+      "description": "English: Capture text-only Ads when possible",
+      "message": "Užfiksuoti teksto skelbimus kada įmanoma"
+   },
+   "pickerContextMenuEntry": {
+      "description": "An entry in the browser's contextual menu",
+      "message": "Blokuoti elementą"
+   },
+   "pickerCosmeticFilters": {
+      "description": "English: Cosmetic filters",
+      "message": "Kosmetiniai filtrai"
+   },
+   "pickerCosmeticFiltersHint": {
+      "description": "English: Click, Ctrl-click",
+      "message": "Spustelėjimas, Vald-spustelėjimas"
+   },
+   "pickerCreate": {
+      "description": "English: Create",
+      "message": "Sukurti"
+   },
+   "pickerNetFilters": {
+      "description": "English: header for a type of filter in the element picker dialog",
+      "message": "Tinklo filtrai"
+   },
+   "pickerPick": {
+      "description": "English: Pick",
+      "message": "Parinkti"
+   },
+   "pickerPreview": {
+      "description": "Element picker preview mode: will cause the elements matching the current filter to be removed from the page",
+      "message": "Peržiūra"
+   },
+   "pickerQuit": {
+      "description": "English: Quit",
+      "message": "Baigti"
+   },
+   "popup1pScriptRulePrompt": {
+      "description": "",
+      "message": "1-os šalies scenarijai"
+   },
+   "popup3pAnyRulePrompt": {
+      "description": "",
+      "message": "trečios šalies"
+   },
+   "popup3pFrameRulePrompt": {
+      "description": "",
+      "message": "3-ios šalies rėmeliai"
+   },
+   "popup3pPassiveRulePrompt": {
+      "description": "",
+      "message": "3-ios šalies CSS/paveikslai"
+   },
+   "popup3pScriptRulePrompt": {
+      "description": "",
+      "message": "3-ios šalies scenarijai"
+   },
+   "popupAnyRulePrompt": {
+      "description": "",
+      "message": "visi"
+   },
+   "popupBlockedOnThisPagePrompt": {
+      "description": "English: on this page",
+      "message": "šiame puslapyje"
+   },
+   "popupBlockedOnThisPage_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Blocked on this page"
+   },
+   "popupBlockedRequestPrompt": {
+      "description": "English: requests blocked",
+      "message": "blokuotos užklausos"
+   },
+   "popupBlockedSinceInstallPrompt": {
+      "description": "English: since install",
+      "message": "nuo įdiegimo"
+   },
+   "popupBlockedSinceInstall_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Blocked since install"
+   },
+   "popupBlockedStats": {
+      "description": "Example: 15 (13%)",
+      "message": "{{count}} arba {{percent}} %"
+   },
+   "popupDomainsConnected_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Domains connected"
+   },
+   "popupHitDomainCount": {
+      "description": "appears in popup",
+      "message": "{{count}} iš {{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "description": "appears in popup",
+      "message": "jungtasi prie sričių"
+   },
+   "popupImageRulePrompt": {
+      "description": "",
+      "message": "vaizdai"
+   },
+   "popupInlineScriptRulePrompt": {
+      "description": "",
+      "message": "įterptieji scenarijai"
+   },
+   "popupLessButton_v2": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Less"
+   },
+   "popupMoreButton_v2": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "More"
+   },
+   "popupNoCosmeticFiltering_v2": {
+      "description": "Caption for the no-cosmetic-filtering per-site switch",
+      "message": "Cosmetic filtering"
+   },
+   "popupNoLargeMedia_v2": {
+      "description": "Caption for the no-large-media per-site switch",
+      "message": "Large media elements"
+   },
+   "popupNoPopups_v2": {
+      "description": "Caption for the no-popups per-site switch",
+      "message": "Pop-up windows"
+   },
+   "popupNoRemoteFonts_v2": {
+      "description": "Caption for the no-remote-fonts per-site switch",
+      "message": "Remote fonts"
+   },
+   "popupNoScripting_v2": {
+      "description": "Caption for the no-scripting per-site switch",
+      "message": "JavaScript"
+   },
+   "popupOr": {
+      "description": "English: or",
+      "message": "arba"
+   },
+   "popupPowerSwitchInfo": {
+      "description": "English: Click: disable/enable AdNauseam for this site.\n\nAlt+click: disable AdNauseam only on this page.",
+      "message": "Spustelėjimas: įjungti/išjungti AdNauseam šiam puslapiui.\n\nVald+spustelėjimas: išjungti AdNauseam tik šiam puslapiui."
+   },
+   "popupPowerSwitchInfo1": {
+      "description": "Message to be read by screen readers",
+      "message": "Spustelėkite, kad išjungtumėte AdNauseam šiai svetainei.\n\nVald+spustelėkite, kad išjungtumėte AdNauseam tik šiam puslapiui."
+   },
+   "popupPowerSwitchInfo2": {
+      "description": "Message to be read by screen readers",
+      "message": "Spustelėkite, kad įjungtumėte AdNauseam šiai svetainei."
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Atverti prietaisų skydą"
+   },
+   "popupTipGlobalRules": {
+      "description": "Tooltip when hovering the top-most cell of the global-rules column.",
+      "message": "Globalios taisyklės: ši skiltis skirta visiems puslapiams taikomoms taisyklėms."
+   },
+   "popupTipLocalRules": {
+      "description": "Tooltip when hovering the top-most cell of the local-rules column.",
+      "message": "Vietinės taisyklės: ši skiltis skirta dabartiniam puslapiui taikomoms taisyklėms.\nVietinės taisyklės nustelbia globalias."
+   },
+   "popupTipLog": {
+      "description": "Tooltip used for the logger icon in the panel",
+      "message": "Atverti žurnalą"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Perjungti kosmetinį filtravimą šiame puslapyje"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Spustelėkite kosmetinių filtrų išjungimui šioje svetainėje"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Spustelėkite kosmetinių filtrų įjungimui šioje svetainėje"
+   },
+   "popupTipNoLargeMedia": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Perjungti didelių medijos elementų blokavimą šiame puslapyje"
+   },
+   "popupTipNoLargeMedia1": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Spustelėkite didelių medijos elementų blokavimui šioje svetainėje"
+   },
+   "popupTipNoLargeMedia2": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Spustelėkite didelių medijos elementų neblokavimui šioje svetainėje"
+   },
+   "popupTipNoPopups": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Perjungti visų iškylančiųjų langų blokavimą šiame puslapyje"
+   },
+   "popupTipNoPopups1": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Spustelėkite visų iškylančių langų blokavimui šioje svetainėje"
+   },
+   "popupTipNoPopups2": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Spustelėkite visų iškylančių langų neblokavimui šioje svetainėje"
+   },
+   "popupTipNoRemoteFonts": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Perjungti nuotolinių šriftų blokavimą šiame puslapyje"
+   },
+   "popupTipNoRemoteFonts1": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Spustelėkite nutolusių šriftų blokavimui šioje svetainėje"
+   },
+   "popupTipNoRemoteFonts2": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Spustelėkite nutolusių šriftų neblokavimui šioje svetainėje"
+   },
+   "popupTipNoScripting1": {
+      "description": "Tooltip for the no-scripting per-site switch",
+      "message": "Spustelėkite JavaScript išjungimui šioje svetainėje"
+   },
+   "popupTipNoScripting2": {
+      "description": "Tooltip for the no-scripting per-site switch",
+      "message": "Spustelėkite JavaScript įjungimui šioje svetainėje"
+   },
+   "popupTipPicker": {
+      "description": "English: Enter element picker mode",
+      "message": "Atverti elementų parinkimo veikseną"
+   },
+   "popupTipRevertRules": {
+      "description": "Tooltip when hovering over the eraser in the dynamic filtering pane.",
+      "message": "Spauskite pakeitimams atstatyti."
+   },
+   "popupTipSaveRules": {
+      "description": "Tooltip when hovering over the padlock in the dynamic filtering pane.",
+      "message": "Spauskite pakeitimams padaryti pastoviais."
+   },
+   "popupTipZapper": {
+      "description": "Tooltip for the element-zapper icon in the popup panel",
+      "message": "Atverti elementų trynimo veikseną"
+   },
+   "popupVersion": {
+      "description": "Example of use: Version 1.26.4",
+      "message": "Version"
+   },
+   "relaxBlockingMode": {
+      "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')",
+      "message": "Relax blocking mode"
+   },
+   "removeAdsInPrivate": {
+      "description": "English:Remove ads collected in private mode - settings page",
+      "message": "Remove ads collected in private mode"
+   },
+   "respectDNTPrompt": {
+      "description": "English: Make exceptions for non-tracking Ads",
+      "message": "Padaryti išimtį nesekantiems skelbimams"
+   },
+   "rulesCommit": {
+      "description": "This will persist temporary rules",
+      "message": "Pritaikyti"
+   },
+   "rulesDefaultFileName": {
+      "description": "default file name to use",
+      "message": "mano-AdNauseam-dinaminės-taisyklės_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "description": "Will enable manual-edit mode (textarea)",
+      "message": "Redaguoti"
+   },
+   "rulesEditDiscard": {
+      "description": "Will discard manually-edited content and exit manual-edit mode",
+      "message": "Atmesti"
+   },
+   "rulesEditSave": {
+      "description": "Will save manually-edited content and exit manual-edit mode",
+      "message": "Įrašyti"
+   },
+   "rulesExport": {
+      "description": "",
+      "message": "Eksportuoti į failą"
+   },
+   "rulesFormatHint": {
+      "description": "English: dynamic rule syntax and full documentation.",
+      "message": "Taisyklės sintaksė: \u003Ccode>šaltinis paskirtis tipas veiksmas\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>dokumentacija\u003C/a>)."
+   },
+   "rulesHint": {
+      "description": "English: List of your dynamic filtering rules.",
+      "message": "Dinaminių filtravimo taisyklių sąrašas."
+   },
+   "rulesImport": {
+      "description": "",
+      "message": "Importuoti iš failo..."
+   },
+   "rulesPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Mano taisyklės"
+   },
+   "rulesPermanentHeader": {
+      "description": "header",
+      "message": "Pastovios taisyklės"
+   },
+   "rulesRevert": {
+      "description": "This will remove all temporary rules",
+      "message": "Atstatyti"
+   },
+   "rulesTemporaryHeader": {
+      "description": "header",
+      "message": "Laikinos taisyklės"
+   },
+   "settingPerSiteSwitchGroup": {
+      "description": "",
+      "message": "Numatytoji elgsena"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "description": "",
+      "message": "Šios numatytosios elgsenos gali būti nustelbtos kiekvienam puslapiui atskirai"
+   },
+   "settingsAdvancedUserPrompt": {
+      "description": "",
+      "message": "Aš esu patyręs naudotojas (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>privaloma perskaityti\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "description": "For the tooltip of a link which gives access to advanced settings",
+      "message": "sudėtingesni nustatymai"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "description": "",
+      "message": "Įjungti nuotolinės saugyklos palaikymą"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "description": "English: Hide placeholders of blocked elements",
+      "message": "Slėpti blokuotų elementų rezervuotą vietą"
+   },
+   "settingsColorBlindPrompt": {
+      "description": "English: Color-blind friendly",
+      "message": "Draugiškas neskiriantiems spalvų"
+   },
+   "settingsContextMenuPrompt": {
+      "description": "English: Make use of context menu where appropriate",
+      "message": "Kur tinka, naudoti kontekstinį meniu"
+   },
+   "settingsExtraPrivacyPrompt": {
+      "description": "English: Interface",
+      "message": "Papildomos Privatumo Nuostatos"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "description": "English: ",
+      "message": "Išjungti saitų auditą"
+   },
+   "settingsIconBadgePrompt": {
+      "description": "English: Show the number of found Ads on the icon",
+      "message": "Rodyti skelbimų skaičių piktogramoje"
+   },
+   "settingsInterfacePrompt": {
+      "description": "English: Interface",
+      "message": "Sąsaja"
+   },
+   "settingsLastBackupPrompt": {
+      "description": "English: Last backup:",
+      "message": "Paskutinė atsarginė kopija:"
+   },
+   "settingsLastRestorePrompt": {
+      "description": "English: Last restore:",
+      "message": "Paskutinis atkūrimas:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "description": "background information: https://github.com/gorhill/uBlock/issues/3150",
+      "message": "Blokuoti CSP ataskaitas"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "description": "",
+      "message": "Išjungti kosmetinius filtrus"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "description": "",
+      "message": "Blokuoti medijos elementus didesnius nei {{input}} kB"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "description": "",
+      "message": "Blokuoti nuotolinius šriftus"
+   },
+   "settingsNoScriptingPrompt": {
+      "description": "The default state for the per-site no-scripting switch",
+      "message": "Išjungti JavaScript"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Nustatymai"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "description": "English: ",
+      "message": "Išjungti išankstinį gavimą (visiems blokuotų tinklo užklausų prisijungimams išvengti)"
+   },
+   "settingsStrictBlockingMode": {
+      "description": "English: Activate Strict Blocking Mode",
+      "message": "Activate Strict Blocking Mode"
+   },
+   "settingsTooltipsPrompt": {
+      "description": "A checkbox in the Settings pane",
+      "message": "Išjungti paaiškinimus"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "description": "English: ",
+      "message": "Neleisti WebRTC atskleisti vietinio IP adreso"
+   },
+   "shortcutCapturePlaceholder": {
+      "description": "Placeholder string for input field used to capture a keyboard shortcut",
+      "message": "Įveskite nuorodą"
+   },
+   "shortcutsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Nuorodos"
+   },
+   "showDashboardButton": {
+      "description": "Firefox/Fennec-specific: Show Dashboard",
+      "message": "Rodyti prietaisų skydą"
+   },
+   "showNetworkLogButton": {
+      "description": "Firefox/Fennec-specific: Show Logger",
+      "message": "Rodyti žurnalą"
+   },
+   "statsPageName": {
+      "description": "Title for the logger window",
+      "message": "AdNauseam — Žurnalas"
+   },
+   "storageUsed": {
+      "description": " In Setting pane, renders as (example): Storage used: 13.2 MB",
+      "message": "Storage used: {{value}} {{unit}}"
+   },
+   "subscriberConfirm": {
+      "description": "English: The message seen by the user to confirm subscription to a ABP filter list",
+      "message": "AdNauseam: Pridėti šį URL į jūsų adaptuotų filtrų sąrašą?\n\nPavadinimas: „{{title}}“\nURL: {{url}}"
+   },
+   "toggleBlockingProfile": {
+      "description": "Label for keyboard shortcut used to toggle blocking profile",
+      "message": "Toggle blocking profile"
+   },
+   "topAdnetworks": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Populiariausi skelbimų tinklai"
+   },
+   "topSites": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Populiariausios svetainės"
+   },
+   "whitelistApply": {
+      "description": "English: Apply changes",
+      "message": "Taikyti pakeitimus"
+   },
+   "whitelistExport": {
+      "description": "English: Export",
+      "message": "Eksportuoti"
+   },
+   "whitelistExportFilename": {
+      "description": "The default filename to use for import/export purpose",
+      "message": "mano-AdNauseam-išimtys_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "description": "English: Import and append",
+      "message": "Importuoti ir papildyti"
+   },
+   "whitelistPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Išimtys"
+   },
+   "whitelistPrompt": {
+      "description": "The name of the trusted sites pane.",
+      "message": "Baltojo sąrašo direktyvos nurodo, kurioms svetainėms AdNauseam turėtų būti išjungtas. Vienas įrašas eilutėje. Neteisingos direktyvos bus tyliai ignoruotos ir užkomentuotos."
+   }
+}

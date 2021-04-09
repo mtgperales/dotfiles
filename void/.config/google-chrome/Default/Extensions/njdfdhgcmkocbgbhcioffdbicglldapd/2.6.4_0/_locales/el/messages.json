@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Για προχωρημενους"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Εισαγωγή διευθύνσεων στις επιτρεπόμενες. Μία καταχώριση ανά γραμμή."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Απενεργοποίηση του LocalCDN γι' αυτούς τους τομείς:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Ποσοστό εμβόλιμων τοπικών πόρων Δικτύων Παροχής Περιεχομένου από την στιγμή της εγκατάστασης."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Beta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Εάν τα αιτήματα για ανύπαρκτους πόρους επιτρέπονται, οι συνδέσεις στο «fonts.googleapis.com» δεν αποκλείονται. Ενεργοποίηση αυτής της επιλογής για αποκλεισμό των αιτημάτων."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Αποκλεισμός γραμματοσειρών της Google"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Ακύρωση απομακρυσμένης αίτησης, αν ο απαιτούμενος πόρος δεν είναι τοπικά διαθέσιμος."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Αποκλεισμός αιτήσεων για ανύπαρκτους πόρους"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Προχωρημένο"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Βασικό"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Πληροφορίες"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Άλλο"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "Αλλαγή χρώματος του σήματος σε περίπτωση ανύπαρκτων πόρων."
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Υπόδειξη ανύπαρκτων πόρων στο εικονίδιο"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Επιλέξτε ένα εικονίδιο για αυτή την επέκταση"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Αντιγραφή"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Θέλεις σίγουρα να διαγράψεις όλα τα στατιστικά στοιχεία;"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Ανεπιτυχής εισαγωγή"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Επιτυχής εισαγωγή"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Αποτροπή διαρροής αποκλεισμένων αιτήσεων προς δίκτυα διανομής."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Απενεργοποίηση πρόωρης φόρτωσης συνδέσμου"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Σας προστατεύει από παρακολούθηση μέσω Δικτύων Διανομής Περιεχόμενου (CDN) ανακατευθύνοντας σε τοπικούς πόρους."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Απενεργοποίηση"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Αυτή η λειτουργία προκαλεί δυσλειτουργίες σε ιστοσελίδες. Να μην ενεργοποιηθεί, εκτός αν προτίθεστε να προσθέσετε, χειροκίνητα, στον κατάλογο επιτρεπόμενων όποιους τομείς επηρεάζονται."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Εάν χρησιμοποιείτε κάποιο πρόγραμμα αποκλεισμού διαφημίσεων μπορείτε να δημιουργήσετε τους κανόνες εδώ. Πρέπει να τους προσθέσετε χειροκίνητα στο πρόγραμμα αποκλεισμού διαφημίσεων."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Δημιουργία συνόλων κανόνων για το πρόγραμμα αποκλεισμού διαφημίσεων που χρησιμοποιείτε"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Εισαγωγή/Εξαγωγή"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Στατιστικά στοιχεία"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Τύπος αποθήκευσης"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Απόκρυψη επιλογής «Δωρεά»"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Εισαγωγή τομέων για διαχείριση ή αγνόηση από το φίλτρο HTML. Μία καταχώριση ανά γραμμή."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Μη εφαρμογή φίλτρου HTML σε αυτούς τους τομείς:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Εφαρμογή φίλτρου HTML για αυτούς τους τομείς:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Αυτή η λειτουργία βρίσκεται προς το παρόν σε πειραματικό στάδιο. Δε γίνεται αποστολή δεδομένων. Είναι όλα τοπικά στη συσκευή σας."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Εσωτερικά στατιστικά στοιχεία"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Μέσος όρος (Αντικαταστάσεις ανά ημέρα)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Διαγραφή"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Σε αυτούς τους τομείς επιτρέπεται η φόρτωση Γραμματοσειρών της Google. Μία καταχώριση ανά γραμμή."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Δωρεά"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Δημιουργία αντιγράφου ασφαλείας"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Επαναφορά από αρχείο"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Πλαίσια που έχουν αντικατασταθεί"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Φίλτρο κώδικα πηγής HTML"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Τον προηγούμενο μήνα"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Την προηγούμενη εβδομάδα"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Τον προηγούμενο χρόνο"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Τοπικός"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Συγχρονισμός"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Σήμερα"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Τελευταία ενημέρωση:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Μπορείτε να ανοίξετε το αρχείο καταγραφής με το εικονίδιο στο μενού. Το αρχείο καταγραφής θα διαγραφεί όταν κλείσετε το πρόγραμμα περιήγησης ή απενεργοποιήσετε την καταγραφή."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Ενεργοποίηση καταγραφής"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Ενεργοποίηση της επιλογής για μόνιμη εφαρμογή του φίλτρου HTML. Τότε, εξαιρούνται οι τομείς στον κατάλογο. Εάν αυτή η επιλογή είναι απενεργοποιημένη, η εφαρμογή του φίλτρου HTML θα γίνεται μόνο στους τομείς του καταλόγου."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Αντιστροφή φίλτρου HTML"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Αυτή η λειτουργία μπορεί να προκαλέσει δυσλειτουργία σε ιστοσελίδες. Παρακαλώ σημειώστε τις πληροφορίες στη σελίδα Wiki."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Επιλογές"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Προβολή του αριθμού των εμβόλιμων πόρων στο εικονίδιο της επεκτάσεως."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Προβολή αριθμού εμβόλιμων πόρων στο εικονίδιο"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Διαγραφή ευαίσθητων δεδομένων από επιτρεπόμενες αιτήσεις CDN για ενίσχυση ασφάλειας."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Διαγραφή μεταδεδομένων από επιτρεπόμενες αιτήσεις"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Πάντα"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Ποτέ (Σιωπηλές Ενημερώσεις)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Μόνο αν ανανεωθούν τα CDN κι οι κανόνες"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Να ειδοποιούμαι μετά από ενημέρωση της επεκτάσεως"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Δυσλειτουργεί ο ιστότοπος;"
+   }
+}

@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Gelişmiş"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Her satırda bir girdi olacak şekilde, LocalCDN'nin devre dışı bırakılacağı etki alanlarını girin."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Bu etki alanları için LocalCDN'yi devre dışı bırak:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Kurulumdan bu yana yerel İçerik Dağıtım Ağı kaynak enjeksiyonlarının miktarı."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Beta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Eksik kaynaklar için isteklere izin verilirse, \"fonts.googleapis.com\" adresiyle yapılan bağlantılar engellenmez. Bu istekleri engellemek için bu seçeneği etkinleştirin."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Google Yazı Tiplerini Engelle"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "İstenilen kaynak yerel olarak mevcut değilse, yakalanan isteği iptal et."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Eksik kaynaklar için gelen istekleri engelle"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Gelişmiş"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Temel"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Bilgi"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Diğer"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "Kaynaklar eksikse rozet rengini değiştir."
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Simgede eksik kaynakları belirt"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Bu uzantı için bir simge seç"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Kopyala"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Tüm istatistikleri silmek istediğinizden emin misiniz?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "İçe aktarma başarısız"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "İçe aktarma başarılı"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "İzin verilmeyen isteklerin dağıtım ağlarına sızmasını engelleyin."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Bağlantı önalımını devre dışı bırak"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Yerel kaynaklara yönlendirerek sizi CDN'ler (Content Delivery Networks - İçerik Dağıtım Ağları) üzerinden izlenmeye karşı korur."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Devre dışı bırak"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Bu özellik web sitelerini bozar. Etkilenen alan adlarını elle izin listesine eklemeye hazır değilseniz, etkinleştirilmiş olarak bırakmayın."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Bir reklam engelleyici kullanıyorsanız kuralları buradan oluşturabilirsiniz. Bu kuralları reklam engelleyicinize elle eklemeniz gerekir."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Reklam engelleyiciniz için kural kümeleri oluşturun"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "İçe/Dışa aktar"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "İstatistikler"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Depolama türü"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Bağış düğmesini gizle"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Her satırda bir girdi olacak şekilde, HTML filtresi tarafından işlenecek veya yok sayılacak etki alanlarını girin."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Bu etki alanlarına HTML filtresi uygulama:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Bu etki alanları için HTML filtresini uygula:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Bu işlev şu anda deneysel bir aşamadadır. Veri aktarımı yok. Hepsi aygıtınızda yereldir."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Dahili istatistikler"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Ortalama (Günlük değiştirme sayısı)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Sil"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Her satırda bir girdi olacak şekilde, bu etki alanlarının Google Yazı Tiplerini yüklemesine izin verilir."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Bağış yap"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Dosyaya yedekle"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Dosyadan geri yükle"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Değiştirilen çerçeveler"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "HTML kaynak kodunu filtrele"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Geçen ay"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Geçen hafta"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Geçen yıl"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Yerel"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Eşzamanlama"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Bugün"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Son güncelleme:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Günlüğü menüdeki simgesi ile açabilirsiniz. Tarayıcıyı kapattığınızda veya günlük kaydını devre dışı bıraktığınızda günlük silinecektir."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Günlük kaydını etkinleştir"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "HTML filtresini her zaman uygulamak için bu seçeneği etkinleştirin. Listedeki etki alanları göz ardı edilecektir. Bu seçenek devre dışı bırakılırsa, HTML filtresi sadece listedeki etki alanlarına uygulanır."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "HTML filtresini tersine çevir"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Bu işlev web sitelerini bozabilir. Lütfen Wiki sayfasındaki bilgilere göz atın."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Seçenekler"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Enjekte edilen kaynakların sayısını uzantı simgesinde gösterin."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Simgede enjeksiyon sayaçlarını göster"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "İleri düzey gizlilik için, izin verilen CDN isteklerinden hassas verileri sil."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Meta verilerini izin verilen isteklerden ayır"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Her zaman"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Asla (Sessiz Güncellemeler)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Yalnızca yeni CDN'ler ve kurallar olduğunda"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Güncellemeden sonra bildirim"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Web sitesi bozuk mu?"
+   }
+}

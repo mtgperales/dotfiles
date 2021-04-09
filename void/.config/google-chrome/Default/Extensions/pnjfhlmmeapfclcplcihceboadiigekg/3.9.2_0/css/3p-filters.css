@@ -1,0 +1,222 @@
+@keyframes spin {
+    0% { transform: rotate(0deg); -webkit-transform: rotate(0deg); }
+    100% { transform: rotate(360deg); -webkit-transform: rotate(360deg); }
+    }
+/*ADN*/
+#options .li:nth-child(2), #options .li:nth-child(3){
+  display: none;
+}
+#options .li:nth-child(1) {
+  margin-left:1em;
+}
+#options .li:nth-child(1) input{
+  /* auto-update filter lists */
+    margin-right: 0.6em;
+}
+/* ul {
+    list-style-type: none;
+    padding-left: 1em;
+    padding-right: 0;
+    }
+body[dir="rtl"] ul {
+    padding-left: 0;
+    padding-right: 1em;
+    }
+ul.root {
+    padding: 0;
+    } */
+#options .li {
+    margin-bottom: 0.5em;
+    margin-left:0 !important;
+}
+#listsOfBlockedHostsPrompt {
+    cursor: pointer;
+    }
+#listsOfBlockedHostsPrompt:before {
+    color: #888;
+    content: '\2212  ';
+    }
+body.hideUnused #listsOfBlockedHostsPrompt:before {
+    content: '+  ';
+    }
+#lists {
+    margin: 0.5em 0 0 0;
+    padding: 0;
+    }
+.groupEntry .geDetails {
+    cursor: pointer;
+    }
+.groupEntry:not([data-groupkey="user"]) .geDetails:before {
+    color: #888;
+    content: '\2212  ';
+    }
+.groupEntry.hideUnused:not([data-groupkey="user"]) .geDetails:before {
+    content: '+  ';
+    }
+.groupEntry .geName {
+    pointer-events: none;
+    }
+.groupEntry .geCount {
+    font-size: 90%;
+    pointer-events: none;
+    }
+
+.groupEntry .listEntries {
+    margin: 0.25em 0 0 0;
+    margin-inline-start: 0.6em;
+    -webkit-margin-start: 0.6em;
+}
+
+.listEntry {
+    margin: 0 auto 0 auto;
+    padding: 0.2em 0;
+    white-space: nowrap;
+    }
+.groupEntry:not([data-groupkey="user"]) .listEntry.unused {
+    display: none;
+    }
+.listEntry > * {
+    margin-left: 0;
+    margin-right: 0;
+    unicode-bidi: embed;
+    }
+.listEntry.toRemove .checkbox {
+        visibility: hidden;
+    }
+.listEntry.toRemove .listname {
+    text-decoration: line-through;
+    }
+.listEntry .fa, .listEntry .fa-icon, .listEntry .counts {
+    color: rgba(150,150,150, 0.9);
+    display: none;
+    fill: rgba(150,150,150, 0.9);
+    margin: 0 0.2em 0 0;
+    opacity:0.5
+}
+.listEntry.checked.cached:not(.obsolete) .cache {
+    display: inline-flex;
+}
+body:not(.updating) .listEntry.checked.obsolete .obsolete {
+    display: inline-flex;
+}
+.listEntry .content {
+    display: inline-flex;
+}
+.listEntry  a.towiki {
+    display: inline-block;
+    }
+.listEntry  a.fa:hover, .listEntry a.fa-icon:hover {
+    opacity: 1;
+}
+.listEntry.support  a.support {
+    display: inline-block;
+}
+.listEntry  a.remove,
+.listEntry  a.remove:visited {
+    color: darkred;
+    }
+.listEntry.external  a.remove {
+    display: inline-block;
+    }
+.listEntry.mustread  a.mustread {
+    display: inline-block;
+    }
+.listEntry.mustread  a.mustread:hover {
+    color: mediumblue;
+    }
+.listEntry  .counts {
+    display: none;
+    font-size: smaller;
+}
+.listEntry.checked .counts {
+    display: inline-block;
+}
+.dim {
+    opacity: 0.6;
+    }
+/* #buttonApply {
+    display: initial;
+    z-index: 10;
+    } */
+body[dir=rtl] #buttonApply {
+    right: auto;
+    left: 1em;
+    }
+/* #buttonApply.disabled {
+    display: none;
+    } */
+li.listEntry span.status {
+    color: #AAA;
+    cursor: default;
+    display: none;
+}
+.listEntry span.status:hover {
+    opacity: 1;
+    }
+.listEntry span.unsecure {
+    color: darkred;
+    }
+.listEntry.checked.unsecure .unsecure {
+        display: inline-flex;
+    }
+.listEntry span.failed {
+    color: darkred;
+    }
+.listEntry.failed span.failed {
+    display: inline-block;
+    }
+.listEntry span.cache {
+    cursor: pointer;
+    }
+.listEntry.checked.cached:not(.obsolete) .cache {
+        display: inline-flex;
+    }
+.listEntry span.obsolete {
+    color: hsl(36, 100%, 40%);
+    }
+body:not(.updating) .listEntry.checked.obsolete .obsolete {
+        display: inline-flex;
+    }
+.listEntry span.updating {
+    transform-origin: 50% 46%;
+    }
+body.updating .listEntry.checked.obsolete .updating {
+    animation: spin 1s steps(8) infinite;
+    display: inline-flex;
+    }
+.listEntry.toImport.checked textarea {
+    visibility: visible;
+}
+.listEntry.toImport textarea {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    display: block;
+    font-size: smaller;
+    height: 6em;
+    margin-left: 2em;
+    resize: vertical;
+    visibility: hidden;
+    white-space: pre;
+    width: calc(100% - 4em);
+    color:#DDD;
+    background-color:#333;
+    overflow: auto;
+    outline: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#actions button:hover .fa-icon svg {
+  fill:black !important;
+}
+#actions .disabled .fa-icon svg{
+  fill:black;
+}
+#actions .fa-icon svg{
+  fill:#0076FF;
+}
+/* touch-screen devices */
+:root.mobile .listEntry.checked .counts{
+  display: none;
+}

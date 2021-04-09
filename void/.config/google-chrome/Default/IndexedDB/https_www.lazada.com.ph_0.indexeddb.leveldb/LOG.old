@@ -1,0 +1,15 @@
+2021/04/08-20:09:33.140 8f0 Reusing MANIFEST /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/08-20:09:33.141 8f0 Recovering log #19
+2021/04/08-20:09:33.141 8f0 Reusing old log /home/tan/.config/google-chrome/Default/IndexedDB/https_www.lazada.com.ph_0.indexeddb.leveldb/000019.log 
+2021/04/08-20:10:13.439 8ef Level-0 table #24: started
+2021/04/08-20:10:13.498 8ef Level-0 table #24: 94481 bytes OK
+2021/04/08-20:10:13.550 8ef Delete type=0 #19
+2021/04/08-20:10:13.551 8ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/08-20:10:13.551 8ef Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80\xed4\x16\x8bwB\x00\x01@\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00s\x00d\x00/\x00p\x00o\x00i\x00n\x00t\x00m\x00a\x00n\x00/\x00j\x00s\x00/\x00p\x00t\x002\x00.\x00j\x00s\x00?\x00_\x00=\x004\x004\x009\x004\x001\x002' @ 9203 : 1
+2021/04/08-20:10:13.551 8ef Compacting 1@1 + 1@2 files
+2021/04/08-20:10:13.606 8ef Generated table #25@1: 692 keys, 73471 bytes
+2021/04/08-20:10:13.606 8ef Compacted 1@1 + 1@2 files => 73471 bytes
+2021/04/08-20:10:13.657 8ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/08-20:10:13.658 8ef Delete type=2 #21
+2021/04/08-20:10:13.658 8ef Delete type=2 #24
+2021/04/08-20:10:13.658 8ef Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80\xed4\x16\x8bwB\x00\x01@\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00s\x00d\x00/\x00p\x00o\x00i\x00n\x00t\x00m\x00a\x00n\x00/\x00j\x00s\x00/\x00p\x00t\x002\x00.\x00j\x00s\x00?\x00_\x00=\x004\x004\x009\x004\x001\x002' @ 9203 : 1 .. (end); will stop at (end)

@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Avançado"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Insira os sites que deseja que o LocalCDN seja desativado. Uma entrada por linha."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Desativar o LocalCDN para esses domínios:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Total de injeções locais de recursos da Rede de Fornecimento de Conteúdo desde a instalação."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Beta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Se as solicitações de recursos ausentes forem permitidas, as conexões com \"fonts.googleapis.com\" não serão bloqueadas. Ative esta opção para bloquear essas solicitações."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Bloquear Google Fonts"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Cancela solicitações interceptadas se o recurso necessário não está disponível localmente."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Bloquear solicitações de recursos ausentes"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Avançado"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Básico"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Info"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Outro"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "Altera a cor do contador se houver recursos ausentes."
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Indicar os recursos ausentes no ícone"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Escolha um ícone para essa extensão"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Copiar"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Você tem certeza de que quer apagar todas as estatísticas?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Falha no Importação"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Importação Concluida"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Impede que requisições não permitidas vazem para as redes de distribuição de conteúdo."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Desabilitar pré-carregamento de links"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Te protege contra o rastreamento usando CDNs (Redes de Fornecimento de Conteúdo), redirecionando para recursos locais."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Desabilitar"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Esse recurso quebra sites. Não deixe habilitado, a não ser que você esteja preparado para permitir manualmente os sites afetados."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "No caso de você estar usando um bloqueador de anúncios você pode gerar as regras aqui. Você tem que adicionar essas regras manualmente no bloqueador de anúncios."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Gere conjuntos de regras para seu bloqueador de anúncios"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Importar/Exportar"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Estatísticas"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Tipo de Armazenamento"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Ocultar botão de doação"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Digite os domínios que serão usados ou ignorados pelo filtro HTML. Uma entrada por linha."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Não aplique o filtro HTML para esses domínios:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Aplique o filtro HTML para esses domínios:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Esta função está atualmente em uma fase experimental. Não há transmissão de dados. É tudo local em seu dispositivo."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Estatísticas internas"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Média (Substituições por dia)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Excluir"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Estes domínios tem permissão para carregar Google Fonts. Uma entrada por linha."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Doar"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Salvar para arquivo"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Restaurar de arquivo"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Estruturas substituídas"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Filtrar código HTML"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Último mês"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Semana passada"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Ano passado"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Local"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Sincronizar"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Hoje"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Última atualização:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Você poder abrir o registro com o ícone no menu. O mesmo será excluído ao fechar o navegador ou quando desabilitar o registro."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Habilitar registro"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Habilite essa opção para sempre aplicar o filtro HTML. Os domínios na lista serão ignorados. Se essa opção está desabilitada, o filtro HTML é apenas aplicados a domínios na lista."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Inverter filtro HTML"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Essa função quebra sites. Por favor, olhe a informação na página da Wiki."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Opções"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Mostra o número de recursos injetados no ícone da extensão."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Exibir total de injeções no ícone"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Apaga dados sensíveis de requisições à CDNs permitidas visando melhorar a privacidade."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Remover metadados de requisições permitidas"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Sempre"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Nunca (Atualizações Silenciosas)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Apenas se novos CDNS e regras"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Notificar depois de atualizar"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Site quebrado?"
+   }
+}

@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "За напреднали"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Въведете домейни, които да се добавят в белия списък. Отделете стойностите с точка и запетая."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Деактивиране на LocalCDN за тези домейни:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Количество на местни вмъквания на ресурси от началото на инсталацията."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": ""
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": ""
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": ""
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Отмяна на прехванатата заявка, ако изисквания ресурс не е наличен на местно ниво."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Блокиране на заявки за липсващи ресурси"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": ""
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": ""
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": ""
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": ""
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Копиране"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": ""
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": ""
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": ""
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Предотвратява изтичането на забранени заявки към мрежи за доставка."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Изключване на предварителното извличане на препратки"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Защитава ви от следене чрез свободна, централизирана доставка на съдържание."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Изключи"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Тази функционалност чупи уебсайтове. Не включвайте, освен ако не сте готови ръчно да включвате засегнатите домейни."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Ако ползвате uBlock Origin или uMatrix тук може да генерирате правила. Трябва да ги добавите ръчно в uBlock Origin или uMatrix."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "ГенерАко е активирано, няма да получавате никаква информация за нови функции в LocalCDN. Това включва информация за новите правила uBlock / uMatrix.ирайте набори от правила за uBlock или uMatrix"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": ""
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": ""
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": ""
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": ""
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": ""
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Не прилагай HTML филтри за тези домейни:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": ""
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": ""
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": ""
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": ""
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": ""
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": ""
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Дари"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": ""
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": ""
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": ""
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Филтриране на HTML изходния код"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": ""
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": ""
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": ""
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": ""
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": ""
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": ""
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Последено обновление:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Отворете \"конзола на браузъра\" ( CTRL + SHIFT + J ), за да се покажат липсващите ресурси."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Включване на логване в конзолата на браузъра"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": ""
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Инвертиране на HTML филтрите"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Тази функционалност може да счупи уебсайтове. Моля запознайте се с информацията в wiki страницата."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Настройки"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Показване на броя на вмъкнатите ресурси в иконката на разширението."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Показване на броя на вмъкванията в иконката"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Изтриване на чувствителни данни от допустимите заявки от МДС за подобряване на неприкосновеността."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Премахване на метаданните от разрешени заявки"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": ""
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": ""
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": ""
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": ""
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": ""
+   }
+}

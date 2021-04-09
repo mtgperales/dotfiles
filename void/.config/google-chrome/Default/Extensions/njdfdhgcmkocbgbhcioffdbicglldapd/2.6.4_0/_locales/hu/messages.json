@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Speciális"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Adja meg a tartományokat, ahol a LocalCDN le lesz tiltva. Soronként egy bejegyzést adjon meg."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "A LocalCDN kikapcsolása ezeknél a tartományoknál:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Helyi tartalomkézbesítési hálózati erőforrások beszúrásainak száma a telepítés óta."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Béta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Ha engedélyezve vannak a hiányzó erőforrások kérései, akkor a „fonts.googleapis.com” címhez való kapcsolódás nem lesz blokkolva. Engedélyezze ezt a beállítást ezen erőforrások blokkolásához."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Google betűkészletek blokkolása"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Elfogott kérések megszakítása, ha a kért erőforrás nem érhető el helyileg."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Hiányzó erőforrások kéréseinek blokkolása"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Speciális"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Alap"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Információ"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Egyéb"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "A jelvény színének megváltoztatása, ha erőforrások hiányoznak."
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Hiányzó erőforrások jelzése az ikonon"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Válasszon ikont ehhez a kiegészítőhöz"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Másolás"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Biztosan törölni szeretné az összes statisztikát?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Az importálás sikertelen"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Az importálás sikeres"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Annak megakadályozása, hogy a letiltott kérések adatokat szivárogtassanak a kézbesítési hálózatok felé."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Hivatkozás előtöltésének letiltása"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Védelmet nyújt a CDN-eken (tartalomkézbesítési hálózatokon) keresztüli követés ellen a helyi erőforrásokra való átirányítás által."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Letiltás"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Ez a funkció megakadályozza a weboldalak helyes működését. Ne hagyja engedélyezve, hacsak nincs felkészülve arra, hogy az érintett tartományokat kézzel adja hozzá az engedélyezési listához."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Reklámblokkoló használata esetén itt állíthatja elő a szabályokat. Ezeket a szabályokat kézzel kell hozzáadnia a reklámblokkolóhoz."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Szabálykészletek előállítása a reklámblokkolóhoz"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Importálás és exportálás"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Statisztikák"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Tároló típusa"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Adományozás gomb elrejtése"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Adja meg a HTML-szűrő által kezelendő vagy figyelmen kívül hagyandó tartományokat. Soronként egy bejegyzést adjon meg."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Ne alkalmazzon HTML-szűrőt ezekre a tartományokra:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "HTML-szűrő alkalmazása ezeknél a tartományoknál:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Ez a funkció jelenleg kísérleti stádiumban van. Nincs adatátvitel. Ez mind az Ön eszközén van."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Belső statisztikák"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Átlag (napi helyettesítések)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Törlés"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Ezeknek a tartományoknak engedélyezett a Google betűkészletek betöltése. Soronként egy bejegyzést adjon meg."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Adományozás"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Biztonsági mentés fájlba"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Visszaállítás fájlból"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Helyettesített keretrendszerek"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "HTML forráskód szűrése"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Múlt hónap"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Múlt hét"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Múlt év"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Helyi"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Szinkronizálás"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Ma"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Utolsó frissítés:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "A menüben lévő ikonnal nyithatja meg a naplót. A napló törölve lesz, ha bezárja a böngészőt vagy letiltja a naplózást."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Naplózás engedélyezése"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Engedélyezze ezt a beállítást a HTML-szűrő állandó alkalmazásához. A listán lévő tartományok figyelmen kívül lesznek hagyva. Ha ez a beállítás le van tiltva, akkor a HTML-szűrő csak a listán lévő tartományokra lesz alkalmazva."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "HTML-szűrő megfordítása"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Ez a funkció megakadályozhatja a weboldalak helyes működését. Vegye figyelembe a Wiki oldalon lévő információkat."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Beállítások"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "A beszúrt erőforrások számának megjelenítése a kiegészítő ikonján."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Beszúrások számlálójának megjelenítése az ikonon"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Érzékeny adatok törlése az engedélyezett CDN-kérésekből az adatvédelem fokozása érdekében."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Metaadatok törlése az engedélyezett kérésekből"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Mindig"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Soha (csendes frissítés)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Csak új CDN-ek és szabályok esetén"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Értesítés frissítés után"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "A weboldal nem működik?"
+   }
+}

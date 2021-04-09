@@ -1,0 +1,7 @@
+2021/04/07-14:57:14.948 7db Reusing MANIFEST /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/07-14:57:14.949 7db Recovering log #3
+2021/04/07-14:57:14.962 7db Reusing old log /home/tan/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000003.log 
+2021/04/07-15:05:16.634 ff4 Level-0 table #5: started
+2021/04/07-15:05:16.821 ff4 Level-0 table #5: 1124 bytes OK
+2021/04/07-15:05:16.889 ff4 Delete type=0 #3
+2021/04/07-15:05:16.890 ff4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

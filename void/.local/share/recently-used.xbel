@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/tan/dotfiles/.zshrc" added="2021-04-05T07:21:12.890236Z" modified="2021-04-05T07:21:12.890260Z" visited="2021-04-05T07:21:12.890239Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-04-05T07:21:12.890252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/.zshrc" added="2021-04-05T07:21:49.597628Z" modified="2021-04-05T07:21:49.597646Z" visited="2021-04-05T07:21:49.597632Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-04-05T07:21:49.597641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/xdeb" added="2021-04-06T03:07:03.805575Z" modified="2021-04-06T03:07:03.805593Z" visited="2021-04-06T03:07:03.805579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-04-06T03:07:03.805584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/librewolf_86.0-1_amd64.deb" added="2021-04-06T03:16:48.872799Z" modified="2021-04-06T03:16:48.872821Z" visited="2021-04-06T03:16:48.872804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-04-06T03:16:48.872811Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/profile.zip" added="2021-04-06T03:39:09.053674Z" modified="2021-04-06T03:39:09.053696Z" visited="2021-04-06T03:39:09.053678Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-04-06T03:39:09.053686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Pictures/aPYQcae.jpg" added="2021-04-06T07:10:34.745321Z" modified="2021-04-06T07:10:34.745345Z" visited="2021-04-06T07:10:34.745326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-04-06T07:10:34.745335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Pictures" added="2021-04-06T07:11:37.772108Z" modified="2021-04-06T07:11:37.772128Z" visited="2021-04-06T07:11:37.772112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-04-06T07:11:37.772118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/adnauseam-3.9.201.chromium.crx" added="2021-04-07T10:38:46.792455Z" modified="2021-04-08T11:39:42.165042Z" visited="2021-04-07T10:38:46.792459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165037Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/womb%20tea.png" added="2021-04-08T09:56:02.618432Z" modified="2021-04-08T11:39:42.165184Z" visited="2021-04-08T09:56:02.618437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165180Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/scal4.jpg" added="2021-04-08T10:32:09.043699Z" modified="2021-04-08T12:22:30.286280Z" visited="2021-04-08T10:32:09.043704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T12:22:30.286272Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/1scal.webp" added="2021-04-08T10:32:48.058635Z" modified="2021-04-08T11:39:42.164912Z" visited="2021-04-08T10:32:48.058640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.164905Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/scal2.webp" added="2021-04-08T10:32:58.691215Z" modified="2021-04-08T11:39:42.165078Z" visited="2021-04-08T10:32:58.691219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/scal3.webp" added="2021-04-08T10:33:10.299704Z" modified="2021-04-08T11:39:42.165158Z" visited="2021-04-08T10:33:10.299708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165154Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/2scal-1024x1024.webp" added="2021-04-08T10:33:24.098439Z" modified="2021-04-08T11:39:42.164941Z" visited="2021-04-08T10:33:24.098443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.164936Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/3scal-1024x1024.png" added="2021-04-08T10:34:05.563430Z" modified="2021-04-08T12:22:13.118475Z" visited="2021-04-08T10:34:05.563434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T12:22:13.118469Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/4scal-1024x1024.webp" added="2021-04-08T10:34:13.163138Z" modified="2021-04-08T11:39:42.164984Z" visited="2021-04-08T10:34:13.163142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.164954Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/5scal-1024x1024.webp" added="2021-04-08T10:34:19.690735Z" modified="2021-04-08T11:39:42.165024Z" visited="2021-04-08T10:34:19.690739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165019Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/scal2%20(1).webp" added="2021-04-08T10:34:25.070531Z" modified="2021-04-08T11:39:42.165100Z" visited="2021-04-08T10:34:25.070535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T11:39:42.165095Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/background.png" added="2021-04-08T11:10:25.676727Z" modified="2021-04-08T12:23:36.520309Z" visited="2021-04-08T11:10:25.676731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T12:23:36.520302Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tan/Downloads/weigh%20scale.png" added="2021-04-08T12:07:35.985065Z" modified="2021-04-08T12:22:13.118437Z" visited="2021-04-08T12:07:35.985070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-04-08T12:22:13.118429Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

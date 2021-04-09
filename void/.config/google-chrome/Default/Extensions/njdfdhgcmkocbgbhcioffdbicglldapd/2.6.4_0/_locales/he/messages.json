@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "מתקדם"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "נא למלא שמות תחום שברצונך להוסיף לרשימת ההיתר. ערך אחד בשורה."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "השבתת LocalCDN עבור שמות תחום אלו:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "כמות תוכן מקומי שהוזרק במקום רשתות אספקת תוכן מאז התקנת התוכנה."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": ""
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "אם מותר להגיש בקשות למשאבים חסרים, החיבורים אל „fonts.googleapis.com” לא נחסמים. יש להפעיל את האפשרות הזאת כדי לחסום את הבקשות האלו."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "חסימת הגופנים של Google"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "בטל בקשה מיורטת, אם המשאב הדרוש אינו זמין באופן מקומי."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "חסום בקשות למשאבים חסרים"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "מתקדם"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "בסיסי"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "מידע"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "אחר"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "נא לבחור סמל להרחבה הזאת"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "העתקה"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "למחוק את כל הסטטיסטיקה?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "הייבוא נכשל"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "הייבוא הצליח"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "מנע הדלפה של בקשות לא-מאושרות לתוך רשתות אספקת תכנים."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "בטל הורדה-מוקדמת של לינקים"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "מגן עליך מפני מעקב המבוצע דרך רשתות אספקת תוכן ריכוזיות על ידי הפנייה למשאבים מקומיים."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "השבתה"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "תכונה זו פוגמת בהצגת אתרים. אין להשאיר אותה פעילה אלא אם כן התכוננת להוסיף את כל שמות התחום שייפגעו לרשימת ההיתר."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "אם מופעל אצלך חוסם פרסומות ניתן לייצר את הכללים כאן. עליך להוסיף את הכללים האלה לחוסם הפרסומות שלך ידנית."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "יצירת מערכי כללים עבור חוסם הפרסומות שלך"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "ייבוא/ייצוא"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "סטטיסטיקה"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "סוג אחסון"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": ""
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "נא להזין את שמות התחום לטיפול או להתעלמות מול מסנן ה־HTML. ערך אחד לשורה."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "לא להחיל מסנן HTML על שמות התחום האלו:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "החלת מסנן HTML על שמות התחום האלו:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "תכונה זו נמצאת בשלבי ניסוי. לא מתבצעת העברת נתונים. הכול נעשה מקומית במכשיר שלך."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "סטטיסטיקה פנימית"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "ממוצע (החלפות ביום)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "מחיקה"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "שמות תחום אלו מורשים לטעון את הגופנים של Google. ערך אחד לשורה."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "תרומה"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "גיבוי לקובץ"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "שחזור מקובץ"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "סביבות ריצה שהוחלפו"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "סינון קוד מקור HTML"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "חודש שעבר"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "שבוע שעבר"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "שנה שעברה"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "מקומי"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "סנכרון"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "היום"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "עדכון אחרון:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "יש לפתוח „מסוף דפדפן” ( Ctrl+Shift+J ) כדי לצפות במשאבים החסרים."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "הפעלת תיעוד יומן במסוף הדפדפן"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "יש להפעיל אפשרות זו כדי תמיד להחיל מסנן HTML. שמות התחום שברשימה יזכו להתעלמות במצב כזה. אם האפשרות מושבתת, מסנן ה־HTML יחול על שמות התחום שברשימה בלבד."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "היפוך מסנן HTML"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "תכונה זו עלולה לפגום בתפקוד אתרים. נא לשים לב למידע שבעמוד הוויקי."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "אפשרויות"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "הצג את מספר התכנים המוזרקים על סמלון התוספת."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "הצגת מונה הזרקות תוכן על סמל התכנית"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "להגברת הפרטיות, מחק מידע רגיש מבקשות מאושרות לרשתות אספקת תוכן."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "מחק מטא-דאטה מבקשות שאושרו"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "תמיד"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "אף פעם (עדכונים שקטים)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "רק אם נוספו רשתות אספקת תוכן או חוקים חדשים"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "התראה אחרי עדכון"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "האתר לא תקין?"
+   }
+}

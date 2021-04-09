@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Geavanceerd"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Voer de te negeren domeinen in. Een waarde per regel."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Deactiveer de werking van LocalCDN voor de volgende domeinen:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Aantal lokale Content Delivery Network-bestandsinjecties sinds installatie."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Beta"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Als verzoeken voor missende bronnen zijn toegestaan, zijn verbindingen met \"fonts.googleapis.com\" niet geblokkeerd. Schakel deze optie in om deze verzoek te blokkeren."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Blokkeer Google Fonts"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Annuleer een onderschept verzoek wanneer het bestand niet lokaal beschikbaar is."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Verzoeken voor ontbrekende items blokkeren"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Geavanceerd"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Standaard"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Info"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Overig"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "Geef ontbrekende resources aan met een icoon"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Kies een icoon voor deze extensie"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Kopieer"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Weet je zeker dat je alle statistieken wilt verwijderen?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Import gefaald"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Import succesvol"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Voorkom dat geweigerde verzoeken naar afleveringsnetwerken uitlekken."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Link prefetching uitschakelen"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Beschermt je tegen tracking via CDN's (Content Delivery Networks) door te verwijzen naar lokale bronnen."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Uitschakelen"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Deze optie zorgt voor slecht werkende websites. Laat deze optie niet aan staan tenzij je bereidt bent om handmatig domeinen toe te voegen aan de allow list."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Indien je gebruikt maakt van een adblocker kun je hier regels genereren. Je zult deze handmatig aan je adblocker moeten toevoegen."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Genereer regelsets voor jouw adblocker"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Importeer/Exporteer"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Statistieken"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Opslag type"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Verberg de doneerknop"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Vul de domeinen in die verwerkt of genegeerd moeten worden door het HTML filter. Een waarde per regel."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Pas het HTML filter niet toe op de deze domeinen:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Pas het HTML filter toe voor de volgende domeinen:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Deze functie bevindt zich momenteel in een experimentele fase. Er is geen dataoverdracht. Alles is lokaal op deze machine."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Interne statistieken"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Gemiddelde (vervangingen per dag)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Verwijderen"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Deze domeinen zijn toegestaan om Google Fonts te laden. Een waarde per regel."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Doneer"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Back up naar bestand"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Herstellen vanuit bestand"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Vervangen frameworks"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Filter HTML broncode"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Afgelopen maand"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Afgelopen week"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Afgelopen jaar"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Lokaal"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Synchroniseer"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Vandaag"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Laatste update:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Open \"Browser Console\" ( CTRL + SHIFT + J ) om missende bronnen te weergeven."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Zet logging in de browser console aan"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Zet deze optie aan om het HTML filter op iedere website in te schakelen. De domeinen in de lijst zullen vervolgens worden genegeerd. Als deze optie is uitgeschakeld wordt het HTML filter enkel toegepast bij domeinen in de lijst."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Inverteer HTML filter"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Deze optie zorgt voor slecht werkend websites. Lees de informatie op de Wiki pagina."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Opties"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Toon het aantal geïnjecteerde bestanden op het extensie-icoon."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Getelde injecties op icoon weergeven"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Wis gevoelige gegevens uit toegestane CDN-verzoeken voor verbeterde privacy."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Metadata uit toegestane verzoeken verwijderen"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Altijd"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Nooit (stille updates)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Alleen bij nieuwe CDN's en regels"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Notificatie na een update"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Website stuk?"
+   }
+}

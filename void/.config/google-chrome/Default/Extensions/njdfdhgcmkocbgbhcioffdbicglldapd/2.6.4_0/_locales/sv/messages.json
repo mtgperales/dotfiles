@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Avancerat"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Ange domäner för vitlistning. Separera flera domänposter med semikolon (;)."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Exkludera domäner från inspektioner:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Antal insatta innehållsleveransnätverksresurser sedan installation."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": ""
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": ""
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Blockera Google Fonts"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Avbryt avlyssnad begäran om den nödvändiga resursen inte är lokalt tillgänglig."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Blockera förfrågningar när resurs saknas"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": ""
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": ""
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": ""
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": ""
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Kopiera"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": ""
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": ""
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": ""
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Förhindra otillåtna förfrågningar från att läcka ut till leveransnätverk."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Inaktivera länkförhandshämtning"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Skyddar dig mot att spåras av \"gratis\" centraliserad innehållsleverans."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Slå av"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Den här funktionen kan göra att webbsidor slutar fungera. Lämna den inte påslagen om du inte är beredd att manuellt lägga till påverkade domäner till tillåt-listan."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Om du använder en annonsblockerare kan du generera reglerna här. Du måste lägga till dessa regler manuellt i din annonsblockerare."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Generera regeluppsättningar för din annonsblockerare"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": ""
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": ""
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": ""
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": ""
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": ""
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Applicera inte HTML-filter till dessa domäner:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Applicera HTML-filter för dessa domäner:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": ""
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": ""
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": ""
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": ""
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": ""
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Donera"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": ""
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": ""
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": ""
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Filtrera HTML-källkod"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": ""
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": ""
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": ""
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": ""
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": ""
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": ""
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Senaste uppdateringen:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Öppna \"Webbläsarkonsol\" ( CTRL + SKIFT + J ) för att visa saknade resurser."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Slå på loggning i webbläsarkonsollen"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Slå på det här alternativet för att alltid applicera HTML-filtret. Detta kommer att ignorera domänerna i listan. Om alternativet slås av appliceras HTML-filtret endast på domänerna i listan."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Invertera HTML-filter"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Den här funktionen kan göra att webbsidor slutar fungera. Var vänlig se informationen på Wiki-sidan."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Alternativ"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Visa antalet insatta resurser på tilläggsikonen."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Visa insättningsantal på ikonen"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Radera känslig data från tillåtna CDN-förfrågningar för förbättrad integritet."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Skala bort metadata från tillåtna förfrågningar"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": ""
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": ""
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": ""
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": ""
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": ""
+   }
+}

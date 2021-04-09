@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Дополнительно"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Введите домены, где LocalCDN будет отключен. По одному на строку."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Исключить домены из проверки:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Количество локально «доставленных» файлов с момента установки."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "Бета-версия"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Если запросы на отсутствующие ресурсы разрешены, подключения к fonts.googleapis.com не блокируются. Включите эту опцию, чтобы заблокировать эти запросы."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Блокировать Шрифты Google"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Отменить перехваченный запрос, если требуемый ресурс не доступен локально (может «ломать» сайты)."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Блокировать запросы недостающих ресурсов"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Продвинутый"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Базовый"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Информация"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Другие"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Выберите значок для этого расширения"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Копировать"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Вы уверены, что хотите удалить всю статистику?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Ошибка импорта"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Импорт успешен"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Не давать запрещенным запросам выходить за сети доставки."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Отключить предвыборку ссылок"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Защищает от отслеживания через CDN (сети доставки контента) перенаправляя запросы на локальное хранилище."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Отключить"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Эта функция ломает отображение сайтов. Не включайте её, если не готовы вручную править белый список."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "Если вы используете рекламный блокиратор, вы можете сгенерировать правила здесь и потом добавить их вручную в ваш рекламный блокиратор."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Генерация наборов правил для вашего рекламного блокатора"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Импорт/Экспорт"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Статистика"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Тип хранилища"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "Скрыть кнопку пожертвования"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Введите домены для обработки или игнорирования фильтром HTML. По одному на строку."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Не применять HTML-фильтр к этим доменам:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Применять фильтр HTML к этим доменам:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Эта функция в настоящее время находится на экспериментальной стадии. Данные не передаются. Все это локально на вашем устройстве."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Внутренняя статистика"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "В среднем (замен в день)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Удалить"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Этим доменам разрешено загружать шрифты Google. По одному на строку."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Донат"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Резервное копирование в файл"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Восстановить из файла"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Замененные фреймворки"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Фильтр исходного кода HTML"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "За месяц"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "За неделю"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "За год"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Локальный"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Синхронизировать"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Сегодня"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Последнее обновление:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Для просмотра журнала нажмите иконку в меню. Журнал будет очищен при закрытии браузера или при отключении."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Включить журнал"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Включите этот параметр, чтобы всегда применять фильтр HTML. В этом случае домены в списке будут проигнорированы. Если этот параметр отключен, фильтр HTML применяется только к доменам в списке."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Инвертировать фильтр HTML"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Эта функция может сломать веб-сайты. Обратите внимание на информацию на странице Wiki."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Настройки"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Показывать количество «доставленных» локально ресурсов на значке расширения."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Показывать количество инъекций на значке"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Очистить дополнительные данные из разрешенных CDN запросов, для усиления приватности."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Удалить метаданные из допущенных запросов"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Всегда"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Никогда (Тихие обновления)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Только при новых CDN и правилах"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Уведомление после обновления"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "Сайт «сломан»?"
+   }
+}

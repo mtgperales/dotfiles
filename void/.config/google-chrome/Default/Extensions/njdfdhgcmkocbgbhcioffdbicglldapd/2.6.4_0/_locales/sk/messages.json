@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "Pokročilé"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "Zadajte domény na ktorých chcete vypnúť LocalCDN rozšírenie. Oddeľte jednotlivé položky bodkočiadkami (;)."
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "Vypnúť LocalCDN pre tieto domény:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "Počet nahradení CDN zdrojov lokálnymi zdrojmi od inštalácie."
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": ""
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "Ak sú povolené požiadavky na chýbajúce zdroje, spojenia na \"fonts.googleapis.com\" nie sú blokované. Zapnite túto možnosť pre ich blokovanie."
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Blokovať Google Fonty"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "Zrušiť zachytenú požiadavku ak požadovaný zdroj nie je dostupný lokálne."
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "Blokovať požiadavky pre chýbajúce zdroje"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "Pokročilé"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "Základné"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "Informácie"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "Ostatné"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "Zvoliť ikonu pre toto rozšírenie"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "Kopírovať"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "Ste si istí, že chcete vymazať všetky štatistiky?"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "Import zlyhal"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "Import úspešný"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "Zabrániť nepovoleným požiadavkám dostať sa von do sietí na doručovanie obsahu."
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "Zrušiť predbežné načítanie odkazov"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "Chráni Vás proti sledovaniu cez CDN siete (siete na doručovanie obsahu) presmerovaním na lokálne zdroje."
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "Vypnúť"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "Táto funkcionalita spôsobuje zlé zobrazenie webových stránok. Nenechávajte ju zapnutú, pokiaľ nie ste pripravení manuálne pridávať zle zobrazené webové stránky do zoznamu povolených webových stránok."
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "V prípade, že používate blokovanie reklám, môžete si tu preň vygenerovať pravidlá. Tieto pravidlá musíte pridať manuálne do vášho blokovania reklám."
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "Generovanie pravidiel pre Vaše blokovanie reklám"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "Import/Export"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "Štatistiky"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "Typ úložiska"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": ""
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "Vložte domény, s ktorými má narábať, alebo ich ignorovať, HTML filter. Oddeľte jednotlivé položky bodkočiarkami (;)."
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "Nepoužívať HTML filter pre tieto domény:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "Použiť HTML filter pre tieto domény:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "Táto funkcia je momentálne v experimentálnom stave. Žiadne dátové prenosy. Všetko je lokálne na Vašom zariadení."
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "Interné štatistiky"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "Priemer (Nahradenia za deň)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "Vymazať"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "Tieto domény majú povolené sťahovanie Google Fontov. Oddeľte jednotlivé položky bodkočiarkami (;)."
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "Darovať"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "Zálohovať do súboru"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "Obnoviť zo súboru"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "Nahradené frameworky"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "Filtrovať HTML zdrojový kód"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "Posledný mesiac"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "Posledný týždeň"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "Posledný rok"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "Lokálne"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "Synchronizované"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "Dnes"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "Posledná aktualizácia:"
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "Otvorte \"Konzolu prehliadača\" (CTRL + SHIFT + J) na zobrazenie chýbajúcich zdrojov."
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "Zapnúť záznam v konzole prehliadača"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "Zapnite túto možnosť ak chcete vždy použiť HTML filter. Domény v zozname budú potom ignorované. Ak je táto možnosť vypnutá, HTML filter sa použije iba na domény v zozname."
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "Invertovať HTML filter"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "Táto funkcionalita môže spôsobiť zlé zobrazenie webových stránok. Prosím pozrite si informácie na Wiki stránke."
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "Možnosti"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "Zobraziť počet najhradených zdrojov na ikone rozšírenia."
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "Zobraziť počty nahradení na ikone"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "Vymazať citlivé dáta z povolených požiadaviek pre zvýšené súkromie."
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "Odstrániť metadáta z povolených požiadaviek"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "Vždy"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "Nikdy (Tiché aktualizácie)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "Iba ak existujú nové CDN a pravidlá"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "Notifikácia po aktualizácii"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": ""
+   }
+}

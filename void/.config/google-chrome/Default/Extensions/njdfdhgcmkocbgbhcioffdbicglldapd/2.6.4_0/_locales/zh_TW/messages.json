@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "進階"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "輸入網域即可在該處停用 LocalCDN。使用分號（;）分隔多個網域。"
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "要排除檢查的網域:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "安裝以來，由本機檔案所取代的 CDN 資源數量。"
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": ""
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "如果「封鎖缺少資源時的連線請求」被啟用，\"fonts.googleapis.com\" 的連線請求不會被封鎖。啟用這個選項來封鎖這些請求。"
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "封鎖 Google Fonts"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "若本機沒有所請求的資源，就取消該請求。"
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "封鎖缺少資源時的連線請求"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "進階設定"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "基本設定"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "資訊"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "其他設定"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": ""
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": ""
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "為 LocalCDN 選擇一個圖示"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "複製"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "您確定要刪除統計數據嗎？"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "匯入失敗"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "匯入成功"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "防止發出不被允許的請求到 CDN 網路。"
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "停用連結預讀功能"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "保護您不受「免費」、中心化的內容傳遞網路（CDN）的追蹤。"
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "停用"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "此功能會讓網站無法正常運作。不要啟用此選項，除非你已準備好將所有被影響的網域手動加入白名單。"
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "如果你使用廣告攔截軟體，你可在此產生過濾規則。你須手動加入這些規則到廣告攔截軟體中。"
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "產生用於廣告攔截軟體的規則集合"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "匯入／匯出"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "統計"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "儲存類型"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": ""
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "輸入 HTML 過濾器要處理或忽略的網域。使用分號（;）分隔多個項目。"
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "不要將 HTML 過濾器套用於這些網域:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "對這些網域套用 HTML 過濾器:"
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "此功能目前還在開發中。所有資料僅儲存在裝置上，不會被上傳。"
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "內部統計數據"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "平均（每天替換數量）"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "刪除"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "這些網域獲准載入 Google Fonts。以分號（;）分隔每條記錄。"
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "贊助"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "備份到檔案"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "從檔案還原"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "被替換的框架"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "過濾 HTML 原始碼"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "上個月"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "上週"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "去年"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "本地"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "同步"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "今天"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "更新時間："
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "打開「瀏覽器主控台」以顯示缺少的資源。"
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "在瀏覽器控制台中啟用日誌記錄"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "開啟此選項以永遠使用 HTML 過濾器。清單中的網域將被忽略。如果關閉這個選項，則 HTML 篩選器只在清單中的網域使用。"
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "反向 HTML 過濾器"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "此功能可能會使網站顯示不正確。請注意 Wiki 頁面上的資訊。"
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "選項"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "在擴充套件圖示上，顯示被取代的資源數量。"
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "在圖示上顯示被取代的資源數量"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "清除放行的 CDN 請求當中的敏感資料，以保護隱私權。"
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "移除放行請求當中的後設資料"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": ""
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": ""
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": ""
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": ""
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": ""
+   }
+}

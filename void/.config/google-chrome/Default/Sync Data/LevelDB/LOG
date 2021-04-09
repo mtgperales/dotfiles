@@ -1,0 +1,6 @@
+2021/04/08-20:05:22.069 6b2 Reusing MANIFEST /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/04/08-20:05:22.917 6b2 Recovering log #18
+2021/04/08-20:05:24.031 6b2 Reusing old log /home/tan/.config/google-chrome/Default/Sync Data/LevelDB/000018.log 
+2021/04/08-20:05:50.633 6c8 Level-0 table #22: started
+2021/04/08-20:05:50.759 6c8 Level-0 table #22: 103137 bytes OK
+2021/04/08-20:05:51.029 6c8 Delete type=0 #18

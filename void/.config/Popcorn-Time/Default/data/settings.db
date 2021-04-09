@@ -1,0 +1,22 @@
+{"key":"subtitle_language","value":"en","_id":"82e04ztmFc2SqwPJ"}
+{"key":"version","value":"0.4.4","_id":"ApHQS1pup5klpcYC"}
+{"key":"opensubtitlesAuthenticated","value":true,"_id":"BQbfkYRjAyQaJS6f"}
+{"key":"customSeriesServer","value":"https://popcorn-ru.tk/","_id":"E470mgfAtyi7tbjD"}
+{"key":"customMoviesServer","value":"https://popcorn-ru.tk/","_id":"Omq9RCcpHFSrIIdT"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"aK4Q0mN01dmfGIvF"}
+{"key":"opensubtitlesUsername","value":"flaryx","_id":"bQrVhcWDSrldTVdh"}
+{"key":"language","value":"en","_id":"dUpEFZS5rpNXzw1S"}
+{"key":"disclaimerAccepted","value":1,"_id":"gZtuU4mo3KNnn6GQ"}
+{"key":"arch","value":"x64","_id":"kyAgGHkNd0BrMz7O"}
+{"key":"os","value":"linux","_id":"pkmDR5RgMR2p9px9"}
+{"key":"showAdvancedSettings","value":true,"_id":"r0Dd2lMSajKUPMxD"}
+{"key":"opensubtitlesPassword","value":"baff4d048a739728ffb3b448cd14e69a","_id":"xByl3D8by0x82y7c"}
+{"key":"ipAddress","value":"192.168.100.13","_id":"xsNxOOaH3AbAuJfv"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.4","_id":"ApHQS1pup5klpcYC"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"aK4Q0mN01dmfGIvF"}
+{"key":"arch","value":"x64","_id":"kyAgGHkNd0BrMz7O"}
+{"key":"os","value":"linux","_id":"pkmDR5RgMR2p9px9"}
+{"key":"chosenPlayer","value":"mpv","_id":"qbISsKHHchMP2jr5"}
+{"key":"movies_default_quality","value":"720p","_id":"XhYSId2InXm5a23J"}
+{"key":"ipAddress","value":"192.168.100.13","_id":"xsNxOOaH3AbAuJfv"}

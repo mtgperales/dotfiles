@@ -1,0 +1,1474 @@
+{
+   "1pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Vahvista muutokset"
+   },
+   "1pExport": {
+      "description": "English: Export",
+      "message": "Vie"
+   },
+   "1pExportFilename": {
+      "description": "English: my-AdNauseam-static-filters_{{datetime}}.txt",
+      "message": "staattiset-AdNauseam-suodattimeni_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "description": "Short information about how to create custom filters",
+      "message": "Yksi suodatin kullekin riville. Suodatin voi olla pelkkä osoite tai Adblock Plus -yhteensopiva suodatin. Rivit, joiden alussa on \u003Ccode>!\u003C/code>, jätetään huomioimatta."
+   },
+   "1pImport": {
+      "description": "English: Import and append",
+      "message": "Tuo ja liitä loppuun"
+   },
+   "1pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Minun suodattimet"
+   },
+   "3pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Vahvista muutokset"
+   },
+   "3pAutoUpdatePrompt1": {
+      "description": "A checkbox in the _3rd-party filters_ pane",
+      "message": "Päivitä suodatinlista automaattisesti."
+   },
+   "3pExternalListObsolete": {
+      "description": "used as a tooltip for the out-of-date icon beside a list",
+      "message": "Vanhentunut."
+   },
+   "3pExternalListsHint": {
+      "description": "Short information about how to use the textarea to import external filter lists by URL",
+      "message": "Yksi URL-osoite kullekin riville. Rivit, joiden alussa on &lsquo;!&rsquo;, jätetään huomiotta. Epäkelvot osoitteet ohitetaan ilman ilmoitusta."
+   },
+   "3pGroupAds": {
+      "description": "English: Ads",
+      "message": "Mainokset"
+   },
+   "3pGroupAnnoyances": {
+      "description": "The header identifying the filter lists in the category 'annoyances'",
+      "message": "Harmit"
+   },
+   "3pGroupCustom": {
+      "description": "English: Custom",
+      "message": "Mukautettu"
+   },
+   "3pGroupDefault": {
+      "description": "Header for the uBlock filters section in 'Filter lists pane'",
+      "message": "Sisäänrakennettu"
+   },
+   "3pGroupEssentials": {
+      "description": "English: Essentials",
+      "message": "Välttämättömyydet"
+   },
+   "3pGroupMalware": {
+      "description": "English: Malware",
+      "message": "Haittaohjelma"
+   },
+   "3pGroupMultipurpose": {
+      "description": "English: Multipurpose",
+      "message": "Monikäyttöinen"
+   },
+   "3pGroupOther": {
+      "description": "English: Other",
+      "message": "Muu"
+   },
+   "3pGroupPrivacy": {
+      "description": "English: Privacy",
+      "message": "Tietosuoja"
+   },
+   "3pGroupRegions": {
+      "description": "English: Languages",
+      "message": "Kielet"
+   },
+   "3pIgnoreGenericCosmeticFilters": {
+      "description": "This will cause uBO to ignore all generic cosmetic filters.",
+      "message": "Jätä huomioitta geneeriset kosmeettiset suodattimet"
+   },
+   "3pIgnoreGenericCosmeticFiltersInfo": {
+      "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature.",
+      "message": "\u003Cp>Yleisten kosmeettisten suodattimien on tarkoitus päteä kaikkiin sivustoihin.\u003Cp>Vaikka AdNauseam käsittelee ne tehokkaasti, voivat ne silti lisätä muisti- ja CPU-ylikuormitusta joillakin sivuilla, erityisesti suurilla ja pitkäikäisillä sivuilla.\u003Cp>Tämän valinnan salliminen karsii pois web-sivuille lisätyn muisti- ja CPU-ylikuormituksen joka aiheutuu yleisten kosmeettisten suotimien käsittelystä ja alentaa myös AdNauseam sovelluksen muistijalanjälkeä.\u003Cp>On suositeltavaa sallia tämä vaihtoehto vähemmän tehokkailla laitteilla."
+   },
+   "3pImport": {
+      "description": "The label for the checkbox used to import external filter lists",
+      "message": "Tuo..."
+   },
+   "3pLastUpdate": {
+      "description": "used as a tooltip for the clock icon beside a list",
+      "message": "Viimeisin päivitys: {{ago}}.\nKlikkaa päivittääksesi manuaalisesti."
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "description": "English: Lists of blocked hosts",
+      "message": "Lista estetyistä isännistä"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "käytetty {{used}}/{{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "description": "Appears at the top of the _3rd-party filters_ pane",
+      "message": "{{netFilterCount}} verkkosuodatinta ja {{cosmeticFilterCount}} kosmeettista suodatinta kohteesta:"
+   },
+   "3pNetworkError": {
+      "description": "used as a tooltip for error icon beside a list",
+      "message": "Verkkovirhe esti resurssin päivittämisen."
+   },
+   "3pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Suodatuslistat"
+   },
+   "3pPageUpdate": {
+      "description": "English: update",
+      "message": "Päivitys"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature.",
+      "message": "\u003Cp>Tämä asetus ottaa käyttöön \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-yhteensopivat &ldquo;elementtejä piilottavat&rdquo; suodattimet\u003C/a>. Nämä suodattimet ovat pääasiassa ehosteita. Ne piilottavat verkkosivuilta elementtejä, jotka ovat visuaalisesti häiritseviä eikä niitä voi estää verkkopyyntöihin pohjautuvalla suodatinmoottorilla. \u003C/p>\u003Cp>Tämä ominaisuus nostaa \u003Ci>AdNauseam\u003C/i>in muistinkäyttöä.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "description": "English: Parse and enforce Adblock+ element hiding filters.",
+      "message": "Jäsennä ja pakota käyttöön kosmeettiset suodattimet."
+   },
+   "3pPurgeAll": {
+      "description": "A button in the in the _3rd-party filters_ pane",
+      "message": "Tyhjennä välimuisti"
+   },
+   "3pUpdateNow": {
+      "description": "A button in the in the _3rd-party filters_ pane",
+      "message": "Päivitä"
+   },
+   "3pUpdating": {
+      "description": "used as a tooltip for the spinner icon beside a list",
+      "message": "Päivitetään..."
+   },
+   "3pViewContent": {
+      "description": "used as a tooltip for eye icon beside a list",
+      "message": "näytä sisältö"
+   },
+   "ClickingFrequencyAlways": {
+      "description": "English: Click Frequency - Always",
+      "message": "Aina"
+   },
+   "ClickingFrequencyRarely": {
+      "description": "English: Click Frequency - Rarely",
+      "message": "Harvoin"
+   },
+   "ClickingFrequencySometimes": {
+      "description": "English: Click Frequency - Sometimes",
+      "message": "Joskus"
+   },
+   "GB": {
+      "description": "short for 'gigabytes'",
+      "message": "Gt"
+   },
+   "KB": {
+      "description": "short for 'kilobytes'",
+      "message": "Kt"
+   },
+   "MB": {
+      "description": "short for 'megabytes'",
+      "message": "Mt"
+   },
+   "aboutBackupDataButton": {
+      "description": "Text for button to create a backup of all settings",
+      "message": "Varmuuskopioi tiedostoon"
+   },
+   "aboutBackupFilename": {
+      "description": "English: my-AdNauseam-backup_{{datetime}}.txt",
+      "message": "minun-AdNauseam-varmuuskopio_{{datetime}}.txt"
+   },
+   "aboutBuiltOn": {
+      "description": "English: links.html Built on",
+      "message": "Pohjana käytetty:"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Muutosloki"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Lähdekoodi (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Kehittäjät"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Ulkopuoliset riippuvuudet (GPLv3-yhteensopiva):"
+   },
+   "aboutFaq": {
+      "description": "English: links.html -> Frequently asked questions",
+      "message": "Usein kysytyt kysymykset"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Suodatinlistat"
+   },
+   "aboutIssues": {
+      "description": "Text for a link to official issue tracker",
+      "message": "Ongelmien seuranta"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Tietoja"
+   },
+   "aboutResetDataButton": {
+      "description": "English: Reset to default settings...",
+      "message": "Palauta oletusasetukset..."
+   },
+   "aboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "Kaikki asetuksesi poistetaan ja AdNauseam käynnistyy uudelleen. \n\nPalautetaanko AdNauseam oletusasetuksiin?"
+   },
+   "aboutRestoreDataButton": {
+      "description": "English: Restore from file...",
+      "message": "Palauta tiedostosta..."
+   },
+   "aboutRestoreDataConfirm": {
+      "description": "Message asking user to confirm restore",
+      "message": "Kaikki asetuksesi korvataan käyttäen tietoja, jotka on varmuuskopioitu {{time}} ja AdNauseam käynnistyy uudelleen.\nKorvataanko kaikki nykyiset asetukset käyttäen varmuuskopioituja tietoja?"
+   },
+   "aboutRestoreDataError": {
+      "description": "Message to display when an error occurred during restore",
+      "message": "Tietoa ei voitu lukea tai se on viallista"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Lähdekoodi"
+   },
+   "aboutSupport": {
+      "description": "English: links.html Support",
+      "message": "Tuki"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Käännökset"
+   },
+   "aboutWiki": {
+      "description": "English: project' wiki on GitHub",
+      "message": "Wiki"
+   },
+   "adTypes": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Mainostyypit"
+   },
+   "adTypesImageAds": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Kuvamainokset"
+   },
+   "adTypesTextAds": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Tekstimainokset"
+   },
+   "adnAboutPageName": {
+      "description": "English: Firstrun.html page title",
+      "message": "AdNauseam — Tietoja"
+   },
+   "adnAboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "Kaikki asetuksesi sekä mainosvarastossa olevat mainokset poistetaan ja AdNauseam käynnistyy uudelleen.\n\nPalautetaanko AdNauseamin oletusasetukset?"
+   },
+   "adnAdClickingStatusFailed": {
+      "description": "Menu & AdVault: Failed",
+      "message": "Epäonnistui"
+   },
+   "adnAdClickingStatusPending": {
+      "description": "Menu & AdVault: Pending",
+      "message": "Odottaa"
+   },
+   "adnAdClickingStatusSkippedDNT": {
+      "description": "Menu & AdVault: SKIPPED: DNT Allowed",
+      "message": "OHITETTU: DNT sallittu"
+   },
+   "adnAdClickingStatusSkippedDisabled": {
+      "description": "Menu & AdVault: SKIPPED: Clicking disabled",
+      "message": "OHITETTU: klikkaus pois käytöstä"
+   },
+   "adnAdClickingStatusSkippedFrequency": {
+      "description": "Menu & AdVault: SKIPPED: Click Frequency",
+      "message": "OHITETTU: klikkaustaajuus"
+   },
+   "adnAdClickingStatusSkippedUser": {
+      "description": "Menu & AdVault: SKIPPED: Clicked by User",
+      "message": "OHITETTU: käyttäjän klikkaama"
+   },
+   "adnAdClickingStatusVisited": {
+      "description": "Menu & AdVault: Visited",
+      "message": "Käyty"
+   },
+   "adnAllowedByDNT": {
+      "description": "English: Not Yet Visited",
+      "message": "Hyväksytty Do Not Track -käytännön kautta"
+   },
+   "adnClearConfirm": {
+      "description": "appears in ADN settings",
+      "message": "Tämä toiminto poistaa pysyvästi KAIKKI mainoksesi"
+   },
+   "adnExportedAdsFilename": {
+      "description": "English: AdNauseam file export",
+      "message": "AdNauseam_Vienti_{{datetime}}.json"
+   },
+   "adnFirstRunBetterButStill": {
+      "description": "English: Firstrun.html -> Better, but still…",
+      "message": "Parempi, mutta silti…"
+   },
+   "adnFirstRunBlockingMalware": {
+      "description": "English: Firstrun.html -> Block Malware",
+      "message": "Estä haittaohjelmat"
+   },
+   "adnFirstRunBlockingMalwareDescription": {
+      "description": "English: Firstrun.html -> Block trackers and other malware (customize)",
+      "message": "Estä jäljittäjät ja muut haittaohjelmat (\u003Cspan>mukauta\u003C/span>)"
+   },
+   "adnFirstRunClickingAds": {
+      "description": "English: Firstrun.html -> Click Ads",
+      "message": "Klikkaa mainoksia"
+   },
+   "adnFirstRunClickingAdsDescription": {
+      "description": "English: Firstrun.html -> Register visits on Ads found via your filter lists",
+      "message": "Rekisteröi vierailut mainoksiin valitsemistasi \u003Cspan class='link' id='To3pfilter'>suodatuslistoista\u003C/span>"
+   },
+   "adnFirstRunHideAllAds": {
+      "description": "English: Firstrun.html -> Hide Ads:",
+      "message": "Piilota mainokset"
+   },
+   "adnFirstRunHideAllAdsDescription": {
+      "description": "English: Firstrun.html -> Hide Ads in your selected filter lists",
+      "message": "Piilota mainokset valitsemistasi \u003Cspan class='link' id='To3pfilter'>suodatuslistoista\u003C/span>"
+   },
+   "adnFirstRunLetsGo": {
+      "description": "English: Firstrun.html -> Let's go!",
+      "message": "Ei kun menoksi!"
+   },
+   "adnFirstRunPlease": {
+      "description": "English: Firstrun.html -> Please:",
+      "message": "Ole hyvä, ja:"
+   },
+   "adnFirstRunSwitchMeOn": {
+      "description": "English: Firstrun.html -> Switch me on",
+      "message": "Kytke minut päälle"
+   },
+   "adnFirstRunThatsIt": {
+      "description": "English: Firstrun.html -> That's it? ok…",
+      "message": "Siinäkö kaikki? ok…"
+   },
+   "adnFoundOn": {
+      "description": "English: Vault.html -> inspected Ad -> FOUND ON",
+      "message": "SIVULTA"
+   },
+   "adnImportAlert": {
+      "description": "appears in ADN vault, after import",
+      "message": "{{count}} uutta mainosta tuotiin"
+   },
+   "adnImportAlertFormat": {
+      "description": "appears in ADN vault, after import",
+      "message": "Tämä tiedosto ei sisällä mainoksia, valitse toinen tiedosto."
+   },
+   "adnLogNoLog": {
+      "description": "appears in ADN log page",
+      "message": "Ei lokia saatavilla"
+   },
+   "adnLogViewFullLog": {
+      "description": "appears in ADN log page",
+      "message": "Näytä koko loki"
+   },
+   "adnMenuAdsClicked": {
+      "description": "appears in ADN popup menu and vault",
+      "message": "klikattu {{number}}"
+   },
+   "adnMenuAdsDetected": {
+      "description": "appears in ADN popup menu",
+      "message": "{{count}} Mainosta havaittu"
+   },
+   "adnMenuClearAds": {
+      "description": "appears in ADN popup menu",
+      "message": "Poista mainokset selainhistorian yhteydessä"
+   },
+   "adnMenuClearAdsNow": {
+      "description": "appears in ADN popup menu",
+      "message": "Tyhjennä mainokset"
+   },
+   "adnMenuDisableAllLogging": {
+      "description": "appears in ADN popup menu",
+      "message": "Poista kaikki kirjaaminen käytöstä"
+   },
+   "adnMenuDisableOutgoingReferrer": {
+      "description": "appears in ADN popup menu",
+      "message": "Poista lähdeviittaus käytöstä"
+   },
+   "adnMenuExportAdsOnly": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Vain mainokset"
+   },
+   "adnMenuExportOptions": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Vie asetukset"
+   },
+   "adnMenuExportSettingsAndAds": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Asetukset ja mainokset"
+   },
+   "adnMenuExportSettingsOnly": {
+      "description": "appears in Menu - Export Dialog box",
+      "message": "Vain asetukset"
+   },
+   "adnMenuHideBadge": {
+      "description": "appears in ADN popup menu",
+      "message": "Piilota mainosten lukumäärä kuvakkeessa"
+   },
+   "adnMenuImportAds": {
+      "description": "appears in ADN popup menu",
+      "message": "Tuo mainoksia"
+   },
+   "adnMenuResume": {
+      "description": "appears in ADN popup menu",
+      "message": "Jatka käyttöä"
+   },
+   "adnMenuSettings": {
+      "description": "appears in ADN popup menu",
+      "message": "Asetukset"
+   },
+   "adnMenuViewLog": {
+      "description": "appears in ADN popup menu",
+      "message": "Näytä loki"
+   },
+   "adnMenuViewVault": {
+      "description": "appears in ADN popup menu",
+      "message": "Katso mainosvarastoa"
+   },
+   "adnNotHiding": {
+      "description": "English: Menu->display when not hiding Ads",
+      "message": "AdNauseam ei tällä hetkellä piilota mainoksia"
+   },
+   "adnNotYetVisited": {
+      "description": "English: Not Yet Visited",
+      "message": "Ei vielä käyty"
+   },
+   "adnNotificationActivateAdNauseamList": {
+      "description": "English: Notifications -> Activate the AdNauseam filter",
+      "message": "Aktivoi AdNauseam suodatin"
+   },
+   "adnNotificationActivateBlocking": {
+      "description": "English: Notifications -> Activate malware blocking",
+      "message": "Aktivoi haittaohjelmien esto"
+   },
+   "adnNotificationActivateClicking": {
+      "description": "English: Notifications -> Activate Ad clicking",
+      "message": "Aktivoi mainosten klikkaaminen"
+   },
+   "adnNotificationActivateEasyList": {
+      "description": "English: Notifications -> Activate the EasyList filter",
+      "message": "Aktivoi EasyList-suodatin"
+   },
+   "adnNotificationActivateHiding": {
+      "description": "English: Notifications -> Activate Ad hiding",
+      "message": "Aktivoi mainosten piilottaminen"
+   },
+   "adnNotificationBrowserSetting": {
+      "description": "English: Notifications -> The 'Content Blocking' settings in your browser may interfere with AdNauseam!",
+      "message": "Selaimessasi olevat sisällön estämisen asetukset saattavat häiritä AdNauseamin toimintaa!"
+   },
+   "adnNotificationDNTAllowed": {
+      "description": "English: Notifications -> This page respects Do Not Track, Ads are allowed.",
+      "message": "Tämä sivu kunnioittaa \u003Cb>Do Not Track\u003C/b> -ominaisuutta, joten mainokset sallitaan."
+   },
+   "adnNotificationDNTClickingNotHiding": {
+      "description": "English: Notifications -> This page respects Do Not Track, clicking not hiding.",
+      "message": "Tämä sivu kunnioittaa \u003Cb>Do Not Track\u003C/b> -ominaisuutta, joten mainoksia klikataan, mutta niitä ei piiloteta"
+   },
+   "adnNotificationDNTHidingNotClicking": {
+      "description": "English: Notifications -> This page respects Do Not Track, hiding not clicking.",
+      "message": "Tämä sivu kunnioittaa \u003Cb>Do Not Track\u003C/b> -ominaisuutta, joten mainokset piilotetaan, mutta niitä ei klikata."
+   },
+   "adnNotificationDNTJustSoYouKnow": {
+      "description": "English: Notifications -> This page respects Do Not Track, just so you know.",
+      "message": "Tämä sivu kunnioittaa \u003Cb>Do Not Track\u003C/b> -ominaisuutta, ihan vain tiedoksi."
+   },
+   "adnNotificationDisable": {
+      "description": "English: Notifications -> Disable",
+      "message": "Pois käytöstä"
+   },
+   "adnNotificationDisableAdBlocker": {
+      "description": "English: Notifications -> Your ad blocker and AdNauseam may conflict!",
+      "message": "Mainostenestäjäsi ja AdNauseam saattavat olla ristiriidassa!"
+   },
+   "adnNotificationDisableUBlock": {
+      "description": "English: Notifications -> uBlock and AdNauseam may conflict!",
+      "message": "uBlock ja AdNauseam saattavat olla ristiriidassa!"
+   },
+   "adnNotificationOperaSetting": {
+      "description": "English: Notifications -> Please allow AdNauseam to access search page results",
+      "message": "Anna AdNauseamille pääsy hakutuloksiisi"
+   },
+   "adnNotificationPrivacyMode": {
+      "description": "English: Notifications -> You have allowed adnauseam to have access to your online activities while private browsing.",
+      "message": "Olet sallinut AdNauseamille pääsyn verkkosivuihin selatessasi yksityisesti."
+   },
+   "adnNotificationReactivate": {
+      "description": "English: Notifications -> Reactivate",
+      "message": "Uudelleenaktivoi"
+   },
+   "adnPausedOnPage": {
+      "description": "English: Menu->display when paused on page/site",
+      "message": "AdNauseam on pysäytetty tällä sivulla"
+   },
+   "adnShowingRecentAds": {
+      "description": "shown in menu when only 'recent' Ads are shown",
+      "message": "Mainoksia ei kerätty tällä sivulla (näytetään tämänhetkiset)"
+   },
+   "adnTarget": {
+      "description": "English: Vault.html -> inspected Ad -> TARGET",
+      "message": "KOHDE"
+   },
+   "adnVaultAdsCost": {
+      "description": "appears on vault page",
+      "message": "arvo"
+   },
+   "adnVaultClear": {
+      "description": "appears on vault page",
+      "message": "Tyhjennä"
+   },
+   "adnVaultDeleteThisAd": {
+      "description": "appears on vault page",
+      "message": "poista tämä mainos"
+   },
+   "adnVaultExport": {
+      "description": "appears on vault page",
+      "message": "Vie"
+   },
+   "adnVaultFound": {
+      "description": "appears on vault page",
+      "message": "{{total}} mainoksia kerätty"
+   },
+   "adnVaultImport": {
+      "description": "appears on vault page",
+      "message": "Tuo"
+   },
+   "adnVaultName": {
+      "description": "English: AdNauseam — Ad Vault",
+      "message": "AdNauseam — Mainosvarasto"
+   },
+   "adnVaultShowing": {
+      "description": "appears on vault page",
+      "message": "näytetään"
+   },
+   "adnVaultSince": {
+      "description": "appears on vault page",
+      "message": "{{datetime}} Alkaen"
+   },
+   "adnVaultTotalEstimated": {
+      "description": "appears on vault page",
+      "message": "arvioitu kokonaismäärä"
+   },
+   "advancedSettingsPageName": {
+      "description": "Title for the advanced settings page",
+      "message": "Lisäasetukset"
+   },
+   "advancedSettingsWarning": {
+      "description": "A warning to users at the top of 'Advanced settings' page",
+      "message": "Varoitus! Muuta näitä lisäasetuksia vain omalla riskillä."
+   },
+   "assetViewerPageName": {
+      "description": "Title for the asset viewer page",
+      "message": "AdNauseam — Elementtien valitsin"
+   },
+   "blockingMalwarePrompt": {
+      "description": "English: lock trackers and other malware",
+      "message": "Estä jäljittäjiä ja muita haittaohjelmia"
+   },
+   "clickingAdsPrompt": {
+      "description": "English: Click Ads identified by your chosen filter lists",
+      "message": "Klikkaa mainoksia haluamillasi suodatinluetteloilla"
+   },
+   "cloudDeviceNamePrompt": {
+      "description": "used as a prompt for the user to provide a custom device name",
+      "message": "Tämän laitteen nimi:"
+   },
+   "cloudNoData": {
+      "description": "",
+      "message": "...\n..."
+   },
+   "cloudPull": {
+      "description": "tooltip",
+      "message": "Tuo pilvestä"
+   },
+   "cloudPullAndMerge": {
+      "description": "tooltip",
+      "message": "Tuo pilvestä ja yhdistä nykyisten asetuksen kanssa"
+   },
+   "cloudPush": {
+      "description": "tooltip",
+      "message": "Vie pilveen"
+   },
+   "contextMenuTemporarilyAllowLargeMediaElements": {
+      "description": "A context menu entry, present when large media elements have been blocked on the current site",
+      "message": "Salli suuret mediaelementit tilapäisesti"
+   },
+   "dashboardName": {
+      "description": "English: AdNauseam — Dashboard",
+      "message": "AdNauseam — Hallintapaneeli"
+   },
+   "dashboardUnsavedWarning": {
+      "description": "A warning in the dashboard when navigating away from unsaved changes",
+      "message": "Varoitus! Sinulla on tallentamattomia muutoksia"
+   },
+   "dashboardUnsavedWarningIgnore": {
+      "description": "Label for button to ignore unsaved changes",
+      "message": "Ohita"
+   },
+   "dashboardUnsavedWarningStay": {
+      "description": "Label for button to prevent navigating away from unsaved changes",
+      "message": "Pysy"
+   },
+   "disableClickingForDNTPrompt": {
+      "description": "English: Don't click non-tracking Ads",
+      "message": "Älä klikkaa mainoksia jotka eivät seuraa"
+   },
+   "disableHidingForDNTPrompt": {
+      "description": "English: Don't hide non-tracking Ads",
+      "message": "Älä piilota mainoksia jotka eivät seuraa"
+   },
+   "docblockedBack": {
+      "description": "English: Go back",
+      "message": "Mene takaisin"
+   },
+   "docblockedClose": {
+      "description": "English: Close this window",
+      "message": "Sulje tämä ikkuna"
+   },
+   "docblockedDisablePermanent": {
+      "description": "English: Permanently",
+      "message": "Pysyvästi"
+   },
+   "docblockedDisableTemporary": {
+      "description": "English: Temporarily",
+      "message": "Tilapäisesti"
+   },
+   "docblockedFoundIn": {
+      "description": "English: List of filter list names follows",
+      "message": "Löytyy:"
+   },
+   "docblockedNoParamsPrompt": {
+      "description": "label to be used for the parameter-less URL: https://cloud.githubusercontent.com/assets/585534/9832014/bfb1b8f0-593b-11e5-8a27-fba472a5529a.png",
+      "message": "ilman parametrejä"
+   },
+   "docblockedProceed": {
+      "description": "English: Disable strict blocking for {{hostname}} ...",
+      "message": "Poista tiukka estäminen {{hostname}}"
+   },
+   "docblockedPrompt1": {
+      "description": "English: AdNauseam has prevented the following page from loading:",
+      "message": "AdNauseam on estänyt seuraavaa sivua lataamasta:"
+   },
+   "docblockedPrompt2": {
+      "description": "English: Because of the following filter",
+      "message": "Seuraavan suodattimen vuoksi"
+   },
+   "dummy": {
+      "description": "so we dont need to deal with comma for last entry",
+      "message": "This entry must be the last one"
+   },
+   "elapsedManyDaysAgo": {
+      "description": "English: {{value}} days ago",
+      "message": "{{value}} päivää sitten"
+   },
+   "elapsedManyHoursAgo": {
+      "description": "English: {{value}} hours ago",
+      "message": "{{value}} tuntia sitten"
+   },
+   "elapsedManyMinutesAgo": {
+      "description": "English: {{value}} minutes ago",
+      "message": "{{value}} minuuttia sitten"
+   },
+   "elapsedOneDayAgo": {
+      "description": "English: a day ago",
+      "message": "päivä sitten"
+   },
+   "elapsedOneHourAgo": {
+      "description": "English: an hour ago",
+      "message": "tunti sitten"
+   },
+   "elapsedOneMinuteAgo": {
+      "description": "English: a minute ago",
+      "message": "minuutti sitten"
+   },
+   "errorCantConnectTo": {
+      "description": "English: Network error: {{msg}}",
+      "message": "Verkkovirhe: {{msg}}"
+   },
+   "eventLoggingPrompt": {
+      "description": "prompt for toggle",
+      "message": "Ota virheenkorjaus käyttöön"
+   },
+   "extName": {
+      "description": "extension name",
+      "message": "AdNauseam"
+   },
+   "extShortDesc": {
+      "description": "for the chrome web store: must be 132 characters or less",
+      "message": "Taistele mainonnan seurantaa vastaan"
+   },
+   "fennecMenuItemBlockingOff": {
+      "description": "Firefox-specific: appears as 'AdNauseam (off)'",
+      "message": "pois päältä"
+   },
+   "genericApplyChanges": {
+      "description": "for generic 'Apply changes' buttons",
+      "message": "Vahvista muutokset"
+   },
+   "genericBytes": {
+      "description": "",
+      "message": "tavua"
+   },
+   "genericCopyToClipboard": {
+      "description": "Label for buttons used to copy something to the clipboard",
+      "message": "Kopioi leikepöydälle"
+   },
+   "genericMergeViewScrollLock": {
+      "description": "Tooltip for the button used to lock scrolling between the views in the 'My rules' pane",
+      "message": "Aktivoi lukittu vieritys"
+   },
+   "genericRevert": {
+      "description": "for generic 'Revert' buttons",
+      "message": "Kumoa"
+   },
+   "genericSubmit": {
+      "description": "for generic 'Submit' buttons",
+      "message": "Lähetä"
+   },
+   "goToAdNauseamWebsite": {
+      "description": "English: Menu icon title -> Go to AdNauseam website",
+      "message": "Siirry AdNauseamin sivustolle"
+   },
+   "hidingAdsPrompt": {
+      "description": "English: Hide Ads identified by your chosen filter lists",
+      "message": "Piilota mainokset, haluamillasi suodatinlistoilla"
+   },
+   "logAll": {
+      "description": "Appears in the logger's tab selector",
+      "message": "Kaikki"
+   },
+   "logBehindTheScene": {
+      "description": "Pretty name for behind-the-scene network requests",
+      "message": "Kulissien takana"
+   },
+   "logFilterPrompt": {
+      "description": "Placeholder string for logger output filtering input field",
+      "message": "suodata lokimerkinnät"
+   },
+   "logRequestsHeaderDomain": {
+      "description": "English: Domain",
+      "message": "Verkkotunnus"
+   },
+   "logRequestsHeaderFilter": {
+      "description": "English: Filter",
+      "message": "Suodatin"
+   },
+   "logRequestsHeaderType": {
+      "description": "English: Type",
+      "message": "Tyyppi"
+   },
+   "logRequestsHeaderURL": {
+      "description": "English: URL",
+      "message": "URL-Osoite"
+   },
+   "loggerClearTip": {
+      "description": "Tooltip for the eraser in the logger page; used to blank the content of the logger",
+      "message": "Tyhjennä verkkopyyntöjen loki"
+   },
+   "loggerCurrentTab": {
+      "description": "Appears in the logger's tab selector",
+      "message": "Nykyinen välilehti"
+   },
+   "loggerDomInspectorTip": {
+      "description": "Tooltip for the DOM inspector button in the logger page",
+      "message": "Aktivoi DOM-rakennenäkymä"
+   },
+   "loggerEntryDetailsContext": {
+      "description": "Label to identify a context field (typically a hostname)",
+      "message": "Konteksti"
+   },
+   "loggerEntryDetailsFilter": {
+      "description": "Label to identify a filter field",
+      "message": "Suodatin"
+   },
+   "loggerEntryDetailsFilterList": {
+      "description": "Label to identify a filter list field",
+      "message": "Suodatinlista"
+   },
+   "loggerEntryDetailsHeader": {
+      "description": "Small header to identify the 'Details' pane for a specific logger entry",
+      "message": "Lisätiedot"
+   },
+   "loggerEntryDetailsPartyness": {
+      "description": "Label to identify a field providing partyness information",
+      "message": "Suhde"
+   },
+   "loggerEntryDetailsRootContext": {
+      "description": "Label to identify a root context field (typically a hostname)",
+      "message": "Juurikonteksti"
+   },
+   "loggerEntryDetailsRule": {
+      "description": "Label to identify a rule field",
+      "message": "Sääntö"
+   },
+   "loggerEntryDetailsType": {
+      "description": "Label to identify the type of an entry",
+      "message": "Tyyppi"
+   },
+   "loggerEntryDetailsURL": {
+      "description": "Label to identify the URL of an entry",
+      "message": "URL"
+   },
+   "loggerExportEncodeMarkdown": {
+      "description": "Label for radio-button to pick export text format",
+      "message": "Koodi"
+   },
+   "loggerExportEncodePlain": {
+      "description": "Label for radio-button to pick export text format",
+      "message": "Yksinkertainen"
+   },
+   "loggerExportFormatList": {
+      "description": "Label for radio-button to pick export format",
+      "message": "Lista"
+   },
+   "loggerExportFormatTable": {
+      "description": "Label for radio-button to pick export format",
+      "message": "Taulukko"
+   },
+   "loggerInfoTip": {
+      "description": "Tooltip for the top-right info label in the logger page",
+      "message": "AdNauseam wiki: Verkkopyyntöjen loki"
+   },
+   "loggerPauseTip": {
+      "description": "Tooltip for the pause button in the logger page",
+      "message": "Pysäytä verkkopyyntöjen loki (hylkää kaiken sisääntulevan datan)"
+   },
+   "loggerPopupPanelTip": {
+      "description": "Tooltip for the popup panel button in the logger page",
+      "message": "Aktivoi ponnahduspaneeli"
+   },
+   "loggerReloadTip": {
+      "description": "Tooltip for the reload button in the logger page",
+      "message": "Lataa välilehden sisältö uudelleen"
+   },
+   "loggerRowFiltererBuiltin1p": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "1. osapuoli"
+   },
+   "loggerRowFiltererBuiltin3p": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "3. osapuoli"
+   },
+   "loggerRowFiltererBuiltinAllowed": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "sallittu"
+   },
+   "loggerRowFiltererBuiltinBlocked": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "estetty"
+   },
+   "loggerRowFiltererBuiltinEventful": {
+      "description": "A keyword in the built-in row filtering expression: all items corresponding to uBO doing something (blocked, allowed, redirected, etc.)",
+      "message": "eventful"
+   },
+   "loggerRowFiltererBuiltinNot": {
+      "description": "A keyword in the built-in row filtering expression",
+      "message": "Ei"
+   },
+   "loggerRowFiltererBuiltinTip": {
+      "description": "Tooltip for the button to bring up logger output filtering options",
+      "message": "Verkkopyyntöjen lokin suodatusasetukset"
+   },
+   "loggerRowFiltererButtonTip": {
+      "description": "Tooltip for the row filterer button in the logger page",
+      "message": "Vaihda verkkopyyntöjen lokin suodatustilaa"
+   },
+   "loggerSettingDiscardPrompt": {
+      "description": "Logger setting: A sentence to describe the purpose of the settings below",
+      "message": "Lokikirjaukset, jotka eivät täytä kolmea allaolevaa ehtoa, hylätään automaattisesti:"
+   },
+   "loggerSettingHideColumnContext": {
+      "description": "A label for the context column",
+      "message": "{{input}} Konteksti"
+   },
+   "loggerSettingHideColumnFilter": {
+      "description": "A label for the filter or rule column",
+      "message": "{{input}} Suodatin/sääntö"
+   },
+   "loggerSettingHideColumnPartyness": {
+      "description": "A label for the partyness column",
+      "message": "{{input}} Suhde"
+   },
+   "loggerSettingHideColumnTime": {
+      "description": "A label for the time column",
+      "message": "{{input}} Aika"
+   },
+   "loggerSettingHideColumnsPrompt": {
+      "description": "Logger settings: a sentence to describe the purpose of the checkboxes below",
+      "message": "Piilota sarakkeet:"
+   },
+   "loggerSettingPerEntryLineCount": {
+      "description": "A logger setting",
+      "message": "Käytä {{input}} riviä pyyntöä kohden pystysuunnassa laajennetussa tilassa"
+   },
+   "loggerSettingPerEntryMaxAge": {
+      "description": "A logger setting",
+      "message": "Säilytä pyynnöt viimeisen {{input}} minuutin ajalta"
+   },
+   "loggerSettingPerTabMaxEntries": {
+      "description": "A logger setting",
+      "message": "Säilytä yhdeltä välilehdeltä enintään {{input}} pyyntöä"
+   },
+   "loggerSettingPerTabMaxLoads": {
+      "description": "A logger setting",
+      "message": "Säilytä yhdeltä välilehdeltä enintään {{input}} sivun latausta"
+   },
+   "loggerStaticFilteringFinderSentence1": {
+      "description": "Below this sentence, the filter list(s) in which the filter was found",
+      "message": "Staattinen suodatus \u003Ccode>{{filter}}\u003C/code> löytyi:"
+   },
+   "loggerStaticFilteringFinderSentence2": {
+      "description": "Message to show when a filter cannot be found in any filter lists",
+      "message": "Staattista suodatinta \u003Ccode>{{filter}}\u003C/code> ei löytynyt miltään tällä hetkellä käytössä olevalta suodatinlistalta"
+   },
+   "loggerStaticFilteringHeader": {
+      "description": "Small header to identify the static filtering section",
+      "message": "Staattinen suodatus"
+   },
+   "loggerStaticFilteringSentence": {
+      "description": "Used in the static filtering wizard",
+      "message": "{{action}} verkkopyyntö {{type}}, {{br}}jonka URL-osoite vastaa {{url}} {{br}}ja joka on peräisin {{origin}},{{br}}{{importance}} löytyy vastaava poikkeussuodatin."
+   },
+   "loggerStaticFilteringSentencePartAllow": {
+      "description": "Used in the static filtering wizard",
+      "message": "Salli"
+   },
+   "loggerStaticFilteringSentencePartAnyOrigin": {
+      "description": "Used in the static filtering wizard",
+      "message": "kaikkialta"
+   },
+   "loggerStaticFilteringSentencePartAnyType": {
+      "description": "Used in the static filtering wizard",
+      "message": "kaikki tyypit"
+   },
+   "loggerStaticFilteringSentencePartBlock": {
+      "description": "Used in the static filtering wizard",
+      "message": "Estä"
+   },
+   "loggerStaticFilteringSentencePartImportant": {
+      "description": "Used in the static filtering wizard",
+      "message": "vaikka"
+   },
+   "loggerStaticFilteringSentencePartNotImportant": {
+      "description": "Used in the static filtering wizard",
+      "message": "paitsi jos"
+   },
+   "loggerStaticFilteringSentencePartOrigin": {
+      "description": "Used in the static filtering wizard",
+      "message": "kohteesta \"{{origin}}\""
+   },
+   "loggerStaticFilteringSentencePartType": {
+      "description": "Used in the static filtering wizard",
+      "message": "tyyppi \"{{type}}\""
+   },
+   "loggerURLFilteringContextLabel": {
+      "description": "Label for the context selector",
+      "message": "Konteksti:"
+   },
+   "loggerURLFilteringHeader": {
+      "description": "Small header to identify the dynamic URL filtering section",
+      "message": "Dynaaminen URL-suodatus"
+   },
+   "loggerURLFilteringTypeLabel": {
+      "description": "Label for the type selector",
+      "message": "Tyyppi:"
+   },
+   "loggerUnpauseTip": {
+      "description": "Tooltip for the play button in the logger page",
+      "message": "Jatka verkkopyyntöjen lokia"
+   },
+   "myStatistics": {
+      "description": "appears in ADN vault, above ad slider",
+      "message": "Tilastoni"
+   },
+   "noIncomingCookiesPrompt": {
+      "description": "English: Ignore cookies returned with clicks",
+      "message": "Unohda klikattujen mainosten evästeet"
+   },
+   "noOutgoingCookiesPrompt": {
+      "description": "English: Don't send cookies on visits",
+      "message": "Älä lähetä evästeitä vierailuilla"
+   },
+   "noOutgoingRefererPrompt": {
+      "description": "English: Hide referring page on visits",
+      "message": "Piilota sivun viittaus vierailuilla"
+   },
+   "noOutgoingUserAgentPrompt": {
+      "description": "English: Hide user-agent header on visits",
+      "message": "Piilota user-agent vierailuilla"
+   },
+   "parseTextAdsPrompt": {
+      "description": "English: Capture text-only Ads when possible",
+      "message": "Tallenna vain teksti-mainoksia, kun mahdollista"
+   },
+   "pickerContextMenuEntry": {
+      "description": "An entry in the browser's contextual menu",
+      "message": "Estä elementti..."
+   },
+   "pickerCosmeticFilters": {
+      "description": "English: Cosmetic filters",
+      "message": "Kosmeettiset suodattimet"
+   },
+   "pickerCosmeticFiltersHint": {
+      "description": "English: Click, Ctrl-click",
+      "message": "Painallus, Ctrl-painallus"
+   },
+   "pickerCreate": {
+      "description": "English: Create",
+      "message": "Luo"
+   },
+   "pickerNetFilters": {
+      "description": "English: header for a type of filter in the element picker dialog",
+      "message": "Verkkosuodattimet"
+   },
+   "pickerPick": {
+      "description": "English: Pick",
+      "message": "Valitse"
+   },
+   "pickerPreview": {
+      "description": "Element picker preview mode: will cause the elements matching the current filter to be removed from the page",
+      "message": "Esikatsele"
+   },
+   "pickerQuit": {
+      "description": "English: Quit",
+      "message": "Lopeta"
+   },
+   "popup1pScriptRulePrompt": {
+      "description": "",
+      "message": "1:sen osapuolen skriptit"
+   },
+   "popup3pAnyRulePrompt": {
+      "description": "",
+      "message": "3. osapuoli"
+   },
+   "popup3pFrameRulePrompt": {
+      "description": "",
+      "message": "3:nen osapuolen kehykset"
+   },
+   "popup3pPassiveRulePrompt": {
+      "description": "",
+      "message": "3. osapuolen CSS/kuvat"
+   },
+   "popup3pScriptRulePrompt": {
+      "description": "",
+      "message": "3:nen osapuolen skriptit"
+   },
+   "popupAnyRulePrompt": {
+      "description": "",
+      "message": "kaikki"
+   },
+   "popupBlockedOnThisPagePrompt": {
+      "description": "English: on this page",
+      "message": "tällä sivulla"
+   },
+   "popupBlockedOnThisPage_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Estetty tällä sivulla"
+   },
+   "popupBlockedRequestPrompt": {
+      "description": "English: requests blocked",
+      "message": "pyyntöjä estetty"
+   },
+   "popupBlockedSinceInstallPrompt": {
+      "description": "English: since install",
+      "message": "asennuksen jälkeen"
+   },
+   "popupBlockedSinceInstall_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Estetty asennuksen jälkeen"
+   },
+   "popupBlockedStats": {
+      "description": "Example: 15 (13%)",
+      "message": "{{count}} tai {{percent}}%"
+   },
+   "popupDomainsConnected_v2": {
+      "description": "For the new mobile-friendly popup design",
+      "message": "Yhdistetyt verkkotunnukset"
+   },
+   "popupHitDomainCount": {
+      "description": "appears in popup",
+      "message": "{{count}}/{{total}}"
+   },
+   "popupHitDomainCountPrompt": {
+      "description": "appears in popup",
+      "message": "aktiiviset verkkotunnusyhteydet"
+   },
+   "popupImageRulePrompt": {
+      "description": "",
+      "message": "kuvat"
+   },
+   "popupInlineScriptRulePrompt": {
+      "description": "",
+      "message": "upotetut skriptit"
+   },
+   "popupLessButton_v2": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Vähemmän"
+   },
+   "popupMoreButton_v2": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Lisää"
+   },
+   "popupNoCosmeticFiltering_v2": {
+      "description": "Caption for the no-cosmetic-filtering per-site switch",
+      "message": "Kosmeettinen suodatus"
+   },
+   "popupNoLargeMedia_v2": {
+      "description": "Caption for the no-large-media per-site switch",
+      "message": "Suuret mediaelementit"
+   },
+   "popupNoPopups_v2": {
+      "description": "Caption for the no-popups per-site switch",
+      "message": "Ponnahdusikkunat"
+   },
+   "popupNoRemoteFonts_v2": {
+      "description": "Caption for the no-remote-fonts per-site switch",
+      "message": "Ladattavat fontit"
+   },
+   "popupNoScripting_v2": {
+      "description": "Caption for the no-scripting per-site switch",
+      "message": "JavaScript"
+   },
+   "popupOr": {
+      "description": "English: or",
+      "message": "tai"
+   },
+   "popupPowerSwitchInfo": {
+      "description": "English: Click: disable/enable AdNauseam for this site.\n\nAlt+click: disable AdNauseam only on this page.",
+      "message": "Painallus: poista käytöstä/ota käyttöön AdNauseam tällä sivustolla.\n\nCtrl+painallus: poista AdNauseam käytöstä vain tällä sivulla."
+   },
+   "popupPowerSwitchInfo1": {
+      "description": "Message to be read by screen readers",
+      "message": "Klikkaa poistaksesi AdNauseam: n käytöstä tällä sivustolla.\n\nCtrl+klikkaus poistaa AdNauseam: n käytöstä vain tällä sivulla."
+   },
+   "popupPowerSwitchInfo2": {
+      "description": "Message to be read by screen readers",
+      "message": "Klikkaa ottaaksesi AdNauseam:n käyttöön tällä sivustolla."
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Avaa hallintapaneeli"
+   },
+   "popupTipGlobalRules": {
+      "description": "Tooltip when hovering the top-most cell of the global-rules column.",
+      "message": "Yleiset säännöt: tämä sarake on säännöille, joita käytetään kaikille sivustoille."
+   },
+   "popupTipLocalRules": {
+      "description": "Tooltip when hovering the top-most cell of the local-rules column.",
+      "message": "Paikalliset säännöt: tämä sarake on säännöille, joita käytetään vain nykyiselle sivustolle.\nPaikalliset säännöt ohittavat yleiset säännöt."
+   },
+   "popupTipLog": {
+      "description": "Tooltip used for the logger icon in the panel",
+      "message": "Näytä pyyntöjen loki"
+   },
+   "popupTipNoCosmeticFiltering": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Aktivoi kosmeettinen suodatus tälle sivulle"
+   },
+   "popupTipNoCosmeticFiltering1": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Klikkaa poistaaksesi käytöstä kosmeettinen suodatus tällä sivustolla"
+   },
+   "popupTipNoCosmeticFiltering2": {
+      "description": "Tooltip for the no-cosmetic-filtering per-site switch",
+      "message": "Klikkaa ottaaksesi käyttöön kosmeettinen suodatus tällä sivustolla"
+   },
+   "popupTipNoLargeMedia": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Ota käyttöön suurien mediaelementtien estäminen tälle sivustolle"
+   },
+   "popupTipNoLargeMedia1": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Klikkaa estääksesi isot mediaelementit tällä sivustolla"
+   },
+   "popupTipNoLargeMedia2": {
+      "description": "Tooltip for the no-large-media per-site switch",
+      "message": "Klikkaa salliaksesi isot mediaelementit tällä sivustolla"
+   },
+   "popupTipNoPopups": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Aktivoi ponnahdusikkunoiden esto tälle sivulle"
+   },
+   "popupTipNoPopups1": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Klikkaa estääksesi kaikki ponnahdusikkunat tällä sivustolla"
+   },
+   "popupTipNoPopups2": {
+      "description": "Tooltip for the no-popups per-site switch",
+      "message": "Klikkaa salliaksesi kaikki ponnahdusikkunat tällä sivustolla"
+   },
+   "popupTipNoRemoteFonts": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Estä etäladattavat fontit tällä sivulla"
+   },
+   "popupTipNoRemoteFonts1": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Klikkaa estääksesi ulkoiset kirjasimet tällä sivustolla"
+   },
+   "popupTipNoRemoteFonts2": {
+      "description": "Tooltip for the no-remote-fonts per-site switch",
+      "message": "Klikkaa salliaksesi ulkoiset kirjasimet tällä sivustolla"
+   },
+   "popupTipNoScripting1": {
+      "description": "Tooltip for the no-scripting per-site switch",
+      "message": "Klikkaa poistaaksesi JavaScript käytöstä tältä sivulta"
+   },
+   "popupTipNoScripting2": {
+      "description": "Tooltip for the no-scripting per-site switch",
+      "message": "Klikkaa palauttaaksesi JavaScriptin käyttö tällä sivulla"
+   },
+   "popupTipPicker": {
+      "description": "English: Enter element picker mode",
+      "message": "Siirry elementtien valintaan"
+   },
+   "popupTipRevertRules": {
+      "description": "Tooltip when hovering over the eraser in the dynamic filtering pane.",
+      "message": "Klikkaa kumotaksesi muutoksesi."
+   },
+   "popupTipSaveRules": {
+      "description": "Tooltip when hovering over the padlock in the dynamic filtering pane.",
+      "message": "Klikkaa tehdäksesi muutoksistasi pysyvät."
+   },
+   "popupTipZapper": {
+      "description": "Tooltip for the element-zapper icon in the popup panel",
+      "message": "Aktivoi elementtien piilotus/palautus -poimintatyökalu"
+   },
+   "popupVersion": {
+      "description": "Example of use: Version 1.26.4",
+      "message": "Versio"
+   },
+   "relaxBlockingMode": {
+      "description": "Label for keyboard shortcut used to relax blocking mode (meant to replace 'Toggle blocking profile')",
+      "message": "Kevennä estotilaa"
+   },
+   "removeAdsInPrivate": {
+      "description": "English:Remove ads collected in private mode - settings page",
+      "message": "Poista yksityisessä tilassa kerätyt mainokset"
+   },
+   "respectDNTPrompt": {
+      "description": "English: Make exceptions for non-tracking Ads",
+      "message": "Tee poikkeus mainoksille jotka eivät seuraa"
+   },
+   "rulesCommit": {
+      "description": "This will persist temporary rules",
+      "message": "Lähetä"
+   },
+   "rulesDefaultFileName": {
+      "description": "default file name to use",
+      "message": "dynaamiset-AdNauseam-saantoni_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "description": "Will enable manual-edit mode (textarea)",
+      "message": "Muokkaa"
+   },
+   "rulesEditDiscard": {
+      "description": "Will discard manually-edited content and exit manual-edit mode",
+      "message": "Hylkää"
+   },
+   "rulesEditSave": {
+      "description": "Will save manually-edited content and exit manual-edit mode",
+      "message": "Tallenna"
+   },
+   "rulesExport": {
+      "description": "",
+      "message": "Vie tiedostoon..."
+   },
+   "rulesFormatHint": {
+      "description": "English: dynamic rule syntax and full documentation.",
+      "message": "Säännön syntaksi: \u003Ccode>lähde kohde tyyppi toiminto\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>täysi dokumentaatio\u003C/a>)."
+   },
+   "rulesHint": {
+      "description": "English: List of your dynamic filtering rules.",
+      "message": "Lista dynaamisista suodatussäännöistäsi."
+   },
+   "rulesImport": {
+      "description": "",
+      "message": "Tuo tiedostosta..."
+   },
+   "rulesPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Omat säännöt"
+   },
+   "rulesPermanentHeader": {
+      "description": "header",
+      "message": "Pysyvät säännöt"
+   },
+   "rulesRevert": {
+      "description": "This will remove all temporary rules",
+      "message": "Kumoa"
+   },
+   "rulesTemporaryHeader": {
+      "description": "header",
+      "message": "Väliaikaiset säännöt"
+   },
+   "settingPerSiteSwitchGroup": {
+      "description": "",
+      "message": "Oletustoiminto"
+   },
+   "settingPerSiteSwitchGroupSynopsis": {
+      "description": "",
+      "message": "Nämä oletustoiminnot voidaan ohittaa sivustokohtaisesti"
+   },
+   "settingsAdvancedUserPrompt": {
+      "description": "",
+      "message": "Olen edistynyt käyttäjä (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Lue tämä\u003C/a>)"
+   },
+   "settingsAdvancedUserSettings": {
+      "description": "For the tooltip of a link which gives access to advanced settings",
+      "message": "lisäasetukset"
+   },
+   "settingsCloudStorageEnabledPrompt": {
+      "description": "",
+      "message": "Ota käyttöön tuki pilvitallennukselle"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "description": "English: Hide placeholders of blocked elements",
+      "message": "Piilota estettyjen elementtien paikanpitäjät"
+   },
+   "settingsColorBlindPrompt": {
+      "description": "English: Color-blind friendly",
+      "message": "Aktivoi vaihtoehtoiset värit puna-vihervärien sijaan"
+   },
+   "settingsContextMenuPrompt": {
+      "description": "English: Make use of context menu where appropriate",
+      "message": "Käytä sisältövalikkoa, kun mahdollista"
+   },
+   "settingsExtraPrivacyPrompt": {
+      "description": "English: Interface",
+      "message": "Extra yksityisyys"
+   },
+   "settingsHyperlinkAuditingDisabledPrompt": {
+      "description": "English: ",
+      "message": "Estä linkkien seuranta"
+   },
+   "settingsIconBadgePrompt": {
+      "description": "English: Show the number of found Ads on the icon",
+      "message": "Näyttää mainoksien lukumäärä kuvakkeessa"
+   },
+   "settingsInterfacePrompt": {
+      "description": "English: Interface",
+      "message": "Käyttöliittymä"
+   },
+   "settingsLastBackupPrompt": {
+      "description": "English: Last backup:",
+      "message": "Viimeisin varmuuskopio:"
+   },
+   "settingsLastRestorePrompt": {
+      "description": "English: Last restore:",
+      "message": "Viimeisin palautus:"
+   },
+   "settingsNoCSPReportsPrompt": {
+      "description": "background information: https://github.com/gorhill/uBlock/issues/3150",
+      "message": "Estä CSP-raportit"
+   },
+   "settingsNoCosmeticFilteringPrompt": {
+      "description": "",
+      "message": "Poista kosmeettinen suodatus käytöstä"
+   },
+   "settingsNoLargeMediaPrompt": {
+      "description": "",
+      "message": "Estä mediaelementit, jotka ovat suurempia kuin {{input:number}} kt"
+   },
+   "settingsNoRemoteFontsPrompt": {
+      "description": "",
+      "message": "Estä etäladattavat kirjasimet"
+   },
+   "settingsNoScriptingPrompt": {
+      "description": "The default state for the per-site no-scripting switch",
+      "message": "Poista JavaScript käytöstä"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Asetukset"
+   },
+   "settingsPrefetchingDisabledPrompt": {
+      "description": "English: ",
+      "message": "Estä linkkien esihaku (jotta sitä kautta ei voi ladata estettyä sisältöä)"
+   },
+   "settingsStrictBlockingMode": {
+      "description": "English: Activate Strict Blocking Mode",
+      "message": "Ota käyttöön tiukka estotila"
+   },
+   "settingsTooltipsPrompt": {
+      "description": "A checkbox in the Settings pane",
+      "message": "Poista käytöstä työkaluvinkit"
+   },
+   "settingsWebRTCIPAddressHiddenPrompt": {
+      "description": "English: ",
+      "message": "Estä WebRTC:tä vuotamasta paikallista IP-osoitetta"
+   },
+   "shortcutCapturePlaceholder": {
+      "description": "Placeholder string for input field used to capture a keyboard shortcut",
+      "message": "Syötä pikanäppäimet"
+   },
+   "shortcutsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Pikakuvakkeet"
+   },
+   "showDashboardButton": {
+      "description": "Firefox/Fennec-specific: Show Dashboard",
+      "message": "Näytä Hallintapaneeli"
+   },
+   "showNetworkLogButton": {
+      "description": "Firefox/Fennec-specific: Show Logger",
+      "message": "Näytä loki"
+   },
+   "statsPageName": {
+      "description": "Title for the logger window",
+      "message": "AdNauseam — Verkkopyyntöjen loki"
+   },
+   "storageUsed": {
+      "description": " In Setting pane, renders as (example): Storage used: 13.2 MB",
+      "message": "Tallennustilaa käytössä: {{value}} {{unit}}"
+   },
+   "subscriberConfirm": {
+      "description": "English: The message seen by the user to confirm subscription to a ABP filter list",
+      "message": "AdNauseam: Lisätäänkö seuraava URL-osoite mukautettujen suodattimien luetteloihisi?\n\nNimi: \"{{title}}\"\nURL-osoite: {{url}}"
+   },
+   "toggleBlockingProfile": {
+      "description": "Label for keyboard shortcut used to toggle blocking profile",
+      "message": "Valitse esto-profiili"
+   },
+   "topAdnetworks": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Yleisimmät mainosverkostot"
+   },
+   "topSites": {
+      "description": "appears in ADN vault/My Statistics",
+      "message": "Yleisimmät sivustot"
+   },
+   "whitelistApply": {
+      "description": "English: Apply changes",
+      "message": "Vahvista muutokset"
+   },
+   "whitelistExport": {
+      "description": "English: Export",
+      "message": "Vie"
+   },
+   "whitelistExportFilename": {
+      "description": "The default filename to use for import/export purpose",
+      "message": "minun-AdNauseam-valkolista_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "description": "English: Import and append",
+      "message": "Tuo ja lisää"
+   },
+   "whitelistPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Valkoinen lista"
+   },
+   "whitelistPrompt": {
+      "description": "The name of the trusted sites pane.",
+      "message": "Lista osoitteista, joissa haluat kytkeä AdNauseam:n pois päältä. Kirjoita yksi osoite kullekin riville. Virheelliset säännöt ohitetaan."
+   }
+}

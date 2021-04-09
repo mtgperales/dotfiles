@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "高级"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "请输入要禁用 LocalCDN 的域名。每行一个。"
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "在以下域名中暂停 LocalCDN："
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "自安装以来本地 CDN 资源的注入次数。"
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "测试版"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "如果允许加载缺少的资源，则不会阻止到 \"fonts.googleapis.com\" 的连接。开启此选项可阻止这些请求。"
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "屏蔽 Google Fonts"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "如果请求的资源在本地不可用，则取消当前被拦截的请求。"
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "阻止缺失资源的请求"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "高级"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "基础"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "信息"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "其他"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "如果资源缺失，改变徽章颜色。"
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "在图标上标示缺失的资源"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "选择一个此扩展程序的图标"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "复制"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "确定要删除所有的统计数据吗？"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "导入失败"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "导入成功"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "防止误发被屏蔽的请求到 CDN。"
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "禁用链接预读取"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "将请求重定向到本地资源，保护你免于 CDN（内容分发网络）的跟踪。"
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "禁用"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "这个功能会破坏网站功能。除非你准备手动将受影响的域名添加到允许列表中，否则请勿开启。"
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "如果你正在使用广告拦截器，你可以在这里生成规则。你需要手动把规则添加到广告拦截器中。"
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "为你的广告拦截器生成规则集"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "导入/导出"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "统计数据"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "存储类型"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "隐藏捐赠按钮"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "输入 HTML 过滤器要处理或忽略的域名，每行一个。"
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "不要将 HTML 过滤器应用于以下域名："
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "对这些域名应用 HTML 过滤器："
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "此功能当前正处于实验阶段。数据全部存储在本地，不会外传。"
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "内部统计数据"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "平均（每天的替换）"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "删除"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "允许以下域名加载 Google Fonts，每行一个。"
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "捐赠"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "备份到文件"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "从文件还原"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "已替换框架"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "过滤 HTML 源码"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "上月"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "上周"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "去年"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "本地"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "同步"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "今天"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "上次更新："
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "你可以使用菜单中的图标打开日志。 关闭浏览器或禁用日志记录后，日志将被删除。"
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "启用日志记录"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "开启此选项会始终应用 HTML 过滤器，此时列表中的域名将被忽略；若禁用此选项，则 HTML 过滤器仅应用于此列表中的域名。"
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "反转 HTML 过滤器"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "此功能可能会破坏网站。请阅读 Wiki 页面以了解更多信息。"
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "选项"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "在扩展图标上显示注入资源的数量。"
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "在图标上显示注入数量"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "从被允许的 CDN 请求中擦除敏感数据，以保护隐私。"
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "清除被允许的请求中的元数据"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "始终"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "从不 （静默更新）"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "仅当有新的 CDN 和规则时"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "更新后进行通知"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "网站显示不正常？"
+   }
+}

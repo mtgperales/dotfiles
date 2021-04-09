@@ -1,0 +1,266 @@
+{
+   "advancedLabel": {
+      "description": "Advanced label",
+      "message": "高度な設定"
+   },
+   "allowlistedDomainsDescription": {
+      "description": "Enter domains to disable LocalCDN there. One entry per line.",
+      "message": "LocalCDNを無効にするドメインを入力してください。1行につき1件入力できます。"
+   },
+   "allowlistedDomainsTitle": {
+      "description": "Deactivate LocalCDN for these domains:",
+      "message": "LocalCDNを無効にするドメイン:"
+   },
+   "amountInjectedDescription": {
+      "description": "Amount injected description.",
+      "message": "インストールしてからローカルのCDNリソースが使用された合計回数です。"
+   },
+   "betaLabel": {
+      "description": "beta",
+      "message": "ベータ"
+   },
+   "blockGoogleFontsDescription": {
+      "description": "If requests for missing resources are allowed, connections to \"fonts.googleapis.com\" are not blocked. Enable this option to block these requests.",
+      "message": "不足しているリソースへのリクエストが許可されている場合、「fonts.googleapis.com」への接続はブロックされません。このオプションを有効にすると、これらのリクエストをブロックすることができます。"
+   },
+   "blockGoogleFontsTitle": {
+      "description": "Block Google Fonts",
+      "message": "Google Fontsをブロックする"
+   },
+   "blockMissingDescription": {
+      "description": "Block requests for missing resources description.",
+      "message": "必要なリソースがローカルで利用できない場合、リクエストを取り消します。"
+   },
+   "blockMissingTitle": {
+      "description": "Block requests for missing resources title",
+      "message": "不足しているリソースへのリクエストをブロックする"
+   },
+   "btnAdvanced": {
+      "description": "Advanced",
+      "message": "高度な設定"
+   },
+   "btnGeneral": {
+      "description": "Basic",
+      "message": "基本"
+   },
+   "btnInfo": {
+      "description": "Info",
+      "message": "情報"
+   },
+   "btnOther": {
+      "description": "Other",
+      "message": "その他"
+   },
+   "changeBadgeColorMissingResourcesDescription": {
+      "description": "Change the badge color if resources are missing.",
+      "message": "不足しているリソースがある場合にバッジの色を変化させます。"
+   },
+   "changeBadgeColorMissingResourcesTitle": {
+      "description": "Indicate missing resources on the icon",
+      "message": "リソースの不足をアイコンに表示する"
+   },
+   "chooseIconStyle": {
+      "description": "Choose an icon for this extension",
+      "message": "拡張機能のアイコンを選択"
+   },
+   "copyRuleSet": {
+      "description": "Text of button to copy ruleset",
+      "message": "コピー"
+   },
+   "dialogConfirmDeleteStatistics": {
+      "description": "Are you sure you want to delete all the statistics?",
+      "message": "本当に全ての統計情報を削除してもよろしいですか？"
+   },
+   "dialogImportFailed": {
+      "description": "Import failed",
+      "message": "インポートに失敗しました"
+   },
+   "dialogImportSuccessful": {
+      "description": "Import successful",
+      "message": "インポートに成功しました"
+   },
+   "disablePrefetchDescription": {
+      "description": "Disable prefetch description.",
+      "message": "許可されていないリクエストがCDNへ流出するのを防ぎます。"
+   },
+   "disablePrefetchTitle": {
+      "description": "Disable prefetch title",
+      "message": "リンクプリフェッチを無効にする"
+   },
+   "extensionDescription": {
+      "description": "Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.",
+      "message": "CDNから配信されるリソースをローカルリソースへリダイレクトし、トラッキングからあなたを守ります。"
+   },
+   "featureBreaksWebsitesButton": {
+      "description": "Disable",
+      "message": "無効化"
+   },
+   "featureBreaksWebsitesDescription": {
+      "description": "This feature breaks websites. Do not leave it enabled, unless you are prepared to manually add affected domains to the allow list.",
+      "message": "この機能はウェブサイトの機能を妨げる場合があります。影響を受けたサイトのドメインをその都度この許可リストに追加できない限りは、この機能を有効化したままにしないでください。"
+   },
+   "generateRuleSetDescription": {
+      "description": "In case you are using an adblocker you can generate the rules here. You have to add these rules manually in your adblocker.",
+      "message": "広告ブロッカーを使用している場合はここで専用のルールを生成できます。生成されたルールは手動で広告ブロッカーに設定する必要があります。"
+   },
+   "generateRuleSetTitle": {
+      "description": "Generate rule sets for your adblocker",
+      "message": "各種広告ブロッカー向けのルールセットを生成する"
+   },
+   "headerImportExport": {
+      "description": "Import/Export",
+      "message": "インポート/エクスポート"
+   },
+   "headerStatistics": {
+      "description": "Statistics. The header of a statistics page.",
+      "message": "統計"
+   },
+   "headerStorageType": {
+      "description": "Storage type",
+      "message": "ストレージタイプ"
+   },
+   "hideDonationButton": {
+      "description": "Hide donation button",
+      "message": "寄付ボタンを隠す"
+   },
+   "htmlFilterDomainsDescription": {
+      "description": "Enter the domains to be handled or ignored by the HTML filter. One entry per line.",
+      "message": "HTMLフィルターを有効化もしくは無効化するドメインを入力します。1行につき1件入力できます。"
+   },
+   "htmlFilterDomainsTitleExclude": {
+      "description": "Do not apply HTML filter to these domains:",
+      "message": "HTMLフィルターを適用させないドメイン:"
+   },
+   "htmlFilterDomainsTitleInclude": {
+      "description": "Apply HTML filter for these domains:",
+      "message": "HTMLフィルターを適用させるドメイン："
+   },
+   "internalStatisticsDescription": {
+      "description": "No data transmission. It’s all local on your device.",
+      "message": "この機能は現在実験段階です。データは外部に転送されず、全てローカル上で処理されます。"
+   },
+   "internalStatisticsTitle": {
+      "description": "Internal statistics",
+      "message": "内部統計"
+   },
+   "labelAvg": {
+      "description": "Followed by a number of average injections per day within a specific period.",
+      "message": "平均 (1日あたりの置き換え回数)"
+   },
+   "labelDelete": {
+      "description": "Button to delete all statistics data.",
+      "message": "削除"
+   },
+   "labelDomainsAllowlistGoogleFonts": {
+      "description": "These domains are allowed to load Google Fonts. One entry per line.",
+      "message": "これらのドメインでは、Google Fontsの読み込みを許可しています。1行につき1件入力できます。"
+   },
+   "labelDonate": {
+      "description": "Donate",
+      "message": "寄付する"
+   },
+   "labelExportData": {
+      "description": "Back up to file",
+      "message": "ファイルにバックアップする"
+   },
+   "labelImportData": {
+      "description": "Restore from file",
+      "message": "ファイルから復元する"
+   },
+   "labelInjectedFrameworks": {
+      "description": "Followed by a number of injections within a specific period.",
+      "message": "差し替えられたフレームワーク"
+   },
+   "labelManipulateDOM": {
+      "description": "Filter HTML source code",
+      "message": "HTMLソースコードをフィルタリングする"
+   },
+   "labelPastMonth": {
+      "description": "Statistics view for past month.",
+      "message": "先月"
+   },
+   "labelPastWeek": {
+      "description": "Statistics view for past week.",
+      "message": "先週"
+   },
+   "labelPastYear": {
+      "description": "Statistics view for past year.",
+      "message": "昨年"
+   },
+   "labelStorageTypeLocal": {
+      "description": "Local",
+      "message": "ローカル"
+   },
+   "labelStorageTypeSync": {
+      "description": "Sync",
+      "message": "同期"
+   },
+   "labelToday": {
+      "description": "Statistics view for today.",
+      "message": "今日"
+   },
+   "lastUpdate": {
+      "description": "Last update:",
+      "message": "最終更新日："
+   },
+   "loggingDescription": {
+      "description": "You can open the log with the icon in the menu. The log will be deleted when you close the browser or disable logging.",
+      "message": "ログはメニュー内のアイコンから表示できます。ブラウザを閉じるかログを無効にするとログは削除されます。"
+   },
+   "loggingTitle": {
+      "description": "Enable logging",
+      "message": "ログを有効にする"
+   },
+   "negateHtmlFilterListDescription": {
+      "description": "Enable this option to always apply the HTML filter. The domains in the list will be ignored then. If this option is disabled, the HTML filter is only applied to domains in the list.",
+      "message": "このオプションを有効にするとHTMLフィルターは常時適用されますが、リスト内のドメインでは無効になります。このオプションが無効の場合は、HTMLフィルターはリスト内のドメインでのみ適用される用になります。"
+   },
+   "negateHtmlFilterListTitle": {
+      "description": "Invert HTML filter",
+      "message": "HTMLフィルターを反転"
+   },
+   "negateHtmlFilterListWarning": {
+      "description": "This function can break websites. Please note the information on the Wiki page.",
+      "message": "この機能はウェブサイトの機能を妨げる場合があります。詳細はWikiページをご覧ください。"
+   },
+   "optionsTitle": {
+      "description": "Options title",
+      "message": "オプション"
+   },
+   "showIconBadgeDescription": {
+      "description": "Show icon badge description.",
+      "message": "ローカルリソースに差し替えた回数を拡張機能のアイコンに表示します。"
+   },
+   "showIconBadgeTitle": {
+      "description": "Show icon badge title",
+      "message": "差し替え回数をアイコンに表示する"
+   },
+   "stripMetadataDescription": {
+      "description": "Strip metadata description.",
+      "message": "プライバシー向上のために、許可されたCDNリクエストから機密データを取り除きます。"
+   },
+   "stripMetadataTitle": {
+      "description": "Strip metadata title",
+      "message": "許可されたリクエストからメタデータを取り除く"
+   },
+   "updateNotificationAlways": {
+      "description": "Always",
+      "message": "常に"
+   },
+   "updateNotificationNever": {
+      "description": "Never (Silent Updates)",
+      "message": "しない (サイレント更新)"
+   },
+   "updateNotificationOnlyRules": {
+      "description": "Only if new CDNs and rules",
+      "message": "新しいCDNやルールが追加された場合"
+   },
+   "updateNotificationTitle": {
+      "description": "Notification after an update",
+      "message": "アップデート後の通知"
+   },
+   "websiteBroken": {
+      "description": "Website broken?",
+      "message": "ウェブサイトが機能していませんか？"
+   }
+}
